@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="非洲矿业商务英语双语点读课程。逐句听读、角色扮演和情境训练。">
+<title>矿业商务英语 · FIELD NOTES</title>
+<style>
+:root{color-scheme:light;--ink:#1c302a;--muted:#51635a;--paper:#f5f3eb;--panel:#fffefa;--green:#214c3d;--line:#d8ded4;--gold:#edcd8e}
+*{box-sizing:border-box}html{scroll-padding-top:5rem}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 system-ui,"Microsoft YaHei",sans-serif}button,select{font:inherit}a{color:var(--green)}a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #a9601d;outline-offset:3px}
+.shell{max-width:1136px;margin:auto;padding-inline:clamp(16px,4vw,44px)}header{background:#172f27;color:#fff}header .shell{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:66px}header a{color:#fff;text-decoration:none;font-weight:700}.mark{display:inline-block;color:var(--gold);font:700 12px/1.4 system-ui;letter-spacing:.18em}.hero{background:#214c3d;color:#fff;padding-block:clamp(30px,7vw,72px);border-bottom:5px solid var(--gold)}.hero h1{font-size:clamp(28px,5vw,53px);line-height:1.17;margin:.35em 0 .22em;max-width:19em}.hero .sub{font-size:clamp(16px,2vw,21px);color:#dce7de;margin:.5em 0}.hero .meta{font-size:14px;color:#f0dfb6;margin:1em 0 0}
+.toolbar{position:sticky;top:0;z-index:2;background:var(--paper);border-bottom:1px solid var(--line)}.toolbar .shell{display:flex;align-items:center;gap:12px;justify-content:space-between;min-height:60px}.status{font-size:14px;color:var(--muted);margin:0}.controls{display:flex;gap:8px;flex-wrap:wrap}.btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:6px 12px;border:1px solid #9aac9d;border-radius:8px;background:var(--panel);color:var(--green);font-weight:650;cursor:pointer;white-space:nowrap}.btn:hover,.btn[aria-pressed=true]{background:#e4efe6}.btn.stop{background:var(--green);color:white;border-color:var(--green)}.btn:disabled{opacity:.55;cursor:default}
+.layout{display:grid;grid-template-columns:230px minmax(0,1fr);gap:32px;padding-block:28px 40px}aside{align-self:start;position:sticky;top:82px}nav,.module{border:1px solid var(--line);border-radius:14px;background:var(--panel)}nav{padding:14px}nav summary{cursor:pointer;font-weight:700}nav ol{margin:8px 0 0;padding-left:27px}nav li{font-size:14px;padding-block:4px}nav a{text-decoration:none}nav a:hover{text-decoration:underline}.archive{margin-bottom:14px}.archive label{display:block;font-size:13px;font-weight:700;margin-bottom:5px}.archive select{width:100%;min-height:44px;border:1px solid #9aac9d;border-radius:8px;background:var(--panel);color:var(--ink);padding:4px 8px}
+.module{margin-bottom:18px;overflow:hidden}.module-head{display:flex;gap:12px;align-items:flex-start;padding:18px 20px;background:#edf1e8}.num{border-radius:6px;background:#dce7d9;color:var(--green);font-weight:750;padding:4px 8px;font-size:13px}.module h2{margin:0;font-size:21px;line-height:1.3}.module .en-label{margin:3px 0 0;font-size:13px;color:var(--muted)}.hint{font-size:14px;color:var(--muted);margin:0;padding:12px 20px}.lines{padding:0 20px;list-style:none;margin:0}.line{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;padding:13px 0;border-top:1px solid var(--line);align-items:center}.line p{margin:0}.line .en{font-weight:650}.line .zh{margin-top:4px;font-size:15px;color:var(--muted)}.line summary{cursor:pointer;color:var(--green)}footer{border-top:1px solid var(--line);padding-block:20px;color:var(--muted);font-size:13px}
+@media(max-width:760px){.layout{grid-template-columns:1fr;gap:16px;padding-block:16px 28px}aside{position:static}nav ol{columns:2}.module-head,.hint{padding-inline:14px}.lines{padding-inline:14px}.line{grid-template-columns:1fr;gap:8px}.toolbar .shell{min-height:56px}.btn{font-size:14px}}
+@media(max-width:360px){nav ol{columns:1}}
+</style>
+</head>
+<body>
+<header><div class="shell"><a href="./">矿业商务英语</a><span class="mark" lang="en">FIELD NOTES / AFRICA</span></div></header>
+<section class="hero"><div class="shell"><span class="mark" id="day">每日点读课程</span><h1 id="title">非洲矿业商务英语</h1><p id="subtitle" class="sub" lang="en"></p><p id="meta" class="meta"></p></div></section>
+<div class="toolbar"><div class="shell"><p id="status" class="status" role="status" aria-live="polite">点击英文旁的倍速按钮开始点读</p><button class="btn stop" id="stop" type="button" disabled>■ 停止朗读</button></div></div>
+<main class="shell layout">
+<aside>
+<div class="archive"><label for="history">历史课程</label><select id="history" disabled></select></div>
+<nav aria-label="课程目录"><details id="navigation" open><summary>课程目录 · 14 模块</summary><ol id="outline"></ol></details></nav>
+</aside>
+<div id="lesson" aria-busy="true"><p>正在加载课程…</p></div>
+</main>
+<footer><div class="shell">课程使用虚构情景及教学数据。发音由浏览器的英语语音引擎提供。</div></footer>
+<script>
+'use strict';
+const get = id => document.getElementById(id);
+const content = get('lesson');
+const status = get('status');
+const stopButton = get('stop');
+const synth = window.speechSynthesis;
+const speechAvailable = Boolean(synth && window.SpeechSynthesisUtterance);
+let active = null;
+function element(tag, className, value) {
+  const node = document.createElement(tag);
+  if (className) node.className = className;
+  if (value) node.textContent = value;
+  return node;
+}
+function clearSpeech(message) {
+  if (active) active.button.setAttribute('aria-pressed', 'false');
+  active = null;
+  stopButton.disabled = true;
+  status.textContent = message;
+}
+function stop(message = '已停止朗读') {
+  clearSpeech(message);
+  if (speechAvailable) synth.cancel();
+}
+function speak(text, rate, button) {
+  stop('正在启动朗读…');
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = 'en-US';
+  utterance.rate = rate;
+  const voices = synth.getVoices();
+  const english = voices.find(voice => /^en[-_]US$/i.test(voice.lang))
+    || voices.find(voice => /^en(?:[-_]|$)/i.test(voice.lang));
+  if (english) {
+    utterance.voice = english;
+    utterance.lang = english.lang;
+  }
+  active = {utterance, button};
+  stopButton.disabled = false;
+  button.setAttribute('aria-pressed', 'true');
+  utterance.onstart = () => {
+    if (active?.utterance === utterance) status.textContent = rate === 1 ? '正在正常朗读 · 1.0×' : '正在慢速朗读 · 0.72×';
+  };
+  utterance.onend = () => {
+    if (active?.utterance === utterance) clearSpeech('朗读结束');
+  };
+  utterance.onerror = event => {
+    if (active?.utterance === utterance) clearSpeech('朗读未成功（' + event.error + '）。请检查设备的英语语音设置。');
+  };
+  try {
+    synth.speak(utterance);
+  } catch {
+    clearSpeech('无法启动朗读。请检查浏览器的英语语音设置。');
+  }
+}
+stopButton.addEventListener('click', () => stop());
+window.addEventListener('pagehide', () => { if (speechAvailable) synth.cancel(); });
+if (!speechAvailable) status.textContent = '此浏览器未提供英文语音朗读。';
+function renderLine(pair, index, dictation) {
+  const [english, chinese] = pair;
+  const item = element('li', 'line');
+  const text = element(dictation ? 'details' : 'div');
+  if (dictation) text.append(element('summary', '', '查看句子 ' + (index + 1)));
+  const englishText = element('p', 'en', english);
+  englishText.lang = 'en';
+  text.append(englishText, element('p', 'zh', chinese));
+  const controls = element('div', 'controls');
+  for (const [label, rate] of [['正常 1.0×', 1], ['慢速 0.72×', 0.72]]) {
+    const button = element('button', 'btn', label);
+    button.type = 'button';
+    button.disabled = !speechAvailable;
+    button.setAttribute('aria-label', label + ' · 第 ' + (index + 1) + ' 条');
+    button.setAttribute('aria-pressed', 'false');
+    button.addEventListener('click', () => speak(english, rate, button));
+    controls.append(button);
+  }
+  item.append(text, controls);
+  return item;
+}
+async function readJson(path) {
+  const response = await fetch(path, {cache:'no-cache'});
+  if (!response.ok) throw new Error('HTTP ' + response.status);
+  return response.json();
+}
+function renderLesson(lesson) {
+  get('day').textContent = 'DAILY LESSON / DAY ' + lesson.day;
+  get('title').textContent = lesson.title;
+  get('subtitle').textContent = lesson.english;
+  get('meta').textContent = lesson.date + ' · 基加利课程日期 · ' + lesson.minutes + ' 分钟 · 14 个模块';
+  document.title = 'Day ' + lesson.day + ' · ' + lesson.title + ' | 矿业商务英语';
+  content.replaceChildren();
+  for (const [index, module] of lesson.modules.entries()) {
+    const section = element('section', 'module');
+    section.id = 'module-' + (index + 1);
+    const heading = element('div', 'module-head');
+    const labels = element('div');
+    const enLabel = element('p', 'en-label', module.english);
+    enLabel.lang = 'en';
+    labels.append(element('h2', '', module.title), enLabel);
+    heading.append(element('span', 'num', String(index + 1).padStart(2,'0')), labels);
+    const list = element('ol', 'lines');
+    list.append(...module.lines.map((pair, lineIndex) => renderLine(pair, lineIndex, index === 9)));
+    section.append(heading, element('p', 'hint', module.hint), list);
+    content.append(section);
+    const link = element('a', '', module.title);
+    link.href = '#' + section.id;
+    const entry = element('li');
+    entry.append(link);
+    get('outline').append(entry);
+  }
+  if (location.hash) document.getElementById(location.hash.slice(1))?.scrollIntoView();
+}
+async function start() {
+  const catalog = await readJson('./catalog.json');
+  const courses = catalog.courses.slice().sort((a, b) => b.day - a.day);
+  const history = get('history');
+  const requested = new URLSearchParams(location.search).get('day');
+  const selected = requested === null ? courses[0] : courses.find(course => String(course.day) === requested);
+  if (!selected) history.append(new Option('选择历史课程', ''));
+  for (const course of courses) history.append(new Option('Day ' + course.day + ' · ' + course.date, course.day));
+  history.disabled = false;
+  history.addEventListener('change', () => {
+    if (history.value) location.href = '?day=' + encodeURIComponent(history.value);
+  });
+  if (!selected) {
+    content.replaceChildren(element('p', '', '所选课程尚未发布，请在历史课程中选择其他日期。'));
+    return;
+  }
+  history.value = selected.day;
+  const lesson = await readJson('./day-' + selected.day + '.json');
+  if (lesson.day !== selected.day || lesson.date !== selected.date || lesson.modules.length !== 14) {
+    throw new Error('课程资料不完整');
+  }
+  renderLesson(lesson);
+}
+if (matchMedia('(max-width:760px)').matches) get('navigation').open = false;
+start().catch(error => {
+  content.replaceChildren(element('p', '', '课程暂时无法加载（' + error.message + '）。请刷新网页重试。'));
+}).finally(() => content.setAttribute('aria-busy', 'false'));
+</script>
+</body>
+</html>

@@ -1,0 +1,455 @@
+{
+  "day": 26,
+  "date": "2026-11-07",
+  "title": "押运途中封签异常与银行付款截止",
+  "english": "A seal discrepancy and a payment deadline",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "lines": [
+        [
+          "Seal integrity",
+          "封签完整性"
+        ],
+        [
+          "Escort officer",
+          "押运人员"
+        ],
+        [
+          "Discrepancy",
+          "差异"
+        ],
+        [
+          "Cut-off time",
+          "截止时间"
+        ],
+        [
+          "Chain of custody",
+          "货物或样品的交接链"
+        ]
+      ],
+      "hint": "逐词慢读三遍，再用正常语速复述。注意 integrity 和 discrepancy 的重音。"
+    },
+    {
+      "title": "高频词与短语",
+      "english": "Ten key terms",
+      "lines": [
+        [
+          "Seal number",
+          "封签号"
+        ],
+        [
+          "Weighbridge ticket",
+          "地磅单"
+        ],
+        [
+          "Escort log",
+          "押运日志"
+        ],
+        [
+          "Tamper evidence",
+          "篡改痕迹"
+        ],
+        [
+          "Payment hold",
+          "暂停付款"
+        ],
+        [
+          "Supporting documents",
+          "支持文件"
+        ],
+        [
+          "Beneficiary account",
+          "收款账户"
+        ],
+        [
+          "Discrepancy report",
+          "差异报告"
+        ],
+        [
+          "Release authorization",
+          "放行授权"
+        ],
+        [
+          "Escalation path",
+          "升级处理路径"
+        ]
+      ],
+      "hint": "先听慢速，再用正常语速读出英文并说出中文含义。"
+    },
+    {
+      "title": "核心句",
+      "english": "Ten core sentences",
+      "lines": [
+        [
+          "Please stop the truck at the designated checkpoint.",
+          "请在指定检查点停车。"
+        ],
+        [
+          "The seal number does not match the dispatch record.",
+          "封签号与发运记录不符。"
+        ],
+        [
+          "Do not break the seal without written authorization.",
+          "未获书面授权不得拆封。"
+        ],
+        [
+          "Please photograph all four sides of the container.",
+          "请拍摄集装箱四面。"
+        ],
+        [
+          "We need the original weighbridge ticket.",
+          "我们需要原始地磅单。"
+        ],
+        [
+          "The bank has placed the payment on hold.",
+          "银行已暂停该笔付款。"
+        ],
+        [
+          "Can you confirm the beneficiary details in writing?",
+          "能否书面确认收款人信息？"
+        ],
+        [
+          "Our deadline is three p.m. Kigali time.",
+          "截止时间为基加利时间下午三点。"
+        ],
+        [
+          "We will escalate this discrepancy to compliance.",
+          "我们将把差异提交合规部门。"
+        ],
+        [
+          "Release is subject to document verification.",
+          "放行以单证核验通过为前提。"
+        ]
+      ],
+      "hint": "练习时按停车、取证、暂停付款和书面放行的顺序复述。"
+    },
+    {
+      "title": "数字、金额、吨位、品位与汇率",
+      "english": "Numbers under pressure",
+      "lines": [
+        [
+          "The shipment weighs eighteen thousand four hundred and fifty kilograms, or eighteen point four five metric tonnes.",
+          "货重 18,450 公斤，即 18.45 公吨。"
+        ],
+        [
+          "The tin grade is sixty-two point five percent.",
+          "锡品位为 62.5%。"
+        ],
+        [
+          "The quoted price is nineteen thousand eight hundred US dollars per tonne.",
+          "报价为每吨 19,800 美元。"
+        ],
+        [
+          "One US dollar equals one thousand four hundred and seventy-five Rwandan francs in this exercise.",
+          "本题假设 1 美元兑换 1,475 卢旺达法郎。"
+        ],
+        [
+          "The payment amount is thirty-six thousand five hundred and thirty-one US dollars.",
+          "模拟付款金额为 36,531 美元。"
+        ],
+        [
+          "The dispatch record shows R W, zero four eight two one nine.",
+          "发运记录中的模拟封签号为 RW-048219。"
+        ],
+        [
+          "The seal on the container reads R W, zero four eight two nine one.",
+          "集装箱上的模拟封签号为 RW-048291。"
+        ],
+        [
+          "The last three digits do not match.",
+          "最后三位数字不一致。"
+        ]
+      ],
+      "hint": "以下数字均为教学假设。请口述重量、品位、报价、汇率和付款金额，然后对照两组虚构封签号。"
+    },
+    {
+      "title": "逐句跟读",
+      "english": "Shadowing",
+      "lines": [
+        [
+          "We have identified a seal-number discrepancy during the escorted transfer.",
+          "我们在押运途中发现封签号不一致。"
+        ],
+        [
+          "The truck is secure, and the driver has been instructed not to move.",
+          "车辆已安全停靠，司机已接到原地等待的指令。"
+        ],
+        [
+          "We are checking the weighbridge ticket, escort log, and dispatch photos before authorizing release.",
+          "我们正在核对地磅单、押运日志及发运照片，核验后才授权放行。"
+        ]
+      ],
+      "hint": "先听一遍，再逐句跟读五遍。每轮用 25–35 秒，最后脱稿复述。"
+    },
+    {
+      "title": "商务寒暄",
+      "english": "Small talk",
+      "lines": [
+        [
+          "How was the road from the mine site?",
+          "从矿区过来的路况怎么样？"
+        ],
+        [
+          "Mostly clear, but we had a short delay at the checkpoint.",
+          "基本畅通，但在检查点耽误了一会儿。"
+        ],
+        [
+          "Thanks for the update.",
+          "谢谢你告知最新情况。"
+        ],
+        [
+          "Is everyone safe?",
+          "大家都安全吗？"
+        ],
+        [
+          "Yes, the team is safe and the truck is parked securely.",
+          "是的，人员安全，车辆也已妥善停放。"
+        ]
+      ],
+      "hint": "先练习简短询问路况，再确认人员与车辆安全。"
+    },
+    {
+      "title": "矿业业务场景",
+      "english": "Mining operations",
+      "lines": [
+        [
+          "We cannot authorize payment based on an unverified seal record.",
+          "封签记录尚未核实，我们无法授权付款。"
+        ],
+        [
+          "Please provide the original dispatch documents and a signed discrepancy explanation.",
+          "请提供原始发运文件及签字确认的差异说明。"
+        ],
+        [
+          "Both parties should photograph the seal and compare the original weighbridge and sample records.",
+          "双方应拍摄封签，并核对原始地磅单和取样封样记录。"
+        ],
+        [
+          "If necessary, contact the traceability team and resume payment only after written clearance.",
+          "如有必要，请联系溯源团队，并在获得书面确认后恢复付款流程。"
+        ]
+      ],
+      "hint": "模拟场景为收货点验货、付款点结算。供应商要求先付款，押运员却发现封签号不符。练习先保障人员安全，再书面索取凭证。"
+    },
+    {
+      "title": "运输与押运",
+      "english": "Transport and escort",
+      "lines": [
+        [
+          "Keep the truck at the secure checkpoint.",
+          "请将车辆停在安全检查点。"
+        ],
+        [
+          "Do not open the container or replace the seal.",
+          "不要开箱或更换封签。"
+        ],
+        [
+          "Record the time, location, driver name, and both seal numbers.",
+          "记录时间、位置、司机姓名及两组封签号。"
+        ],
+        [
+          "Send clear photos to logistics and compliance.",
+          "向物流与合规团队发送清晰照片。"
+        ],
+        [
+          "Record the customs seal separately from the company seal.",
+          "请分别登记海关铅封和公司封签。"
+        ],
+        [
+          "Compare the stuffing report with the photos taken on site.",
+          "把装柜报告与现场照片进行核对。"
+        ]
+      ],
+      "hint": "向押运人员口述四条指令，再说明如何区分海关铅封和公司封签。"
+    },
+    {
+      "title": "十五分钟角色扮演",
+      "english": "15-minute role-play",
+      "lines": [
+        [
+          "Play the procurement lead and respond to a supplier demanding immediate payment of thirty-six thousand five hundred and thirty-one dollars.",
+          "第 1–5 分钟扮演采购负责人，回应供应商立即支付 36,531 美元的要求。"
+        ],
+        [
+          "I understand your request, but payment will remain on hold until we verify the seal record.",
+          "我理解你的要求，但在封签记录核验完成前，付款将继续暂停。"
+        ],
+        [
+          "Play the logistics lead and ask the escort officer for the location, photos, weighbridge ticket, and stuffing report.",
+          "第 6–10 分钟扮演物流负责人，向押运员索取位置、照片、地磅单及装柜报告。"
+        ],
+        [
+          "Please send your location first, then send the photos and the original weighbridge ticket.",
+          "请先发送你的位置，然后发送照片和原始地磅单。"
+        ],
+        [
+          "Play the finance lead and explain the hold to the bank before the cut-off time.",
+          "第 11–15 分钟扮演财务负责人，在截止前向银行解释暂缓付款的原因。"
+        ],
+        [
+          "We will provide the supporting documents or a revised timeline by three p.m. Kigali time.",
+          "我们将在基加利时间下午三点前提交支持文件或更新处理时间。"
+        ]
+      ],
+      "hint": "每轮 5 分钟，至少说 5 句完整英文。用最后一句总结风险和下一步。"
+    },
+    {
+      "title": "听写五句",
+      "english": "Five dictation prompts",
+      "lines": [
+        [
+          "The seal number does not match our dispatch record.",
+          "封签号与我们的发运记录不符。"
+        ],
+        [
+          "Please keep the truck at the checkpoint.",
+          "请让车辆停在检查点。"
+        ],
+        [
+          "We need the original weighbridge ticket.",
+          "我们需要原始地磅单。"
+        ],
+        [
+          "The payment will remain on hold.",
+          "付款将继续暂停。"
+        ],
+        [
+          "Please send the signed report before three p.m.",
+          "请在下午三点前发送签字报告。"
+        ]
+      ],
+      "hint": "先点读再默写。点击「查看句子」核对中英文本，重点检查 seal、dispatch、weighbridge、remain 和 signed。"
+    },
+    {
+      "title": "口语测试五题",
+      "english": "Five speaking questions",
+      "lines": [
+        [
+          "What should you do when the seal number is inconsistent?",
+          "封签号不一致时，你应该怎么做？"
+        ],
+        [
+          "How do you request evidence politely but firmly?",
+          "如何礼貌而坚定地索取证据？"
+        ],
+        [
+          "How do you explain a bank payment hold?",
+          "如何解释银行暂停付款？"
+        ],
+        [
+          "How do you state a deadline in Kigali time?",
+          "如何明确用基加利时间表述截止点？"
+        ],
+        [
+          "How do you refuse premature release?",
+          "如何拒绝提前放行？"
+        ]
+      ],
+      "hint": "每题用英文作答 30–45 秒。回答时给出行动、理由和下一步。"
+    },
+    {
+      "title": "前三天变化复习",
+      "english": "Three-day review",
+      "lines": [
+        [
+          "Sampling dispute and independent assay.",
+          "Day 23：样品争议与第三方化验。"
+        ],
+        [
+          "Packing list and customs seal.",
+          "Day 24：装箱单与海关铅封。"
+        ],
+        [
+          "Beneficiary account change and payment verification.",
+          "Day 25：收款账户变更与付款核验。"
+        ],
+        [
+          "First, we verify the sample.",
+          "首先，我们核验样品。"
+        ],
+        [
+          "Next, we reconcile the export documents.",
+          "接下来，我们核对出口单证。"
+        ],
+        [
+          "Finally, we verify the beneficiary before releasing payment.",
+          "最后，在付款前核验收款人。"
+        ]
+      ],
+      "hint": "先分别回顾 Day 23、24、25，再用后三句串联取样、出口单证和付款核验。"
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Full incident briefing",
+      "lines": [
+        [
+          "Good afternoon.",
+          "下午好。"
+        ],
+        [
+          "During today's escorted mineral transfer, our logistics team identified a discrepancy between the seal number on the container and the number recorded in the dispatch documents.",
+          "今天押运矿产品途中，物流团队发现集装箱封签号与发运文件记录不一致。"
+        ],
+        [
+          "The truck is now parked at a secure checkpoint, and no one has been authorized to open the container.",
+          "车辆已停在安全检查点，目前未授权任何人开箱。"
+        ],
+        [
+          "We have requested the original weighbridge ticket, dispatch photographs, escort log, and signed stuffing report.",
+          "我们已索取原始地磅单、发运照片、押运日志和签字装柜报告。"
+        ],
+        [
+          "In parallel, our finance team has informed the bank that payment must remain on hold until the supporting documents are verified.",
+          "同时，财务团队已通知银行，在支持文件核验前继续暂停付款。"
+        ],
+        [
+          "We understand the shipment deadline, but we cannot compromise traceability or compliance.",
+          "我们理解发运时限，但不能为此牺牲可追溯性或合规性。"
+        ],
+        [
+          "Please send the complete evidence package by three p.m. Kigali time.",
+          "请于基加利时间下午三点前发送全套证据。"
+        ],
+        [
+          "Once our logistics and compliance teams confirm the facts in writing, we will provide the next release and payment instructions.",
+          "物流和合规团队书面确认事实后，我们将提供下一步放行及付款指令。"
+        ],
+        [
+          "Thank you for your cooperation.",
+          "谢谢配合。"
+        ]
+      ],
+      "hint": "先分句练习，再完整朗读。复述时交代差异、车辆状态、证据清单、付款状态、截止时间和书面放行。"
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "lines": [
+        [
+          "Spend eight minutes on pronunciation and twelve minutes on the key terms and sentences.",
+          "发音热身 8 分钟，词汇与核心句 12 分钟。"
+        ],
+        [
+          "Spend eight minutes on numbers and eight on shadowing.",
+          "数字训练与逐句跟读各 8 分钟。"
+        ],
+        [
+          "Spend four minutes on small talk and eight on operations and transport.",
+          "商务寒暄 4 分钟，业务与运输 8 分钟。"
+        ],
+        [
+          "Spend fifteen minutes on role-play and eight on dictation and speaking.",
+          "角色扮演 15 分钟，听写及口语测试 8 分钟。"
+        ],
+        [
+          "Spend four minutes reviewing and delivering the full briefing.",
+          "复习与完整陈述 4 分钟。"
+        ]
+      ],
+      "hint": "逐项检查，合计约 75 分钟。课程采用虚构情景与教学数据。"
+    }
+  ]
+}
