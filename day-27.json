@@ -1,0 +1,591 @@
+{
+  "day": 27,
+  "date": "2026-11-09",
+  "title": "水分扣重与双实验室化验争议：报价、暂付款及放货决策",
+  "english": "Moisture deduction and competing assay results",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "8分钟：先用0.72倍速跟读，再用1.0倍速复述；注意 moisture、representative、assay 的重音。",
+      "lines": [
+        [
+          "Moisture adjustment",
+          "水分调整"
+        ],
+        [
+          "Representative sampling",
+          "代表性取样"
+        ],
+        [
+          "Assay discrepancy",
+          "化验结果差异"
+        ],
+        [
+          "Dry metric ton",
+          "干吨"
+        ],
+        [
+          "Independent laboratory",
+          "独立实验室"
+        ],
+        [
+          "Provisional invoice",
+          "暂定发票"
+        ],
+        [
+          "Settlement basis",
+          "结算依据"
+        ],
+        [
+          "Commercial resolution",
+          "商业解决方案"
+        ]
+      ]
+    },
+    {
+      "title": "10个高频词与短语",
+      "english": "Ten essential expressions",
+      "hint": "8分钟：每个表达说出中文后，再独立造一个英文句子。",
+      "lines": [
+        [
+          "Moisture deduction",
+          "水分扣减"
+        ],
+        [
+          "Wet weight",
+          "湿重"
+        ],
+        [
+          "Dry weight",
+          "干重"
+        ],
+        [
+          "Split sample",
+          "分样"
+        ],
+        [
+          "Sealed reference sample",
+          "封存的留样"
+        ],
+        [
+          "Assay tolerance",
+          "化验允许偏差"
+        ],
+        [
+          "Final settlement",
+          "最终结算"
+        ],
+        [
+          "Price adjustment",
+          "价格调整"
+        ],
+        [
+          "Disputed lot",
+          "存在争议的批次"
+        ],
+        [
+          "Without prejudice",
+          "在不损害各方权利的前提下"
+        ]
+      ]
+    },
+    {
+      "title": "10个核心句",
+      "english": "Ten core sentences",
+      "hint": "8分钟：先看中文复述英文，再模拟经理给出不含糊的指令。",
+      "lines": [
+        [
+          "The gross weight is not the same as the payable dry weight.",
+          "毛重并不等于应结算的干重。"
+        ],
+        [
+          "We must agree on the moisture deduction before pricing the lot.",
+          "在给这一批货定价前，我们必须先确认水分扣减。"
+        ],
+        [
+          "Please show me the signed sampling record.",
+          "请把签字确认的取样记录给我。"
+        ],
+        [
+          "The supplier's assay differs from our laboratory result.",
+          "供应商的化验结果与我们实验室的结果不同。"
+        ],
+        [
+          "Do not blend the disputed lot with other material.",
+          "不要把争议批次与其他矿石混合。"
+        ],
+        [
+          "We should retest the sealed reference sample.",
+          "我们应复检封存留样。"
+        ],
+        [
+          "The contract specifies which result controls final settlement.",
+          "合同规定哪一份结果用于最终结算。"
+        ],
+        [
+          "We can discuss a provisional payment without accepting the disputed grade.",
+          "我们可以讨论暂付款，但不代表接受有争议的品位。"
+        ],
+        [
+          "Please put the proposed adjustment in writing.",
+          "请将建议的调整方案书面提交。"
+        ],
+        [
+          "No one is authorized to release the goods until the dispute is documented.",
+          "在争议完成记录前，任何人均无权放货。"
+        ]
+      ]
+    },
+    {
+      "title": "数字、品位、汇率和金额口述",
+      "english": "Numbers, grade and settlement",
+      "hint": "8分钟：朗读数据并从湿吨换算干吨；以下数据全是教学假设。",
+      "lines": [
+        [
+          "The wet weight is 12.50 metric tons.",
+          "湿重为12.50公吨。"
+        ],
+        [
+          "The measured moisture content is 6.0 percent.",
+          "实测水分为百分之六。"
+        ],
+        [
+          "The dry weight is 11.75 metric tons.",
+          "干重为11.75公吨。"
+        ],
+        [
+          "The supplier reports an assay of 31.2 percent.",
+          "供应商报告的化验品位为百分之三十一点二。"
+        ],
+        [
+          "Our laboratory reports 29.8 percent.",
+          "我方实验室报告的品位为百分之二十九点八。"
+        ],
+        [
+          "The assay difference is 1.4 percentage points.",
+          "两份化验结果相差1.4个百分点。"
+        ],
+        [
+          "The provisional unit price is 200 US dollars per dry metric ton.",
+          "暂定单价为每干吨200美元。"
+        ],
+        [
+          "The provisional amount is 2,350 US dollars.",
+          "暂定金额为2350美元。"
+        ],
+        [
+          "The illustrative exchange rate is 1,450 Rwandan francs per US dollar.",
+          "假设汇率是每美元1450卢旺达法郎。"
+        ],
+        [
+          "All amounts remain subject to the signed settlement formula.",
+          "所有金额均以双方签署的结算公式为准。"
+        ]
+      ]
+    },
+    {
+      "title": "跟读训练",
+      "english": "Shadowing drill",
+      "hint": "7分钟：每句用正常速度跟读三遍，第二遍不看中文；重读关键动作词。",
+      "lines": [
+        [
+          "Before we negotiate the price, let us verify the net weight.",
+          "价格谈判之前，我们先核实净重。"
+        ],
+        [
+          "The moisture deduction must follow the agreed method.",
+          "水分扣减必须按照约定的方法进行。"
+        ],
+        [
+          "I am not questioning your integrity; I am questioning the data.",
+          "我不是质疑你的诚信，而是在质疑数据。"
+        ],
+        [
+          "We need a sample that genuinely represents the entire lot.",
+          "我们需要能够真实代表整批货的样品。"
+        ],
+        [
+          "The sealing record should identify every party present.",
+          "封样记录应列明所有在场方。"
+        ],
+        [
+          "Please separate factual differences from commercial concessions.",
+          "请把事实上的差异与商业让步分开。"
+        ],
+        [
+          "An interim payment does not confirm the final assay.",
+          "临时付款不代表确认最终化验结果。"
+        ],
+        [
+          "If the independent retest confirms the difference, we will apply the contract.",
+          "如果独立复检确认差异，我们将按合同执行。"
+        ]
+      ]
+    },
+    {
+      "title": "商务破冰",
+      "english": "Small Talk before negotiation",
+      "hint": "4分钟：以礼貌、不让步的方式开场。",
+      "lines": [
+        [
+          "Thank you for coming to the warehouse on short notice.",
+          "感谢你临时赶到仓库。"
+        ],
+        [
+          "How was the road from your site this morning?",
+          "今天早上从你们现场过来，路况怎么样？"
+        ],
+        [
+          "I appreciate your team's effort to prepare the documents.",
+          "感谢你们团队准备文件所付出的努力。"
+        ],
+        [
+          "We both want a fair and repeatable settlement process.",
+          "我们双方都希望建立公平且可重复执行的结算流程。"
+        ],
+        [
+          "Let us start with the documents rather than assumptions.",
+          "我们先从文件入手，而不是凭猜测。"
+        ],
+        [
+          "Once the facts are clear, the commercial discussion will be easier.",
+          "一旦事实明确，商业协商就会更容易。"
+        ]
+      ]
+    },
+    {
+      "title": "矿石采购与化验争议",
+      "english": "Mining procurement and assay dispute",
+      "hint": "10分钟：压力点一：供应商坚持自己的品位；压力点二：两次取样来源不一致。先问证据，再谈价格。",
+      "lines": [
+        [
+          "Which sampling method was used at the loading point?",
+          "装货点采用了哪种取样方法？"
+        ],
+        [
+          "Were the increments taken across the whole lot?",
+          "增量样是否覆盖了整个批次？"
+        ],
+        [
+          "Who witnessed the sample preparation and splitting?",
+          "谁见证了制样和分样过程？"
+        ],
+        [
+          "Our intake sample and your dispatch sample may not be comparable.",
+          "我们的入库样和你们的发运样可能不具有可比性。"
+        ],
+        [
+          "Please provide the sample IDs, seal numbers and collection times.",
+          "请提供样品编号、封签号及采样时间。"
+        ],
+        [
+          "We will quarantine the lot until the reference sample is checked.",
+          "在核验留样之前，我们会隔离这一批货。"
+        ],
+        [
+          "We cannot revise the assay simply to close the deal.",
+          "我们不能仅仅为了成交而修改化验结果。"
+        ],
+        [
+          "Let us appoint a mutually acceptable independent laboratory.",
+          "我们共同指定一家双方认可的独立实验室。"
+        ],
+        [
+          "The retest cost should follow the dispute clause in the contract.",
+          "复检费用应按照合同的争议条款承担。"
+        ],
+        [
+          "We can resume normal purchasing once the root cause is documented.",
+          "根本原因形成书面记录后，我们可以恢复正常采购。"
+        ]
+      ]
+    },
+    {
+      "title": "仓库、物流与出口单证",
+      "english": "Warehouse, logistics and export documents",
+      "hint": "7分钟：将质量争议隔离与押运、出口文件、授权放货结合训练。",
+      "lines": [
+        [
+          "Mark the lot as on hold in the warehouse register.",
+          "在仓库登记簿中将这一批标记为暂停处理。"
+        ],
+        [
+          "Do not remove or replace any seal without written approval.",
+          "未经书面批准不得拆除或更换任何封签。"
+        ],
+        [
+          "The stock card must match the physical bags and net weight.",
+          "库存卡片必须与实物吨包和净重一致。"
+        ],
+        [
+          "The escort officer should sign the handover record.",
+          "押运人员应签署交接记录。"
+        ],
+        [
+          "Keep the packing list consistent with the final confirmed weights.",
+          "装箱单应与最终确认重量保持一致。"
+        ],
+        [
+          "Do not submit a disputed assay as the final export grade.",
+          "不要把有争议的化验结果作为最终出口品位提交。"
+        ],
+        [
+          "Check the chain-of-custody documents before shipment authorization.",
+          "发运授权之前检查完整的货物流转与溯源文件。"
+        ],
+        [
+          "If the paperwork is incomplete, escalate the shipment decision.",
+          "文件不完整时，应把是否发运的决定上报。"
+        ]
+      ]
+    },
+    {
+      "title": "15分钟高压角色扮演",
+      "english": "Fifteen-minute pressure role-play",
+      "hint": "15分钟：A为采购主管，B为供应商。三轮各5分钟；每轮先自己回答，再听示范。三项压力：化验差异、要求当天付款、要求先放货。",
+      "lines": [
+        [
+          "Supplier: Your lab says 29.8 percent, but mine says 31.2 percent. Pay me on my result.",
+          "供应商：你们说29.8%，我这边是31.2%。按我的结果付钱。"
+        ],
+        [
+          "Manager: I acknowledge the difference, but we must follow the signed sampling and assay procedure.",
+          "经理：我承认存在差异，但我们必须执行已签署的取样和化验程序。"
+        ],
+        [
+          "Supplier: You took a different sample. Your number is unreliable.",
+          "供应商：你们取的是另一个样，结果不可靠。"
+        ],
+        [
+          "Manager: Then let us compare sample IDs and retest the sealed reference sample together.",
+          "经理：那我们就核对样品编号，并共同复检封存留样。"
+        ],
+        [
+          "Supplier: I need full payment today or I will sell to someone else.",
+          "供应商：我今天必须收到全款，否则卖给别人。"
+        ],
+        [
+          "Manager: We can consider a documented provisional payment, but it will not settle the disputed grade.",
+          "经理：我们可以考虑有书面依据的暂付款，但这并不意味着品位争议已解决。"
+        ],
+        [
+          "Supplier: At least release the bags so my truck can leave.",
+          "供应商：至少先放货，让我的卡车走。"
+        ],
+        [
+          "Manager: The disputed bags must remain segregated until release is authorized in writing.",
+          "经理：争议吨包必须继续单独存放，直到获得书面放货授权。"
+        ],
+        [
+          "Supplier: Your process is taking too long.",
+          "供应商：你们流程太慢了。"
+        ],
+        [
+          "Manager: I will give you a clear written timeline and the exact next decision point.",
+          "经理：我会给你明确的书面时间安排和下一个决策节点。"
+        ],
+        [
+          "Supplier: Who will pay for the independent test?",
+          "供应商：独立复检费谁承担？"
+        ],
+        [
+          "Manager: We will apply the cost-allocation clause already agreed in the contract.",
+          "经理：我们会按照合同中已经约定的费用分担条款执行。"
+        ],
+        [
+          "Supplier: Can you at least increase the price to compensate me?",
+          "供应商：那你们至少加点价补偿我吧？"
+        ],
+        [
+          "Manager: We can discuss commercial terms separately after the facts are established.",
+          "经理：等事实查明后，我们可以另行讨论商业条款。"
+        ],
+        [
+          "Supplier: I want a manager to approve this immediately.",
+          "供应商：我要经理立刻批准。"
+        ],
+        [
+          "Manager: I am escalating the decision with the documents, not bypassing our controls.",
+          "经理：我会连同文件上报审批，而不是绕过内控程序。"
+        ],
+        [
+          "Manager: Please confirm the agreed next steps in an email today.",
+          "经理：请今天通过电子邮件确认双方商定的下一步。"
+        ],
+        [
+          "Supplier: Agreed. We will attend the joint retest tomorrow morning.",
+          "供应商：同意，我们明天早上参加联合复检。"
+        ]
+      ]
+    },
+    {
+      "title": "五句听写",
+      "english": "Five dictation sentences",
+      "hint": "4分钟：先点读不看文字，写完后再展开核对；网页会对本模块提供隐藏原文功能。",
+      "lines": [
+        [
+          "The final price depends on the agreed moisture and assay adjustments.",
+          "最终价格取决于约定的水分和化验调整。"
+        ],
+        [
+          "We have isolated the disputed batch in the warehouse.",
+          "我们已在仓库隔离争议批次。"
+        ],
+        [
+          "Please provide the signed sampling and sealing records.",
+          "请提供签署过的取样和封样记录。"
+        ],
+        [
+          "A provisional payment is not a final settlement.",
+          "暂付款并不等于最终结算。"
+        ],
+        [
+          "We cannot release the goods without written authorization.",
+          "没有书面授权我们不能放货。"
+        ]
+      ]
+    },
+    {
+      "title": "五道口语问答",
+      "english": "Five speaking challenges",
+      "hint": "5分钟：每题限时45秒作答，再与示范句比较。",
+      "lines": [
+        [
+          "Question: What should you check before accepting a supplier's assay? Answer: I check the sampling method, sample ID and contractual settlement basis.",
+          "问：接受供应商化验前应核对什么？答：取样方法、样品编号和合同结算依据。"
+        ],
+        [
+          "Question: How do you handle a moisture discrepancy? Answer: I confirm wet weight, test method and the agreed dry-weight formula.",
+          "问：水分差异如何处理？答：确认湿重、检验方法和约定干重公式。"
+        ],
+        [
+          "Question: Can you make a provisional payment? Answer: Only with written approval and a clear reservation of the final settlement.",
+          "问：能暂付款吗？答：只能在书面批准且明确保留最终结算条件时。"
+        ],
+        [
+          "Question: Should you release disputed material for shipment? Answer: Not before quality and release authorization are documented.",
+          "问：争议矿石能先发运吗？答：质量和放货授权未形成文件前不能。"
+        ],
+        [
+          "Question: What is your next step if the two labs disagree? Answer: I arrange a joint review and independent retest under the contract.",
+          "问：两家实验室不一致怎么办？答：依合同安排共同复核和独立复检。"
+        ]
+      ]
+    },
+    {
+      "title": "近期知识复习",
+      "english": "Recent learning review",
+      "hint": "4分钟：回顾Day26封签及付款控制，并把今日水分/化验争议接入同一决策链。",
+      "lines": [
+        [
+          "A seal discrepancy requires immediate documentation.",
+          "封签差异必须立即形成记录。"
+        ],
+        [
+          "A payment deadline does not justify bypassing verification.",
+          "付款截止时间不能成为绕过核验的理由。"
+        ],
+        [
+          "An assay discrepancy requires sample traceability.",
+          "化验差异需要追溯样品来源。"
+        ],
+        [
+          "The decision to release material needs a clear authority level.",
+          "放货决定必须有明确的授权层级。"
+        ],
+        [
+          "Keep quality disputes separate from pricing concessions.",
+          "质量争议与价格让步应分开处理。"
+        ],
+        [
+          "Our objective is a controlled transaction, not merely a fast transaction.",
+          "我们追求的是受控交易，而不仅是快速交易。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Complete managerial briefing",
+      "hint": "6分钟：不看中文连续陈述90秒，再用英文复述并录音自评。",
+      "lines": [
+        [
+          "Today we received a mineral lot with a disputed assay result.",
+          "今天我们收到一批化验结果存在争议的矿石。"
+        ],
+        [
+          "The supplier reported 31.2 percent, while our laboratory reported 29.8 percent.",
+          "供应商报告31.2%，而我们实验室报告29.8%。"
+        ],
+        [
+          "We also need to confirm the measured moisture content and dry weight.",
+          "我们还需要确认实测水分和干重。"
+        ],
+        [
+          "I instructed the warehouse to segregate the disputed material.",
+          "我要求仓库隔离争议物料。"
+        ],
+        [
+          "We are reviewing the sampling records, seal IDs and laboratory methods.",
+          "我们正在核对取样记录、封签号及实验室方法。"
+        ],
+        [
+          "A jointly witnessed retest will provide additional evidence.",
+          "双方见证的复检将提供进一步证据。"
+        ],
+        [
+          "Any provisional payment requires written approval and proper documentation.",
+          "任何暂付款都需要书面批准及完整文件。"
+        ],
+        [
+          "We will not confuse a commercial concession with an accepted assay result.",
+          "我们不会把商业让步混同于对化验结果的认可。"
+        ],
+        [
+          "Shipment authorization will follow the confirmed quality documents.",
+          "发运授权须以确认后的质量文件为依据。"
+        ],
+        [
+          "Our aim is a fair settlement, reliable traceability and controlled risk.",
+          "我们的目标是公平结算、可靠追溯和风险可控。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "3分钟：逐项英文自查。如果说不流利，返回对应模块再练。",
+      "lines": [
+        [
+          "I can explain the difference between wet weight and dry weight.",
+          "我能解释湿重与干重的区别。"
+        ],
+        [
+          "I can describe an assay discrepancy without accusing the supplier.",
+          "我能不带指责地描述化验差异。"
+        ],
+        [
+          "I can ask for sampling, sealing and laboratory records.",
+          "我能索取取样、封样和化验记录。"
+        ],
+        [
+          "I can propose an independent retest under the contract.",
+          "我能按照合同建议独立复检。"
+        ],
+        [
+          "I can reject unauthorized shipment politely and firmly.",
+          "我能礼貌而坚定地拒绝未经授权的发运。"
+        ],
+        [
+          "I can explain why a provisional payment is not final settlement.",
+          "我能解释暂付款不等于最终结算。"
+        ],
+        [
+          "I can deliver the complete management briefing in English.",
+          "我能用英语完成整段管理层简报。"
+        ]
+      ]
+    }
+  ]
+}
