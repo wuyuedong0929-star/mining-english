@@ -1,0 +1,599 @@
+{
+  "day": 26.5,
+  "date": "2026-11-08",
+  "title": "11月8日补课：矿石出口溯源文件缺失与客户催货谈判",
+  "english": "Missing origin records and shipment pressure",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "5分钟。分别以1.0倍速和0.72倍速跟读；重点读清traceability、declaration、escalation。",
+      "lines": [
+        [
+          "Traceability",
+          "可追溯性"
+        ],
+        [
+          "Origin declaration",
+          "原产地声明"
+        ],
+        [
+          "Document discrepancy",
+          "文件差异"
+        ],
+        [
+          "Due diligence",
+          "尽职调查"
+        ],
+        [
+          "Supporting evidence",
+          "支持性证据"
+        ],
+        [
+          "Shipment release",
+          "放行发运"
+        ],
+        [
+          "Delivery commitment",
+          "交货承诺"
+        ],
+        [
+          "Escalation",
+          "上报升级"
+        ]
+      ]
+    },
+    {
+      "title": "10个高频词与短语",
+      "english": "Ten key expressions",
+      "hint": "5分钟。每个词组朗读三遍，随后不看原文翻译。",
+      "lines": [
+        [
+          "Chain of custody",
+          "货物交接和流转记录链"
+        ],
+        [
+          "Mine of origin",
+          "来源矿山"
+        ],
+        [
+          "Batch reference number",
+          "批次编号"
+        ],
+        [
+          "Exporter declaration",
+          "出口商声明"
+        ],
+        [
+          "Documentary evidence",
+          "书面证明材料"
+        ],
+        [
+          "Red flag",
+          "风险警示信号"
+        ],
+        [
+          "Pending verification",
+          "等待核实"
+        ],
+        [
+          "Hold the shipment",
+          "暂停发运"
+        ],
+        [
+          "Customer delivery window",
+          "客户收货时间窗口"
+        ],
+        [
+          "Corrective action plan",
+          "纠正措施计划"
+        ]
+      ]
+    },
+    {
+      "title": "10个核心句",
+      "english": "Ten core sentences",
+      "hint": "6分钟。逐句跟读并将第一人称I换成we再次表达。",
+      "lines": [
+        [
+          "We cannot confirm the mine of origin from the documents provided.",
+          "从已提供的文件中，我们无法确认来源矿山。"
+        ],
+        [
+          "Please send the original supporting records, not just a revised summary.",
+          "请提供原始支持性记录，而不只是修改后的汇总表。"
+        ],
+        [
+          "The batch reference must match across the warehouse and export documents.",
+          "仓库和出口文件上的批次编号必须一致。"
+        ],
+        [
+          "This discrepancy must be investigated before shipment release.",
+          "必须在批准发运前调查这项差异。"
+        ],
+        [
+          "A verbal assurance is not sufficient for our due diligence file.",
+          "口头保证不足以满足尽调档案要求。"
+        ],
+        [
+          "We need an explanation of the missing custody record.",
+          "我们需要对缺失的交接记录作出解释。"
+        ],
+        [
+          "Please do not change the declared origin without verified evidence.",
+          "没有核实证据，请不要修改所申报的原产地。"
+        ],
+        [
+          "We will give the customer an honest update on the delivery risk.",
+          "我们会如实向客户通报交货风险。"
+        ],
+        [
+          "Any revised delivery date must be approved and confirmed in writing.",
+          "任何调整后的交货日期都必须获批并书面确认。"
+        ],
+        [
+          "We will proceed once the necessary review is complete.",
+          "必要审核完成后，我们才会继续办理。"
+        ]
+      ]
+    },
+    {
+      "title": "数字、金额和交期口述",
+      "english": "Numbers, shipment values and deadlines",
+      "hint": "5分钟。所有数字均为教学假设。复述两批合计重量、暂定价值与延误天数。",
+      "lines": [
+        [
+          "Batch A contains 8.4 metric tons.",
+          "A批为8.4公吨。"
+        ],
+        [
+          "Batch B contains 6.6 metric tons.",
+          "B批为6.6公吨。"
+        ],
+        [
+          "The combined gross weight is 15 metric tons.",
+          "合计毛重15公吨。"
+        ],
+        [
+          "The provisional contract value is 48,000 US dollars.",
+          "暂定合同金额为48,000美元。"
+        ],
+        [
+          "The customer requests dispatch on November tenth.",
+          "客户要求11月10日发运。"
+        ],
+        [
+          "The next available shipping slot is November twelfth.",
+          "下一个可用发运档期是11月12日。"
+        ],
+        [
+          "That creates a two-day dispatch delay.",
+          "这会造成两天的发运延误。"
+        ],
+        [
+          "We have three supporting documents but one missing transfer record.",
+          "我们已有三份支持文件，但缺少一份转运记录。"
+        ],
+        [
+          "The internal review is due by four p.m. Kigali time.",
+          "内部审核应在基加利时间下午四点前完成。"
+        ],
+        [
+          "The updated dispatch estimate is subject to carrier confirmation.",
+          "更新后的发运预估时间以承运人确认为准。"
+        ]
+      ]
+    },
+    {
+      "title": "跟读与影子训练",
+      "english": "Shadowing drill",
+      "hint": "5分钟。跟读两遍，第三遍脱稿复述，要读出因果和转折。",
+      "lines": [
+        [
+          "Before discussing loading, I need to clarify the source documentation.",
+          "讨论装货前，我需要先澄清来源文件。"
+        ],
+        [
+          "The document trail should connect the mine, trader, warehouse and shipment.",
+          "文件链条应将矿山、贸易商、仓库和发运环节关联起来。"
+        ],
+        [
+          "We identified a gap in the transfer records.",
+          "我们发现转运记录存在缺口。"
+        ],
+        [
+          "This does not prove misconduct, but it does require verification.",
+          "这并不证明存在不当行为，但确实需要核实。"
+        ],
+        [
+          "The customer needs an accurate explanation rather than an optimistic guess.",
+          "客户需要准确解释，而不是乐观猜测。"
+        ],
+        [
+          "We can propose a revised date while the evidence is checked.",
+          "核验证据期间，我们可以建议调整交期。"
+        ],
+        [
+          "If we cannot verify the information, the shipment will remain on hold.",
+          "如果无法核实信息，货物将继续暂停发运。"
+        ],
+        [
+          "Please send the complete document pack before the next review call.",
+          "请在下次审核会议前发送完整文件包。"
+        ]
+      ]
+    },
+    {
+      "title": "商务破冰",
+      "english": "Small talk",
+      "hint": "3分钟。训练保持礼貌而不作无依据承诺。",
+      "lines": [
+        [
+          "Thank you for joining this call at short notice.",
+          "感谢大家临时参加此次电话会议。"
+        ],
+        [
+          "I hope the journey back from the warehouse went smoothly.",
+          "希望你们从仓库返回的路途顺利。"
+        ],
+        [
+          "We understand the pressure on your delivery schedule.",
+          "我们理解交期压力。"
+        ],
+        [
+          "Our goal is to resolve the issue with minimum disruption.",
+          "我们希望在尽量减少干扰的情况下解决问题。"
+        ],
+        [
+          "Could we start by agreeing on the facts?",
+          "我们能否先核实事实？"
+        ],
+        [
+          "After that, we can discuss practical alternatives.",
+          "之后我们可以讨论实际可行的替代方案。"
+        ]
+      ]
+    },
+    {
+      "title": "负责任采购与来源核验",
+      "english": "Responsible sourcing and verification",
+      "hint": "6分钟。压力一：供应商要求先放货后补资料。重点是查原始证据和权责。",
+      "lines": [
+        [
+          "Please identify the supplier responsible for each movement of this batch.",
+          "请指出这一批货每次流转对应的供应商。"
+        ],
+        [
+          "Which document supports the declared mine of origin?",
+          "哪一份文件支持所申报的来源矿山？"
+        ],
+        [
+          "Was this material consolidated with another batch?",
+          "这批矿石是否与其他批次混合过？"
+        ],
+        [
+          "If so, please supply the separate batch and weight records.",
+          "如果混合过，请提供独立批次及重量记录。"
+        ],
+        [
+          "We must preserve original records even when a correction is necessary.",
+          "即使需要更正，也必须保留原始记录。"
+        ],
+        [
+          "A corrected declaration must be supported by verifiable facts.",
+          "更正声明必须以可核实事实为依据。"
+        ],
+        [
+          "An unsigned note is not necessarily a complete handover record.",
+          "未签名便条未必构成完整的交接记录。"
+        ],
+        [
+          "Who physically controlled the goods during the undocumented movement?",
+          "缺失记录的那段运输中谁实际控制货物？"
+        ],
+        [
+          "Do not backdate records to make the file appear complete.",
+          "不要倒签日期来制造文件完整的假象。"
+        ],
+        [
+          "We will escalate the issue to the responsible compliance officer.",
+          "我们会把问题上报负责的合规人员。"
+        ]
+      ]
+    },
+    {
+      "title": "物流、押运与出口文件",
+      "english": "Logistics, escort and export paperwork",
+      "hint": "5分钟。压力二：司机等候装柜，可能错过航运档期。备货和放货必须分开。",
+      "lines": [
+        [
+          "Please hold the container booking until the review is cleared.",
+          "审核通过前请暂缓集装箱订舱。"
+        ],
+        [
+          "The packing list must reflect the verified shipment contents.",
+          "装箱单必须准确反映核实后的货物。"
+        ],
+        [
+          "The export declaration must be consistent with the approved records.",
+          "出口申报应与批准的记录保持一致。"
+        ],
+        [
+          "The escort team needs correct collection and handover references.",
+          "押运人员需要正确的提货和交接编号。"
+        ],
+        [
+          "Do not attach documents belonging to another batch.",
+          "不要附上属于其他批次的单据。"
+        ],
+        [
+          "Ask the freight forwarder about the next available departure.",
+          "向货代询问下一班可用发运时间。"
+        ],
+        [
+          "A confirmed booking is different from a tentative reservation.",
+          "确认订舱与暂定预留不同。"
+        ],
+        [
+          "The warehouse can prepare the goods without releasing them.",
+          "仓库可以备货，但不得因此放货。"
+        ],
+        [
+          "Please keep a log of every change to the document pack.",
+          "请记录文件包的每一项变更。"
+        ],
+        [
+          "After approval, notify the transporter and customer using consistent final details.",
+          "获批后用一致的最终信息通知运输方和客户。"
+        ]
+      ]
+    },
+    {
+      "title": "15分钟高压角色扮演",
+      "english": "Fifteen-minute role-play",
+      "hint": "15分钟。三轮各5分钟：供应商逼签、客户催货、物流催装。先独立回答，再核对示范。",
+      "lines": [
+        [
+          "Supplier: We can provide the missing transfer record after the truck leaves.",
+          "供应商：车开走以后我们会补交接记录。"
+        ],
+        [
+          "Manager: We cannot authorize release before the evidence is reviewed.",
+          "经理：审核证据前不能批准放货。"
+        ],
+        [
+          "Supplier: Everyone knows the goods came from an approved mine.",
+          "供应商：大家都知道这些货来自获批矿山。"
+        ],
+        [
+          "Manager: I need verifiable records, not personal assurances.",
+          "经理：我需要可核实的记录，而不只是个人保证。"
+        ],
+        [
+          "Supplier: Just change the origin field so that the documents match.",
+          "供应商：直接改一下原产地字段，文件就对上了。"
+        ],
+        [
+          "Manager: We will not change an origin declaration without supporting evidence.",
+          "经理：没有支持证据，我们不会修改原产地声明。"
+        ],
+        [
+          "Customer: Your promised dispatch is tomorrow. Are the goods ready?",
+          "客户：你们承诺明天发货，货准备好了吗？"
+        ],
+        [
+          "Manager: The goods are ready, but one transfer record remains under review.",
+          "经理：货已经备好，但有一份交接记录仍在审核。"
+        ],
+        [
+          "Customer: Can you guarantee delivery this week?",
+          "客户：你能保证本周交货吗？"
+        ],
+        [
+          "Manager: Not yet. I will send a confirmed update after our review.",
+          "经理：目前不能保证。审核后我会发送经确认的进度。"
+        ],
+        [
+          "Customer: We may charge you a late-delivery penalty.",
+          "客户：我们可能收取延期交货违约金。"
+        ],
+        [
+          "Manager: Please identify the contract clause so that we can assess the exposure.",
+          "经理：请指出合同条款，以便我们评估责任。"
+        ],
+        [
+          "Logistics: The driver is waiting and the container slot may be lost.",
+          "物流：司机等着呢，舱位可能丢掉。"
+        ],
+        [
+          "Manager: Please check the next slot while the shipment hold remains in place.",
+          "经理：请查询下一个档期，同时继续暂停放货。"
+        ],
+        [
+          "Logistics: Should we load without updating the packing list?",
+          "物流：不更新装箱单直接装柜吗？"
+        ],
+        [
+          "Manager: No. Loading and release require written authorization.",
+          "经理：不行。装柜和放货需要书面授权。"
+        ],
+        [
+          "Supplier: Who will decide this issue today?",
+          "供应商：今天谁能决定这件事？"
+        ],
+        [
+          "Manager: Compliance will review the evidence and an authorized manager will approve release.",
+          "经理：合规部门审核证据，有权经理决定是否放行。"
+        ],
+        [
+          "Manager: I will send a written action list with an owner and deadline for each item.",
+          "经理：我会发出书面行动清单，明确每项责任人和期限。"
+        ]
+      ]
+    },
+    {
+      "title": "5句听写",
+      "english": "Five dictation sentences",
+      "hint": "4分钟。先点读，遮住英文写下来，再展开核对。",
+      "lines": [
+        [
+          "The declared mine of origin must be supported by credible evidence.",
+          "申报的来源矿山必须有可信证据支持。"
+        ],
+        [
+          "We found a missing transfer record in the chain of custody.",
+          "我们发现流转记录链中缺少一份交接记录。"
+        ],
+        [
+          "The warehouse has prepared the bags but has not released them.",
+          "仓库已经备好吨包，但尚未放货。"
+        ],
+        [
+          "Please confirm the revised dispatch date in writing.",
+          "请书面确认调整后的发运日期。"
+        ],
+        [
+          "We will update the customer after the compliance review.",
+          "合规审核结束后，我们会更新客户。"
+        ]
+      ]
+    },
+    {
+      "title": "5道口语问答",
+      "english": "Five speaking challenges",
+      "hint": "4分钟。每题独立用45秒作答，核对示范答案。",
+      "lines": [
+        [
+          "Question: What if the mine of origin cannot be verified? Answer: I hold the shipment and escalate the missing evidence.",
+          "问：无法核实来源矿山怎么办？答：暂停发运并上报证据缺口。"
+        ],
+        [
+          "Question: How do you respond to a backdating request? Answer: I refuse and require an accurate correction supported by records.",
+          "问：供应商要求倒签怎么办？答：拒绝，并要求据实更正和提供记录。"
+        ],
+        [
+          "Question: What do you tell an impatient customer? Answer: I state confirmed facts, risks and the next update time.",
+          "问：对着急的客户怎么说？答：告知确认事实、风险及下一次更新时间。"
+        ],
+        [
+          "Question: May the warehouse prepare the goods while shipment is on hold? Answer: Yes, if this does not break the hold or constitute unauthorized loading.",
+          "问：暂停发运时可以备货吗？答：只要不违反暂停要求或擅自装货，就可以。"
+        ],
+        [
+          "Question: What belongs in a corrective action plan? Answer: Missing records, responsible persons, deadlines, evidence and approvals.",
+          "问：整改计划包含什么？答：缺失记录、责任人、期限、证据和批准情况。"
+        ]
+      ]
+    },
+    {
+      "title": "前课知识迁移",
+      "english": "Review from Day 26",
+      "hint": "3分钟。将Day26的封签和付款问题与今天的来源问题联系起来，脱稿复述。",
+      "lines": [
+        [
+          "A matching seal number does not replace evidence of origin.",
+          "封签号一致不能替代来源证明。"
+        ],
+        [
+          "A valid origin document does not excuse a broken seal.",
+          "有效来源文件也不能成为忽略破损封签的理由。"
+        ],
+        [
+          "A payment deadline must not override verification controls.",
+          "付款截止期限不能凌驾于核验控制之上。"
+        ],
+        [
+          "We should document facts, risks and authorization separately.",
+          "我们应分别记录事实、风险和授权。"
+        ],
+        [
+          "Urgency changes our response speed, not our evidence standard.",
+          "紧迫性可以改变响应速度，但不能降低证据标准。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作汇报",
+      "english": "Complete management briefing",
+      "hint": "5分钟。不看中文连续陈述90秒，再录音回听并纠正表达。",
+      "lines": [
+        [
+          "Good afternoon. I am reporting a documentation gap affecting a planned mineral shipment.",
+          "下午好，我汇报影响计划矿石发运的一项文件缺口。"
+        ],
+        [
+          "The warehouse has prepared the goods and confirmed the physical batch references.",
+          "仓库已经备好货并确认实物批次编号。"
+        ],
+        [
+          "However, one custody transfer record is missing from our document pack.",
+          "但是文件包中缺少一份货物流转交接记录。"
+        ],
+        [
+          "We have not established whether this affects the declared origin.",
+          "我们尚未确定这是否影响所申报的来源信息。"
+        ],
+        [
+          "For that reason, the shipment remains on hold pending review.",
+          "因此审核完成前，这批货维持暂停发运。"
+        ],
+        [
+          "We asked the supplier for original supporting evidence.",
+          "我们要求供应商提供原始支持证据。"
+        ],
+        [
+          "The compliance officer will assess the complete record trail.",
+          "合规负责人将评估完整的记录链条。"
+        ],
+        [
+          "Meanwhile, logistics is checking alternative dispatch slots.",
+          "同时物流正在查询其他发运档期。"
+        ],
+        [
+          "We will provide the customer with a factual written update.",
+          "我们会向客户提供基于事实的书面更新。"
+        ],
+        [
+          "I will escalate any unresolved risk to the authorized decision-maker.",
+          "我会把尚未解决的风险上报有权决策者。"
+        ],
+        [
+          "Our priorities are accurate records, responsible sourcing and reliable delivery commitments.",
+          "我们的重点是准确记录、负责任采购及可靠的交付承诺。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "4分钟。不看英文逐条自检，最后用英语回答第9模块第三轮问题。",
+      "lines": [
+        [
+          "I can explain a chain-of-custody gap in English.",
+          "我能用英语解释交接记录缺口。"
+        ],
+        [
+          "I can request source records without accusing a supplier.",
+          "我能在不指责供应商的情况下索取来源记录。"
+        ],
+        [
+          "I can refuse an inaccurate origin declaration.",
+          "我能拒绝不准确的原产地申报。"
+        ],
+        [
+          "I can inform customers of a delay without making false promises.",
+          "我能不作虚假承诺地向客户说明延误。"
+        ],
+        [
+          "I can distinguish goods preparation from shipment authorization.",
+          "我能区分备货与发运授权。"
+        ],
+        [
+          "I can report compliance and delivery risks to management.",
+          "我能向管理层汇报合规与交付风险。"
+        ]
+      ]
+    }
+  ]
+}
