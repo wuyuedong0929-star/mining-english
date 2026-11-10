@@ -1,0 +1,459 @@
+{
+  "day": 28,
+  "date": "2026-11-10",
+  "title": "临时变更收款账户：制裁筛查、发票差异与押运放行",
+  "english": "Last-minute beneficiary change, compliance hold and shipment release",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "8分钟：每个短语慢速三遍、正常三遍；标记重音并录音纠正。",
+      "lines": [
+        [
+          "Beneficiary verification",
+          "收款人核验"
+        ],
+        [
+          "Sanctions screening",
+          "制裁筛查"
+        ],
+        [
+          "Ultimate beneficial owner",
+          "最终受益所有人"
+        ],
+        [
+          "Document discrepancy",
+          "单证差异"
+        ],
+        [
+          "Escalation deadline",
+          "升级处理截止时间"
+        ],
+        [
+          "Payment instruction",
+          "付款指令"
+        ]
+      ]
+    },
+    {
+      "title": "10个高频词组",
+      "english": "Ten key phrases",
+      "hint": "10分钟：每词用自己的话造一个矿业采购场景句。",
+      "lines": [
+        [
+          "Know your customer, or KYC",
+          "了解你的客户，即客户尽职调查"
+        ],
+        [
+          "Beneficiary name mismatch",
+          "收款人名称不匹配"
+        ],
+        [
+          "Bank account amendment",
+          "银行账户变更"
+        ],
+        [
+          "Independent callback verification",
+          "独立电话回拨核验"
+        ],
+        [
+          "Sanctions screening hold",
+          "制裁筛查暂缓"
+        ],
+        [
+          "Source of funds",
+          "资金来源"
+        ],
+        [
+          "Supporting invoice",
+          "支持性发票"
+        ],
+        [
+          "Payment cut-off",
+          "付款截止时间"
+        ],
+        [
+          "Written authorization",
+          "书面授权"
+        ],
+        [
+          "Audit trail",
+          "审计追踪记录"
+        ]
+      ]
+    },
+    {
+      "title": "10个核心句",
+      "english": "Ten core sentences",
+      "hint": "10分钟：先朗读，再遮住英文翻译中文，最后模拟电话沟通。",
+      "lines": [
+        [
+          "The beneficiary name does not match the signed contract.",
+          "收款人名称与已签合同不一致。"
+        ],
+        [
+          "We cannot accept a bank account change by email alone.",
+          "我们不能仅凭电子邮件接受银行账户变更。"
+        ],
+        [
+          "Please provide a signed amendment and updated bank confirmation.",
+          "请提供签署的变更文件和更新后的银行确认函。"
+        ],
+        [
+          "We will verify the request through an independently confirmed contact.",
+          "我们将通过独立确认的联系方式核验该请求。"
+        ],
+        [
+          "The payment is on hold pending compliance review.",
+          "付款正等待合规审核，暂时搁置。"
+        ],
+        [
+          "Do not split the transfer to bypass screening.",
+          "不要拆分汇款以绕过筛查。"
+        ],
+        [
+          "The supplier's shipment deadline does not override our controls.",
+          "供应商的发运期限不能凌驾于我们的控制程序之上。"
+        ],
+        [
+          "Please reconcile the invoice, contract, and beneficiary details.",
+          "请核对发票、合同及收款人信息。"
+        ],
+        [
+          "We will provide an update by two p.m. Kigali time.",
+          "我们将在基加利时间下午两点前更新进展。"
+        ],
+        [
+          "Only an authorized signatory may approve the revised instruction.",
+          "只有获授权签字人才能批准修订后的付款指令。"
+        ]
+      ]
+    },
+    {
+      "title": "金额吨位品位汇率口述",
+      "english": "Numbers and commercial calculations",
+      "hint": "8分钟：所有数字均为虚构教学数据；读出数值，明确金额、单位和计算逻辑。",
+      "lines": [
+        [
+          "The lot weighs nine point six metric tonnes.",
+          "这批货重9.6公吨。"
+        ],
+        [
+          "The agreed tantalum grade is twenty-seven point eight percent.",
+          "约定钽品位为27.8%。"
+        ],
+        [
+          "The illustrative unit price is four dollars and seventy cents per MKU.",
+          "示例单价为每MKU 4.70美元。"
+        ],
+        [
+          "The provisional invoice is twenty-eight thousand four hundred US dollars.",
+          "模拟暂定发票金额为28,400美元。"
+        ],
+        [
+          "The proposed advance is forty percent, or eleven thousand three hundred and sixty dollars.",
+          "拟支付40%预付款，即11,360美元。"
+        ],
+        [
+          "The illustrative exchange rate is one dollar to one thousand four hundred and eighty Rwandan francs.",
+          "模拟汇率为1美元兑1,480卢旺达法郎。"
+        ],
+        [
+          "At that rate, the advance equals sixteen million eight hundred and twelve thousand eight hundred francs.",
+          "按该汇率，预付款为16,812,800卢旺达法郎。"
+        ],
+        [
+          "Read the invoice number as INV zero two eight six, and the lot number as LOT zero seven four.",
+          "将发票号读作INV-0286，批次号读作LOT-074。"
+        ]
+      ]
+    },
+    {
+      "title": "Shadowing跟读",
+      "english": "Shadowing under pressure",
+      "hint": "6分钟：每句跟读五次，注意付款暂停与礼貌拒绝的语气。",
+      "lines": [
+        [
+          "We received a request to change the beneficiary account shortly before the payment cut-off.",
+          "付款截止前不久，我们收到变更收款账户的请求。"
+        ],
+        [
+          "Because the new beneficiary differs from the contract, we have temporarily suspended the transfer.",
+          "由于新收款人与合同不一致，我们已暂时中止转账。"
+        ],
+        [
+          "Our team is verifying the request independently and will issue an update after compliance approval.",
+          "我们的团队正独立核验该请求，并将在合规批准后更新进展。"
+        ]
+      ]
+    },
+    {
+      "title": "Small Talk",
+      "english": "Professional small talk",
+      "hint": "4分钟：两人对话，保持专业而不过度承诺。",
+      "lines": [
+        [
+          "Good morning. Did your team complete the warehouse inspection?",
+          "早上好，你们团队完成仓库检查了吗？"
+        ],
+        [
+          "Yes, the bags were counted and the lot was sealed.",
+          "完成了，吨包已清点，批次也已封存。"
+        ],
+        [
+          "Thank you. I understand the truck is scheduled to leave this afternoon.",
+          "谢谢。我了解到卡车计划今天下午离开。"
+        ],
+        [
+          "That is correct. We are waiting for payment confirmation.",
+          "没错，我们正在等待付款确认。"
+        ],
+        [
+          "I will update you once the verification is complete.",
+          "核验完成后我会向你更新。"
+        ]
+      ]
+    },
+    {
+      "title": "矿业业务沟通",
+      "english": "Mining procurement and compliance",
+      "hint": "8分钟：压力点一，供应商要求改第三方账户；压力点二，发票金额与合同不符。给出拒绝与补救方案。",
+      "lines": [
+        [
+          "The supplier requests payment to a newly nominated third-party account.",
+          "供应商要求将货款汇入新指定的第三方账户。"
+        ],
+        [
+          "We cannot approve a third-party beneficiary without contractual justification and enhanced checks.",
+          "没有合同依据和强化核查，我们不能批准第三方收款人。"
+        ],
+        [
+          "The invoice total differs from the purchase order by six hundred dollars.",
+          "发票总额与采购订单相差600美元。"
+        ],
+        [
+          "Please issue a corrected invoice or a signed reconciliation statement.",
+          "请出具更正发票或签署的差异调节说明。"
+        ],
+        [
+          "We will retain the payment hold until finance and compliance both sign off.",
+          "在财务和合规共同批准前，我们将维持付款暂停。"
+        ],
+        [
+          "A supplier's verbal assurance is not sufficient evidence of account ownership.",
+          "供应商的口头保证不足以证明账户归属。"
+        ]
+      ]
+    },
+    {
+      "title": "运输押运与海关",
+      "english": "Escort and export documentation",
+      "hint": "7分钟：压力点三，押运司机催促放行；区分货物放行与资金支付。",
+      "lines": [
+        [
+          "The truck is waiting at the secure dispatch area.",
+          "卡车正在安全发运区等候。"
+        ],
+        [
+          "Please verify the seal number against the stuffing report.",
+          "请将封签号与装柜报告核对。"
+        ],
+        [
+          "The packing list must match the verified net weight.",
+          "装箱单必须与核实的净重一致。"
+        ],
+        [
+          "Do not release the shipment based solely on a payment screenshot.",
+          "不要仅凭付款截图放行货物。"
+        ],
+        [
+          "The customs declaration and mineral traceability records must be consistent.",
+          "海关申报与矿产品溯源记录必须一致。"
+        ],
+        [
+          "If the documentation is incomplete, escalate to the logistics manager before the truck departs.",
+          "如果文件不完整，请在车辆离开前升级给物流经理。"
+        ]
+      ]
+    },
+    {
+      "title": "15分钟高压角色扮演",
+      "english": "Fifteen-minute negotiation drill",
+      "hint": "15分钟：三轮各五分钟；每轮至少五句英文并明确行动、依据、截止时间。",
+      "lines": [
+        [
+          "Round one: The supplier insists that the bank account change is urgent and threatens to cancel the deal.",
+          "第一轮：供应商坚称银行账户变更非常紧急，并威胁取消交易。"
+        ],
+        [
+          "Model answer: We value the relationship, but we cannot transfer funds until the new beneficiary is independently verified.",
+          "示范回答：我们重视合作，但在新收款人完成独立核验前不能转账。"
+        ],
+        [
+          "Round two: The bank flags a possible sanctions match and asks for additional documentation.",
+          "第二轮：银行提示可能命中制裁筛查并要求补充材料。"
+        ],
+        [
+          "Model answer: We will submit the requested documents and wait for the bank's clearance; we will not reroute the payment to avoid screening.",
+          "示范回答：我们将提交要求的材料并等待银行放行，不会通过改道付款规避筛查。"
+        ],
+        [
+          "Round three: The truck driver demands immediate release while the packing list shows an inconsistent weight.",
+          "第三轮：司机要求立即放行，但装箱单重量不一致。"
+        ],
+        [
+          "Model answer: Please keep the truck secured while we reconcile the weighing record and obtain written release approval.",
+          "示范回答：请保持车辆安全停放，我们将核对称重记录并取得书面放行批准。"
+        ]
+      ]
+    },
+    {
+      "title": "5句听写",
+      "english": "Five dictation sentences",
+      "hint": "5分钟：先隐藏英文听读并默写，随后检查关键词。",
+      "lines": [
+        [
+          "The beneficiary name does not match the contract.",
+          "收款人名称与合同不一致。"
+        ],
+        [
+          "Please provide an updated bank confirmation.",
+          "请提供更新的银行确认函。"
+        ],
+        [
+          "The payment remains on hold pending compliance review.",
+          "付款在合规审核期间继续暂缓。"
+        ],
+        [
+          "We cannot bypass the sanctions screening process.",
+          "我们不能绕过制裁筛查流程。"
+        ],
+        [
+          "The truck will depart only after written authorization.",
+          "车辆只有在取得书面授权后才能离开。"
+        ]
+      ]
+    },
+    {
+      "title": "5道口语题",
+      "english": "Five speaking questions",
+      "hint": "5分钟：每题回答30至45秒，至少包括风险、控制和下一步。",
+      "lines": [
+        [
+          "How would you verify a last-minute change of beneficiary?",
+          "你会如何核验最后一刻的收款人变更？"
+        ],
+        [
+          "What would you tell a supplier who demands immediate payment?",
+          "供应商要求立即付款时你会怎么说？"
+        ],
+        [
+          "How do you respond to a sanctions-screening hold?",
+          "你会如何应对制裁筛查暂缓？"
+        ],
+        [
+          "What documents must match before an export shipment is released?",
+          "出口货物放行前哪些文件必须一致？"
+        ],
+        [
+          "How do you communicate a deadline without promising an unapproved payment?",
+          "如何明确截止时间而不承诺未经批准的付款？"
+        ]
+      ]
+    },
+    {
+      "title": "近期知识复习",
+      "english": "Recent knowledge review",
+      "hint": "4分钟：回顾近期已有的封签、取样及水分争议主题，强调控制之间的关联。",
+      "lines": [
+        [
+          "A sealed sample protects the integrity of an assay dispute.",
+          "封样可以保护化验争议中的样品完整性。"
+        ],
+        [
+          "A moisture deduction must follow the agreed calculation method.",
+          "水分扣重必须遵循约定计算方法。"
+        ],
+        [
+          "A seal discrepancy requires an evidence-based hold before release.",
+          "封签差异要求在放行前基于证据暂缓处理。"
+        ],
+        [
+          "A beneficiary mismatch requires independent verification before payment.",
+          "收款人不匹配要求付款前进行独立核验。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Full professional briefing",
+      "hint": "5分钟：先逐句点读，再脱稿做90秒工作汇报。",
+      "lines": [
+        [
+          "Good morning. I would like to report an urgent payment and shipment-control issue involving a mineral purchase.",
+          "早上好，我要报告一项涉及矿产品采购的紧急付款与发运控制问题。"
+        ],
+        [
+          "Shortly before the payment cut-off, the supplier requested a change to the beneficiary bank account.",
+          "在付款截止前不久，供应商要求变更收款银行账户。"
+        ],
+        [
+          "The new beneficiary name does not match the signed contract, and the invoice amount also requires reconciliation.",
+          "新收款人名称与已签合同不一致，发票金额也需要核对。"
+        ],
+        [
+          "We have placed the transfer on hold and requested a signed amendment, bank confirmation, and supporting invoice.",
+          "我们已暂缓转账，并要求提供签署的变更文件、银行确认函及支持性发票。"
+        ],
+        [
+          "We will verify the request through an independently confirmed contact and complete the required compliance checks.",
+          "我们将通过独立确认的联系方式核验请求，并完成必要的合规检查。"
+        ],
+        [
+          "Meanwhile, logistics is checking the seal, packing list, weighing record, and export documents before releasing the truck.",
+          "与此同时，物流部门正在核对封签、装箱单、称重记录和出口文件，之后才会放行车辆。"
+        ],
+        [
+          "We understand the commercial urgency, but we will not bypass bank screening or internal authorization controls.",
+          "我们理解商业上的紧迫性，但不会绕过银行筛查或内部授权控制。"
+        ],
+        [
+          "We will provide a factual update by two p.m. Kigali time, without promising an unapproved transfer.",
+          "我们将在基加利时间下午两点前提供事实进展，但不会承诺未经批准的转账。"
+        ],
+        [
+          "Thank you. I will document the decision and keep all relevant teams informed.",
+          "谢谢。我将记录决策，并持续通知所有相关团队。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "合计约75分钟；所有数字和业务案例均为教学模拟。",
+      "lines": [
+        [
+          "I completed pronunciation and ten key phrases.",
+          "我完成了发音训练和10个高频词组。"
+        ],
+        [
+          "I practiced ten core sentences and the numerical exercise.",
+          "我练习了10个核心句和数字训练。"
+        ],
+        [
+          "I finished shadowing and the professional small-talk dialogue.",
+          "我完成了跟读和商务寒暄对话。"
+        ],
+        [
+          "I resolved three pressure scenarios without bypassing controls.",
+          "我在不绕过控制程序的情况下处理了三个高压情境。"
+        ],
+        [
+          "I completed the dictation, speaking questions, review, and final briefing.",
+          "我完成了听写、口语题、复习和完整工作陈述。"
+        ]
+      ]
+    }
+  ]
+}
