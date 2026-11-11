@@ -1,0 +1,519 @@
+{
+  "day": 29,
+  "date": "2026-11-11",
+  "title": "锡精矿采购点价窗口与价格风险敞口控制",
+  "english": "Tin concentrate pricing windows and price exposure controls",
+  "minutes": 74,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "8分钟：先慢速三遍，再正常语速三遍；注意 provisional、exposure、quotation 的重音。",
+      "lines": [
+        [
+          "Provisional quotation",
+          "暂定报价"
+        ],
+        [
+          "Price exposure",
+          "价格风险敞口"
+        ],
+        [
+          "Quotation validity",
+          "报价有效期"
+        ],
+        [
+          "Payable metal",
+          "计价金属量"
+        ],
+        [
+          "Hedging instruction",
+          "套保指令"
+        ],
+        [
+          "Benchmark price",
+          "基准价格"
+        ]
+      ]
+    },
+    {
+      "title": "10个高频词组",
+      "english": "Ten key phrases",
+      "hint": "6分钟：遮住中文解释词义，再用每个词组造句。",
+      "lines": [
+        [
+          "Fixed-price offer",
+          "固定价格报价"
+        ],
+        [
+          "Floating-price contract",
+          "浮动价格合同"
+        ],
+        [
+          "Pricing window",
+          "点价窗口"
+        ],
+        [
+          "Treatment charge",
+          "加工费"
+        ],
+        [
+          "Payable percentage",
+          "计价比例"
+        ],
+        [
+          "Price adjustment clause",
+          "价格调整条款"
+        ],
+        [
+          "Market exposure",
+          "市场风险敞口"
+        ],
+        [
+          "Firm purchase commitment",
+          "确定采购承诺"
+        ],
+        [
+          "Approval threshold",
+          "审批阈值"
+        ],
+        [
+          "Quotation expiry",
+          "报价到期"
+        ]
+      ]
+    },
+    {
+      "title": "10个核心句",
+      "english": "Ten core sentences",
+      "hint": "6分钟：练习区分报价、承诺和最终结算；每句改写一次。",
+      "lines": [
+        [
+          "This quotation is indicative and does not constitute a binding purchase commitment.",
+          "此报价仅供参考，不构成有约束力的采购承诺。"
+        ],
+        [
+          "The benchmark must be specified in the contract.",
+          "合同必须明确基准价格。"
+        ],
+        [
+          "We can fix the price only after receiving written approval.",
+          "收到书面批准后才能锁定价格。"
+        ],
+        [
+          "Please confirm whether the charge is per dry tonne or per tonne of payable metal.",
+          "请确认费用按干吨还是计价金属吨收取。"
+        ],
+        [
+          "The offer expires at noon Kigali time.",
+          "报价于基加利时间中午到期。"
+        ],
+        [
+          "We cannot apply a new benchmark retrospectively without mutual consent.",
+          "未经双方同意，我们不能追溯适用新的基准价格。"
+        ],
+        [
+          "The provisional settlement is subject to the final contractual calculation.",
+          "暂定结算以最终合同计算为准。"
+        ],
+        [
+          "Please separate the commercial price from the logistics charges.",
+          "请将商业价格与物流费用分开列示。"
+        ],
+        [
+          "We will not increase our exposure beyond the approved limit.",
+          "我们不会将风险敞口扩大到批准限额以上。"
+        ],
+        [
+          "If the market moves before confirmation, we will issue a revised quotation.",
+          "若确认前市场波动，我们将重新报价。"
+        ]
+      ]
+    },
+    {
+      "title": "金额、吨位、品位与汇率",
+      "english": "Numbers under pressure",
+      "hint": "8分钟：以下全为虚构教学数据，不是市场行情。先口述，再独立计算，最后核对答案。",
+      "lines": [
+        [
+          "The dry weight is ten metric tonnes and the tin grade is sixty percent.",
+          "干重10公吨，锡品位60%。"
+        ],
+        [
+          "The contained tin is six metric tonnes.",
+          "含锡金属量为6公吨。"
+        ],
+        [
+          "At a payable percentage of ninety-five percent, the payable tin is five point seven tonnes.",
+          "计价比例95%，计价锡量为5.7吨。"
+        ],
+        [
+          "The hypothetical benchmark is thirty thousand dollars per tonne of payable tin.",
+          "假设基准价格为每计价锡吨30000美元。"
+        ],
+        [
+          "The gross payable value is one hundred and seventy-one thousand dollars.",
+          "计价总值为171000美元。"
+        ],
+        [
+          "The illustrative treatment charge is two hundred dollars per dry tonne, or two thousand dollars in total.",
+          "假设加工费每干吨200美元，合计2000美元。"
+        ],
+        [
+          "The net contractual value before other deductions is one hundred and sixty-nine thousand dollars.",
+          "其他扣减前的合同净值为169000美元。"
+        ],
+        [
+          "At an illustrative exchange rate of fifteen hundred francs per dollar, the net value is two hundred and fifty-three million five hundred thousand Rwandan francs.",
+          "假设汇率1500法郎兑1美元，净值为253500000卢旺达法郎。"
+        ],
+        [
+          "If the benchmark falls by one thousand dollars, the gross payable value falls by five thousand seven hundred dollars.",
+          "若基准价下跌1000美元，计价总值减少5700美元。"
+        ],
+        [
+          "Explain why the price movement is multiplied by payable metal rather than dry shipment weight.",
+          "解释为什么价格变动应乘计价金属量而非货物干重。"
+        ]
+      ]
+    },
+    {
+      "title": "Shadowing",
+      "english": "Shadowing",
+      "hint": "7分钟：先听后跟读五轮，最后用自己的话复述报价条件和风险。",
+      "lines": [
+        [
+          "Our offer is based on a hypothetical benchmark and a ninety-five percent payable factor.",
+          "我们的报价基于假设基准和95%的计价比例。"
+        ],
+        [
+          "The supplier wants an immediate fixed price, but our downstream sale has not been priced yet.",
+          "供应商要求立即锁价，但我们的下游销售尚未点价。"
+        ],
+        [
+          "Fixing the purchase now would create an unapproved price exposure.",
+          "现在锁定采购价格会产生未经批准的价格风险敞口。"
+        ],
+        [
+          "We can offer a short pricing window or seek approval for a matched transaction.",
+          "我们可以提供短期点价窗口，或申请匹配交易的批准。"
+        ],
+        [
+          "Until both sides confirm the terms in writing, the quotation remains indicative.",
+          "在双方书面确认条款前，报价仍仅供参考。"
+        ]
+      ]
+    },
+    {
+      "title": "Small Talk",
+      "english": "Small talk",
+      "hint": "4分钟：交换角色，练习从寒暄自然转入报价讨论。",
+      "lines": [
+        [
+          "How has business been this week?",
+          "这周业务怎么样？"
+        ],
+        [
+          "It has been busy, especially with several quotations pending.",
+          "很忙，尤其是还有几份报价待确认。"
+        ],
+        [
+          "I hope we can agree on a workable pricing arrangement today.",
+          "希望今天能达成可执行的定价安排。"
+        ],
+        [
+          "Certainly. Shall we start with the benchmark and the pricing window?",
+          "当然，我们先讨论基准价和点价窗口好吗？"
+        ],
+        [
+          "That sounds reasonable. Let us review the figures together.",
+          "听起来合理，我们一起核对数字吧。"
+        ]
+      ]
+    },
+    {
+      "title": "矿业业务沟通",
+      "english": "Mining commercial negotiation",
+      "hint": "6分钟：模拟卢旺达锡矿采购；供应商要求锁价、下游未点价、费用单位有争议。逐项解释并提出替代方案。",
+      "lines": [
+        [
+          "The supplier is asking for a fixed purchase price while our sales contract remains floating.",
+          "供应商要求固定采购价，而销售合同仍采用浮动价格。"
+        ],
+        [
+          "A fixed purchase and a floating sale expose us to a fall in the benchmark.",
+          "固定采购价与浮动销售价组合使我们面临基准价下跌风险。"
+        ],
+        [
+          "We can propose a common pricing window for both transactions.",
+          "我们可以建议两笔交易采用共同的点价窗口。"
+        ],
+        [
+          "Alternatively, we can request a properly authorized hedge if the instrument and basis risk are acceptable.",
+          "或者，如果工具及基差风险可接受，我们可以申请经适当授权的套保。"
+        ],
+        [
+          "The treatment charge is calculated on dry shipment weight, not payable tin, under this hypothetical contract.",
+          "在本模拟合同中，加工费按货物干重而非计价锡量计算。"
+        ],
+        [
+          "Please show the payable factor, benchmark, and charges as separate lines in the quotation.",
+          "请在报价中分别列示计价比例、基准价和费用。"
+        ],
+        [
+          "We must confirm the applicable taxes and other contractual deductions separately.",
+          "我们必须另行确认适用税费及其他合同扣减。"
+        ],
+        [
+          "No employee may promise a fixed price outside the delegated authority.",
+          "任何员工不得超越授权承诺固定价格。"
+        ]
+      ]
+    },
+    {
+      "title": "运输押运与海关",
+      "english": "Transport and customs",
+      "hint": "5分钟：区分商业点价与物流放行；练习说明装车条件和延迟处理。",
+      "lines": [
+        [
+          "A pricing agreement does not replace the required export documents.",
+          "定价协议不能替代必要的出口单证。"
+        ],
+        [
+          "Please keep the dispatch schedule separate from the pricing confirmation.",
+          "请将发运计划与点价确认分开管理。"
+        ],
+        [
+          "Confirm the gross weight, tare weight, and dry-weight calculation before final invoicing.",
+          "最终开票前确认毛重、皮重及干重计算。"
+        ],
+        [
+          "The escort team must record the seal and handover details at dispatch.",
+          "押运团队必须在发运时记录封签和交接信息。"
+        ],
+        [
+          "If customs clearance is delayed, notify the buyer and document the additional storage charges.",
+          "若海关放行延迟，通知买方并记录额外仓储费用。"
+        ],
+        [
+          "Do not alter the declared value merely to match a provisional quotation.",
+          "不得仅为匹配暂定报价而修改申报价值。"
+        ]
+      ]
+    },
+    {
+      "title": "15分钟高压角色扮演",
+      "english": "15-minute pressure role-play",
+      "hint": "三轮各5分钟：先读压力情景，再不看示范作答，最后比较。每轮至少五句，必须包含拒绝理由、替代方案、责任人及时间。",
+      "lines": [
+        [
+          "Round one: The supplier says the offer must be fixed within ten minutes or the lot will be sold elsewhere.",
+          "第一轮：供应商要求十分钟内锁价，否则将货物卖给其他买家。"
+        ],
+        [
+          "I understand the urgency, but I cannot commit to a fixed price without approval.",
+          "我理解紧迫性，但未经批准不能承诺固定价格。"
+        ],
+        [
+          "I can issue an indicative offer valid for thirty minutes and request an immediate decision from our pricing manager.",
+          "我可以发出有效期30分钟的参考报价，并请定价经理立即决策。"
+        ],
+        [
+          "If you agree, we can align the purchase and sales pricing windows instead.",
+          "如果你同意，我们可以改为统一采购和销售点价窗口。"
+        ],
+        [
+          "Please confirm your preferred option in writing before the offer expires.",
+          "请在报价到期前书面确认你倾向的方案。"
+        ],
+        [
+          "Round two: The supplier insists that a charge of two hundred dollars applies to payable metal rather than dry weight.",
+          "第二轮：供应商坚持200美元费用应按计价金属量而非干重计算。"
+        ],
+        [
+          "The difference is eight hundred and sixty dollars in this exercise.",
+          "本题中两种算法相差860美元。"
+        ],
+        [
+          "We must use the unit specified in the signed contract, not an informal interpretation.",
+          "我们必须使用已签合同规定的单位，而不是非正式解释。"
+        ],
+        [
+          "I will ask our commercial team to reconcile the calculation with you before settlement.",
+          "我会请商务团队在结算前与你核对计算。"
+        ],
+        [
+          "Round three: The truck is ready, but the export invoice contains a price that has not been confirmed.",
+          "第三轮：车辆已准备就绪，但出口发票包含尚未确认的价格。"
+        ],
+        [
+          "We cannot certify an unverified invoice value simply to avoid a delay.",
+          "我们不能仅为避免延误而确认未经核验的发票金额。"
+        ],
+        [
+          "Please ask the export team to establish the correct declaration procedure and obtain written clearance.",
+          "请出口团队确认正确申报程序并取得书面放行。"
+        ],
+        [
+          "I will update the buyer within thirty minutes and record any additional logistics costs.",
+          "我将在30分钟内向买方更新情况，并记录额外物流成本。"
+        ]
+      ]
+    },
+    {
+      "title": "5句听写",
+      "english": "Five dictation prompts",
+      "hint": "4分钟：遮住英文，请设备朗读或同伴读出；默写后核对。",
+      "lines": [
+        [
+          "The quotation expires at noon Kigali time.",
+          "报价于基加利时间中午到期。"
+        ],
+        [
+          "The payable factor must be confirmed in writing.",
+          "计价比例必须书面确认。"
+        ],
+        [
+          "We cannot exceed the approved exposure limit.",
+          "我们不能超过批准的风险敞口限额。"
+        ],
+        [
+          "The treatment charge is calculated per dry tonne.",
+          "加工费按干吨计算。"
+        ],
+        [
+          "Please reconcile the invoice before authorizing dispatch.",
+          "授权发运前请核对发票。"
+        ]
+      ]
+    },
+    {
+      "title": "5道口语题",
+      "english": "Five speaking questions",
+      "hint": "4分钟：每题45秒，先给结论，再说明理由和下一步。",
+      "lines": [
+        [
+          "How would you explain the risk of a fixed purchase and a floating sale?",
+          "如何解释固定采购价与浮动销售价组合的风险？"
+        ],
+        [
+          "How do you calculate payable metal from dry weight and grade?",
+          "如何根据干重和品位计算计价金属量？"
+        ],
+        [
+          "What would you say if a supplier demanded an immediate fixed price?",
+          "供应商要求立即锁价时你会怎么说？"
+        ],
+        [
+          "How would you resolve a disagreement over the unit of a treatment charge?",
+          "如何解决加工费计量单位争议？"
+        ],
+        [
+          "What should happen if the export invoice contains an unconfirmed price?",
+          "出口发票包含未确认价格时应如何处理？"
+        ]
+      ]
+    },
+    {
+      "title": "前三课变化复习",
+      "english": "Recent lesson review",
+      "hint": "3分钟：回顾11月8日至10日的知识，分别给出一个控制措施。",
+      "lines": [
+        [
+          "Missing traceability documents must be resolved before export clearance.",
+          "缺失的溯源文件必须在出口放行前解决。"
+        ],
+        [
+          "A moisture deduction must be supported by the agreed sampling and testing procedure.",
+          "水分扣重必须有约定取样和检测程序作为依据。"
+        ],
+        [
+          "Conflicting assay results require the contractual dispute-resolution process.",
+          "化验结果冲突须遵循合同约定的争议解决程序。"
+        ],
+        [
+          "A last-minute beneficiary change requires independent verification before payment.",
+          "临时变更收款人须在付款前独立核验。"
+        ],
+        [
+          "Today we add pricing authority and exposure control to these safeguards.",
+          "今天在上述控制措施基础上增加定价授权与风险敞口控制。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Full commercial briefing",
+      "hint": "3分钟：先逐句朗读，再用90秒完整陈述，重点强调金额、风险及行动。",
+      "lines": [
+        [
+          "Good morning. We have received a request for a fixed-price purchase of a ten-tonne dry shipment of tin concentrate.",
+          "早上好，我们收到一份10干吨锡精矿固定价格采购请求。"
+        ],
+        [
+          "The illustrative grade is sixty percent and the payable factor is ninety-five percent, giving five point seven tonnes of payable tin.",
+          "模拟品位60%，计价比例95%，得到5.7吨计价锡。"
+        ],
+        [
+          "At the hypothetical benchmark of thirty thousand dollars, the gross payable value is one hundred and seventy-one thousand dollars.",
+          "按假设基准价30000美元计算，计价总值为171000美元。"
+        ],
+        [
+          "After a treatment charge of two thousand dollars, the illustrative net value is one hundred and sixty-nine thousand dollars before other deductions.",
+          "扣除2000美元加工费后，其他扣减前的模拟净值为169000美元。"
+        ],
+        [
+          "However, our downstream sale remains unpriced, so fixing the purchase would create price exposure.",
+          "但下游销售尚未点价，因此锁定采购价将产生价格风险敞口。"
+        ],
+        [
+          "I recommend matching the pricing windows or obtaining approval for an appropriate risk-management arrangement.",
+          "我建议匹配点价窗口，或申请批准适当的风险管理安排。"
+        ],
+        [
+          "The commercial team must confirm the fee unit and quotation validity in writing.",
+          "商务团队必须书面确认费用单位和报价有效期。"
+        ],
+        [
+          "Finance must verify the calculation and approval limit, while logistics must ensure the export documents are accurate.",
+          "财务须核验计算和审批限额，物流须确保出口单证准确。"
+        ],
+        [
+          "Until these conditions are met, we will not issue a binding price commitment or authorize an unsupported declaration.",
+          "在满足这些条件前，我们不会发出有约束力的价格承诺，也不会授权缺乏依据的申报。"
+        ],
+        [
+          "I will provide a consolidated update before noon Kigali time.",
+          "我将在基加利时间中午前提供汇总进展。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "1分钟：总计74分钟。所有交易数字均为教学假设。",
+      "lines": [
+        [
+          "I can pronounce the six warm-up phrases and explain ten commercial terms.",
+          "我能读出六个热身词组并解释十个商务词组。"
+        ],
+        [
+          "I can calculate payable metal and distinguish dry-tonne charges from metal-tonne charges.",
+          "我能计算计价金属量并区分干吨费用和金属吨费用。"
+        ],
+        [
+          "I can explain price exposure and refuse an unauthorized fixed-price commitment.",
+          "我能解释价格风险敞口并拒绝未经授权的锁价承诺。"
+        ],
+        [
+          "I have completed all three role-play rounds, five dictation sentences, and five speaking questions.",
+          "我已完成三轮角色扮演、五句听写及五道口语题。"
+        ],
+        [
+          "I can deliver the final briefing without reading the Chinese translation.",
+          "我能不看中文译文完成最终工作陈述。"
+        ]
+      ]
+    }
+  ]
+}
