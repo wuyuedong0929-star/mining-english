@@ -1,0 +1,467 @@
+{
+  "day": 30,
+  "date": "2026-11-12",
+  "title": "出口单证重量差异与边境押运放行决策",
+  "english": "Export document discrepancies and border release decisions",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "8分钟：逐条慢速3遍，正常速度3遍，练习重音。",
+      "lines": [
+        [
+          "Certificate of origin",
+          "原产地证书"
+        ],
+        [
+          "Export declaration",
+          "出口申报单"
+        ],
+        [
+          "Consignment reference",
+          "托运批次编号"
+        ],
+        [
+          "Document discrepancy",
+          "单证差异"
+        ],
+        [
+          "Release instruction",
+          "放行指令"
+        ],
+        [
+          "Traceability record",
+          "溯源记录"
+        ]
+      ]
+    },
+    {
+      "title": "10高频词/短语",
+      "english": "Ten key phrases",
+      "hint": "8分钟：每词造句并复述中文。",
+      "lines": [
+        [
+          "Commercial invoice",
+          "商业发票"
+        ],
+        [
+          "Packing list",
+          "装箱单"
+        ],
+        [
+          "Export permit",
+          "出口许可证"
+        ],
+        [
+          "Customs declaration",
+          "海关申报单"
+        ],
+        [
+          "Gross weight",
+          "毛重"
+        ],
+        [
+          "Net dry weight",
+          "净干重"
+        ],
+        [
+          "Seal register",
+          "封签登记表"
+        ],
+        [
+          "Consignee",
+          "收货人"
+        ],
+        [
+          "Declared value",
+          "申报价值"
+        ],
+        [
+          "Document reconciliation",
+          "单证勾稽核对"
+        ]
+      ]
+    },
+    {
+      "title": "10核心句",
+      "english": "Ten core sentences",
+      "hint": "8分钟：按问题、证据、行动顺序练习。",
+      "lines": [
+        [
+          "The invoice quantity does not match the packing list.",
+          "发票数量与装箱单不一致。"
+        ],
+        [
+          "Please hold the truck at the secure loading bay.",
+          "请让车辆停在安全装货区。"
+        ],
+        [
+          "We need the signed export permit before dispatch.",
+          "发运前需要已签署的出口许可证。"
+        ],
+        [
+          "The declared value must be supported by the contract.",
+          "申报价值必须有合同依据。"
+        ],
+        [
+          "Please verify the consignee's legal name.",
+          "请核实收货人的法定名称。"
+        ],
+        [
+          "The seal number must match the stuffing report.",
+          "封签号必须与装柜报告一致。"
+        ],
+        [
+          "Do not amend the invoice without an audit trail.",
+          "没有审计轨迹不得修改发票。"
+        ],
+        [
+          "Our compliance review is still in progress.",
+          "我们的合规审核仍在进行。"
+        ],
+        [
+          "We can issue release instructions after reconciliation.",
+          "完成核对后我们才能发出放行指令。"
+        ],
+        [
+          "Please send the corrected documents before the cut-off.",
+          "请在截止时间前发送更正文件。"
+        ]
+      ]
+    },
+    {
+      "title": "金额吨位品位汇率口述",
+      "english": "Numbers, grade and FX",
+      "hint": "6分钟：所有数据为虚构练习；先读数字再说业务含义。",
+      "lines": [
+        [
+          "The shipment weighs fourteen point eight metric tonnes gross.",
+          "该批货毛重14.8公吨。"
+        ],
+        [
+          "The measured moisture content is three point two percent.",
+          "测得含水率为3.2%。"
+        ],
+        [
+          "The illustrative dry weight is fourteen point three two six four tonnes.",
+          "模拟净干重为14.3264吨。"
+        ],
+        [
+          "The indicative tin grade is fifty-eight point six percent.",
+          "模拟锡品位为58.6%。"
+        ],
+        [
+          "The invoice value is forty-two thousand six hundred US dollars.",
+          "模拟发票金额为42600美元。"
+        ],
+        [
+          "The training exchange rate is one dollar to one thousand five hundred francs.",
+          "训练汇率为1美元兑1500法郎。"
+        ],
+        [
+          "The corresponding illustrative amount is sixty-three million nine hundred thousand francs.",
+          "对应模拟金额为6390万法郎。"
+        ],
+        [
+          "We must distinguish gross tonnes from dry tonnes.",
+          "我们必须区分毛吨与干吨。"
+        ]
+      ]
+    },
+    {
+      "title": "Shadowing",
+      "english": "Shadowing practice",
+      "hint": "5分钟：先听一次，再跟读5次，最后连贯复述。",
+      "lines": [
+        [
+          "Our export documents contain a mismatch between the commercial invoice and the packing list.",
+          "我们的出口单证中商业发票与装箱单不一致。"
+        ],
+        [
+          "The truck is secured while the logistics and compliance teams reconcile the records.",
+          "物流和合规团队核对记录期间，车辆保持安全停放。"
+        ],
+        [
+          "We will not instruct the driver to depart until the corrected documents are approved.",
+          "更正文件获批前，我们不会指示司机发车。"
+        ],
+        [
+          "Please preserve the original documents and record every revision.",
+          "请保存原始文件并记录每次修改。"
+        ]
+      ]
+    },
+    {
+      "title": "Small Talk",
+      "english": "Professional small talk",
+      "hint": "3分钟：礼貌开场、确认进度、转入问题。",
+      "lines": [
+        [
+          "Good morning. Did the customs broker receive our documents?",
+          "早上好，报关代理收到我们的文件了吗？"
+        ],
+        [
+          "Yes, but the broker flagged a weight discrepancy.",
+          "收到了，但代理指出重量差异。"
+        ],
+        [
+          "Thank you for spotting it before dispatch.",
+          "感谢在发运前发现问题。"
+        ],
+        [
+          "Could we review the records together now?",
+          "我们现在可以一起核对记录吗？"
+        ],
+        [
+          "Certainly. I will share the signed originals first.",
+          "当然，我会先分享签字原件。"
+        ]
+      ]
+    },
+    {
+      "title": "矿业业务沟通",
+      "english": "Mining commercial communication",
+      "hint": "6分钟：压力点一：客户催促先出货；压力点二：发票金额与合同不同。给出示范拒绝。",
+      "lines": [
+        [
+          "The buyer insists on immediate dispatch despite the invoice discrepancy.",
+          "尽管发票存在差异，买方仍坚持立即发货。"
+        ],
+        [
+          "I understand the deadline, but dispatch without reconciled documents would create a compliance risk.",
+          "我理解截止时间，但单证未核对就发运会产生合规风险。"
+        ],
+        [
+          "The supplier proposes changing the invoice value without a signed amendment.",
+          "供应商建议不签补充协议就更改发票金额。"
+        ],
+        [
+          "We cannot change the declared value without contractual evidence and written approval.",
+          "没有合同依据和书面批准，我们不能修改申报价值。"
+        ],
+        [
+          "Please compare the purchase order, assay certificate, invoice, and payment instruction.",
+          "请核对采购订单、化验报告、发票和付款指令。"
+        ],
+        [
+          "If the grade basis differs, explain whether the settlement uses wet or dry weight.",
+          "如果品位计算基础不同，请说明结算采用湿重还是干重。"
+        ]
+      ]
+    },
+    {
+      "title": "运输押运/海关",
+      "english": "Transport, escort and customs",
+      "hint": "5分钟：压力点三：押运车已到关口，单证未完成。",
+      "lines": [
+        [
+          "The escort officer reports that the truck has reached the border staging area.",
+          "押运员报告车辆已抵达边境待检区。"
+        ],
+        [
+          "Do not break the seal or transfer the cargo while the records are under review.",
+          "记录审核期间不得拆封或转运货物。"
+        ],
+        [
+          "Record the vehicle plate, seal number, arrival time, and handover signatures.",
+          "记录车牌、封签号、到达时间及交接签字。"
+        ],
+        [
+          "Ask the customs broker to confirm which document must be corrected.",
+          "请报关代理确认需要更正哪份文件。"
+        ],
+        [
+          "Send the updated stuffing report only after the physical details have been verified.",
+          "只有核实实物信息后才能发送更新的装柜报告。"
+        ],
+        [
+          "Escalate any unexplained change to the traceability officer.",
+          "任何无法解释的变化均须升级报告给溯源负责人。"
+        ]
+      ]
+    },
+    {
+      "title": "15分钟高压角色扮演",
+      "english": "Fifteen-minute role-play",
+      "hint": "15分钟：三轮各5分钟，每轮至少讲5句；示范答复如下。",
+      "lines": [
+        [
+          "Round one: The buyer demands dispatch within ten minutes despite a packing-list mismatch.",
+          "第一轮：买方要求十分钟内发货，但装箱单不一致。"
+        ],
+        [
+          "Model answer: We can prioritize the review, but we cannot release the cargo until the quantity is reconciled and signed off.",
+          "示范：我们可以优先审核，但数量核对并签字前不能放货。"
+        ],
+        [
+          "Round two: The supplier asks you to increase the invoice value without a contract amendment.",
+          "第二轮：供应商要求在无合同补充协议情况下提高发票金额。"
+        ],
+        [
+          "Model answer: Please provide the signed pricing amendment and assay basis. We will not submit an unsupported value.",
+          "示范：请提供签署的价格补充协议和化验依据；我们不会申报缺乏依据的金额。"
+        ],
+        [
+          "Round three: The escort officer says the border gate will close soon.",
+          "第三轮：押运员称边境关口即将关闭。"
+        ],
+        [
+          "Model answer: Park securely, preserve the seal, and send the handover log. We will issue instructions after compliance clearance.",
+          "示范：安全停车、保护封签、发送交接日志；合规放行后我们再下达指令。"
+        ],
+        [
+          "Follow-up challenge: The buyer threatens a penalty for delay.",
+          "追加压力：买方威胁就延误收取违约金。"
+        ],
+        [
+          "Model answer: We will document the cause and review contractual remedies, but we will not bypass export controls.",
+          "示范：我们会记录原因并核查合同救济条款，但不会绕过出口管控。"
+        ]
+      ]
+    },
+    {
+      "title": "5句听写",
+      "english": "Five dictation sentences",
+      "hint": "4分钟：先隐藏英文听写，再核对。",
+      "lines": [
+        [
+          "The invoice and packing list must agree.",
+          "发票与装箱单必须一致。"
+        ],
+        [
+          "Please verify the declared net weight.",
+          "请核实申报净重。"
+        ],
+        [
+          "The truck must remain at the secure checkpoint.",
+          "车辆必须留在安全检查点。"
+        ],
+        [
+          "We need written approval before dispatch.",
+          "发运前需要书面批准。"
+        ],
+        [
+          "Keep a complete record of every correction.",
+          "完整记录每一次更正。"
+        ]
+      ]
+    },
+    {
+      "title": "5道口语题",
+      "english": "Five speaking questions",
+      "hint": "3分钟：每题回答30秒，按结论、理由、行动三部分组织。",
+      "lines": [
+        [
+          "What would you do if the packing list and invoice showed different weights?",
+          "装箱单与发票重量不同时怎么办？"
+        ],
+        [
+          "How would you explain a compliance hold to an impatient buyer?",
+          "如何向急躁买方解释合规暂缓？"
+        ],
+        [
+          "Which documents would you compare before approving an invoice amendment?",
+          "批准发票修改前核对哪些文件？"
+        ],
+        [
+          "How would you instruct an escort officer waiting at the border?",
+          "如何指示边境等候的押运员？"
+        ],
+        [
+          "What evidence would justify releasing a shipment?",
+          "哪些证据能够支持放行货物？"
+        ]
+      ]
+    },
+    {
+      "title": "前三课复习",
+      "english": "Recent lessons review",
+      "hint": "2分钟：复习已知近三课主题，不虚构缺课。",
+      "lines": [
+        [
+          "Day twenty-seven covered assay disputes and settlement controls.",
+          "第27课讨论化验争议与结算控制。"
+        ],
+        [
+          "Day twenty-eight covered beneficiary changes and sanctions screening.",
+          "第28课讨论收款人变更与制裁筛查。"
+        ],
+        [
+          "Day twenty-nine covered pricing windows and price exposure.",
+          "第29课讨论点价窗口与价格敞口。"
+        ],
+        [
+          "Today's lesson connects document reconciliation with physical cargo release.",
+          "今天把单证核对与实物放行连接起来。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Complete operational briefing",
+      "hint": "5分钟：先逐句跟读，最后不看文本连贯陈述。",
+      "lines": [
+        [
+          "Good morning. We have identified a discrepancy between the commercial invoice and the packing list for today's mineral shipment.",
+          "早上好，我们发现今天矿产品货运的商业发票与装箱单不一致。"
+        ],
+        [
+          "The gross weight, dry weight, and declared value must be reconciled against the signed contract and laboratory records.",
+          "毛重、干重和申报价值必须与签署的合同及化验记录核对。"
+        ],
+        [
+          "The buyer has requested immediate dispatch, but we cannot authorize release while these differences remain unresolved.",
+          "买方要求立即发货，但差异未解决前我们不能授权放行。"
+        ],
+        [
+          "Our logistics team has secured the truck and instructed the escort officer to preserve the existing seal.",
+          "物流团队已妥善停放车辆，并指示押运员保护现有封签。"
+        ],
+        [
+          "The customs broker is identifying the documents that require correction, and compliance is reviewing the supporting evidence.",
+          "报关代理正在确认需要更正的文件，合规团队正在审核支持证据。"
+        ],
+        [
+          "We will retain the original documents, record each revision, and obtain written approval before submitting replacements.",
+          "我们将保留原始文件、记录每次修改，并在提交替换文件前取得书面批准。"
+        ],
+        [
+          "We recognize the commercial deadline, but we will not compromise traceability or customs compliance.",
+          "我们理解商业截止时间，但不会牺牲溯源或海关合规。"
+        ],
+        [
+          "Once the figures and seal details match, we will issue a documented release instruction and notify all parties.",
+          "数字和封签信息一致后，我们将发出有记录的放行指令并通知各方。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "2分钟：逐项核查学习结果；合计75分钟。",
+      "lines": [
+        [
+          "I practiced pronunciation, ten phrases, and ten core sentences.",
+          "我完成了发音、十个词组和十个核心句训练。"
+        ],
+        [
+          "I read the weights, grade, invoice value, and exchange rate aloud.",
+          "我口述了重量、品位、发票金额和汇率。"
+        ],
+        [
+          "I completed shadowing and the fifteen-minute negotiation simulation.",
+          "我完成了跟读和十五分钟谈判模拟。"
+        ],
+        [
+          "I answered five speaking questions and completed five dictation sentences.",
+          "我回答了五道口语题并完成五句听写。"
+        ],
+        [
+          "I can explain why cargo release requires reconciled documents and written approval.",
+          "我能解释为何放行需要单证一致和书面批准。"
+        ]
+      ]
+    }
+  ]
+}
