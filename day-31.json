@@ -1,0 +1,471 @@
+{
+  "day": 31,
+  "date": "2026-11-13",
+  "title": "矿产品出口收货人信息冲突与合规放行谈判",
+  "english": "Export consignee mismatch and compliant release negotiation",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "慢读三遍，重点区分 provisional 与 final。",
+      "lines": [
+        [
+          "Provisional acceptance",
+          "暂定验收"
+        ],
+        [
+          "Document reconciliation",
+          "单证勾稽"
+        ],
+        [
+          "Origin declaration",
+          "原产地声明"
+        ],
+        [
+          "Beneficial ownership",
+          "最终受益所有权"
+        ],
+        [
+          "Conditional release",
+          "有条件放行"
+        ]
+      ]
+    },
+    {
+      "title": "10高频词/短语",
+      "english": "Ten key expressions",
+      "hint": "每个短语造一句矿业业务句。",
+      "lines": [
+        [
+          "Certificate of origin",
+          "原产地证明"
+        ],
+        [
+          "Export permit",
+          "出口许可证"
+        ],
+        [
+          "Packing list",
+          "装箱单"
+        ],
+        [
+          "Commercial invoice",
+          "商业发票"
+        ],
+        [
+          "Traceability record",
+          "溯源记录"
+        ],
+        [
+          "Consignee details",
+          "收货人资料"
+        ],
+        [
+          "Net dry weight",
+          "净干重"
+        ],
+        [
+          "Payment milestone",
+          "付款节点"
+        ],
+        [
+          "Documentary discrepancy",
+          "单证不一致"
+        ],
+        [
+          "Written waiver",
+          "书面豁免"
+        ]
+      ]
+    },
+    {
+      "title": "10核心句",
+      "english": "Ten core sentences",
+      "hint": "按照核查、拒绝、升级、放行的顺序练习。",
+      "lines": [
+        [
+          "The certificate of origin has not been issued yet.",
+          "原产地证明尚未签发。"
+        ],
+        [
+          "Please reconcile the consignee name across all documents.",
+          "请核对所有文件中的收货人名称。"
+        ],
+        [
+          "The export permit must cover this mineral and shipment.",
+          "出口许可证必须涵盖该矿种和这批货物。"
+        ],
+        [
+          "We cannot rely on a draft certificate for customs clearance.",
+          "我们不能用证明草稿办理海关清关。"
+        ],
+        [
+          "The packing list shows a different number of bags.",
+          "装箱单显示的袋数不同。"
+        ],
+        [
+          "Please verify the net dry weight before invoicing.",
+          "开票前请核实净干重。"
+        ],
+        [
+          "A request to backdate documents must be rejected.",
+          "必须拒绝倒签文件的要求。"
+        ],
+        [
+          "The payment milestone depends on verified documents.",
+          "付款节点取决于单证核验。"
+        ],
+        [
+          "Keep the truck in the approved secure holding area.",
+          "请让车辆停在获准的安全待命区。"
+        ],
+        [
+          "We will release the shipment only after written clearance.",
+          "我们只会在取得书面放行确认后放货。"
+        ]
+      ]
+    },
+    {
+      "title": "金额/吨位/品位/汇率口述",
+      "english": "Numbers, grades and currency",
+      "hint": "以下均为教学假设，不是市场报价。先慢速读数字，再在30秒内复述。",
+      "lines": [
+        [
+          "The gross weight is fourteen thousand eight hundred kilograms.",
+          "模拟毛重为14800公斤。"
+        ],
+        [
+          "The moisture deduction is three percent.",
+          "模拟扣水率为3%。"
+        ],
+        [
+          "The calculated dry weight is fourteen point three five six metric tonnes.",
+          "计算干重为14.356公吨。"
+        ],
+        [
+          "The assay grade is fifty-eight point two percent tin.",
+          "模拟锡品位为58.2%。"
+        ],
+        [
+          "The indicative price is eighteen thousand US dollars per dry tonne.",
+          "模拟参考价为每干吨18000美元。"
+        ],
+        [
+          "The illustrative invoice amount is two hundred fifty-eight thousand four hundred and eight dollars.",
+          "模拟发票金额为258408美元。"
+        ],
+        [
+          "The exercise exchange rate is one dollar to one thousand five hundred francs.",
+          "练习汇率为1美元兑1500法郎。"
+        ],
+        [
+          "At that rate, the invoice is three hundred eighty-seven million six hundred twelve thousand francs.",
+          "按该汇率发票金额为387612000法郎。"
+        ],
+        [
+          "Please state whether the price applies to dry tonnes or contained metal.",
+          "请说明价格按干吨还是含金属量计价。"
+        ]
+      ]
+    },
+    {
+      "title": "Shadowing",
+      "english": "Shadowing",
+      "hint": "每句跟读五次；最后不看文字完成一分钟复述。",
+      "lines": [
+        [
+          "The shipment is ready, but two export documents still contain inconsistent consignee details.",
+          "货物已备妥，但两份出口单证的收货人资料仍不一致。"
+        ],
+        [
+          "We must reconcile the commercial invoice, packing list, export permit and origin documents before release.",
+          "放行前必须核对商业发票、装箱单、出口许可证及原产地文件。"
+        ],
+        [
+          "If the deadline is missed, we will notify the buyer and reschedule the truck rather than falsify records.",
+          "如果错过截止时间，我们将通知买家并重新安排车辆，而不是伪造记录。"
+        ]
+      ]
+    },
+    {
+      "title": "Small Talk",
+      "english": "Small talk",
+      "hint": "一人问、一人答，交换角色后再练。",
+      "lines": [
+        [
+          "Did the documentation team receive the revised packing list?",
+          "单证团队收到修订装箱单了吗？"
+        ],
+        [
+          "Yes, they received it this morning and are checking the bag count.",
+          "收到了，今天早上收到，正在核对袋数。"
+        ],
+        [
+          "Is the driver comfortable waiting at the secure yard?",
+          "司机在安全停车场等候是否方便？"
+        ],
+        [
+          "He is safe, and we have informed him about the expected delay.",
+          "他很安全，我们已经告知预计延误。"
+        ],
+        [
+          "Thank you for keeping everyone informed.",
+          "谢谢你持续向大家通报。"
+        ]
+      ]
+    },
+    {
+      "title": "矿业业务沟通",
+      "english": "Mining business negotiation",
+      "hint": "压力点一：买家催发货；压力点二：供应商要求先付款。每题先自己回答再读示范。",
+      "lines": [
+        [
+          "The buyer says: If you miss today's truck, we will deduct a penalty.",
+          "买家表示：如果错过今天的车，我们将扣罚款。"
+        ],
+        [
+          "Model response: We acknowledge the deadline, but the consignee mismatch must be corrected before release. Please confirm a revised dispatch window in writing.",
+          "示范回答：我们理解截止时间，但收货人不一致必须在放行前纠正。请书面确认新的发运窗口。"
+        ],
+        [
+          "The supplier says: Pay the balance now and we will send the origin certificate tomorrow.",
+          "供应商表示：现在付清尾款，明天补原产地证明。"
+        ],
+        [
+          "Model response: The contract requires verified export documents before the final payment. We can review any undisputed amount through the normal approval process.",
+          "示范回答：合同要求尾款支付前核实出口文件。无争议款项可按正常审批流程评估。"
+        ],
+        [
+          "Confirm the mineral description, grade basis, bag count and buyer identity across the entire document pack.",
+          "请在整套文件中核实矿种描述、品位计价依据、袋数及买方身份。"
+        ],
+        [
+          "Never substitute an unrelated origin document or invent a traceability number.",
+          "不得使用无关原产地文件替代，也不得编造溯源编号。"
+        ]
+      ]
+    },
+    {
+      "title": "运输押运/海关",
+      "english": "Transport, escort and customs",
+      "hint": "压力点三：司机已到口岸，代理要求倒签。训练拒绝并给替代路径。",
+      "lines": [
+        [
+          "The customs broker asks us to backdate the origin certificate to avoid a delay.",
+          "报关代理要求倒签原产地证明以避免延误。"
+        ],
+        [
+          "Model response: We cannot backdate or alter official records. Please request a lawful correction or revised clearance appointment.",
+          "示范回答：我们不能倒签或篡改官方记录。请申请合法更正或重新预约清关。"
+        ],
+        [
+          "Ask the escort officer to record the truck location and current seal number.",
+          "要求押运员记录车辆位置及当前封签号。"
+        ],
+        [
+          "Do not break the seal while the document discrepancy remains unresolved.",
+          "单证差异未解决前不得拆封。"
+        ],
+        [
+          "Check whether the actual bag count matches the signed stuffing report.",
+          "核实实际袋数是否与签署的装柜报告一致。"
+        ],
+        [
+          "Escalate any unexplained route deviation to logistics and compliance.",
+          "任何无法解释的路线偏离均应上报物流与合规。"
+        ]
+      ]
+    },
+    {
+      "title": "15分钟高压角色扮演",
+      "english": "Fifteen-minute role-play",
+      "hint": "三轮各5分钟：先陈述决定，再解释风险，最后提出可执行替代方案。",
+      "lines": [
+        [
+          "Round one: You are the exporter. The buyer demands immediate release despite a consignee mismatch.",
+          "第一轮：你是出口方，买家在收货人信息不符的情况下要求立即放货。"
+        ],
+        [
+          "Model answer: I cannot authorize release until the consignee details match. I will send a corrected document checklist within thirty minutes.",
+          "示范：资料一致前我不能授权放货。我将在30分钟内发送修订文件清单。"
+        ],
+        [
+          "Round two: You are the finance manager. A supplier asks for final payment before the certificate arrives.",
+          "第二轮：你是财务经理，供应商要求在证明到达前支付尾款。"
+        ],
+        [
+          "Model answer: The final payment remains conditional on document verification. Please provide the signed certificate and invoice for review.",
+          "示范：尾款仍以单证核验为条件。请提供签署的证明和发票供审核。"
+        ],
+        [
+          "Round three: You are the logistics lead. The driver is waiting and the broker suggests backdating paperwork.",
+          "第三轮：你是物流负责人，司机正在等候，代理建议倒签单证。"
+        ],
+        [
+          "Model answer: We will not backdate records. Keep the cargo secure, document the delay and request the next lawful clearance slot.",
+          "示范：我们不会倒签记录。请确保货物安全、记录延误并申请下一个合法清关时段。"
+        ],
+        [
+          "Close each round by confirming who owns the next action and when they will report back.",
+          "每轮结束时确认下一步责任人及反馈时间。"
+        ]
+      ]
+    },
+    {
+      "title": "5句听写",
+      "english": "Five dictation sentences",
+      "hint": "遮住英文后听写，再对照检查冠词、介词和拼写。",
+      "lines": [
+        [
+          "The consignee name must match on every document.",
+          "每份单证的收货人名称必须一致。"
+        ],
+        [
+          "Please send the corrected packing list today.",
+          "请今天发送修订装箱单。"
+        ],
+        [
+          "We cannot backdate the origin certificate.",
+          "我们不能倒签原产地证明。"
+        ],
+        [
+          "The truck will remain in the secure holding area.",
+          "车辆将在安全待命区继续等候。"
+        ],
+        [
+          "Payment is subject to compliance approval.",
+          "付款须经合规审批。"
+        ]
+      ]
+    },
+    {
+      "title": "5道口语题",
+      "english": "Five speaking questions",
+      "hint": "每题45秒，采用决定、原因、证据、下一步四句结构。",
+      "lines": [
+        [
+          "What would you do if the consignee name differs between the invoice and the export permit?",
+          "发票和出口许可证上的收货人名称不同，你会怎么做？"
+        ],
+        [
+          "How would you explain a lawful shipment delay to an impatient buyer?",
+          "如何向不耐烦的买家解释合法的发运延误？"
+        ],
+        [
+          "What documents should be verified before final payment?",
+          "支付尾款前应核验哪些文件？"
+        ],
+        [
+          "How would you refuse a request to backdate a certificate?",
+          "如何拒绝倒签证明的要求？"
+        ],
+        [
+          "What information must the escort officer record during a delay?",
+          "延误期间押运员必须记录哪些信息？"
+        ]
+      ]
+    },
+    {
+      "title": "前三课复习",
+      "english": "Review of recent lessons",
+      "hint": "复习Day28—30的核心风险，不要求历史欠课齐全。",
+      "lines": [
+        [
+          "Day twenty-eight: Verify any beneficiary-account change through an independent channel.",
+          "第28课：通过独立渠道核验收款账户变更。"
+        ],
+        [
+          "Day twenty-nine: Do not lock a purchase price before understanding the downstream pricing exposure.",
+          "第29课：未明确下游点价风险敞口前不要仓促锁定采购价。"
+        ],
+        [
+          "Day thirty: Reconcile the invoice weight, packing list and customs declaration.",
+          "第30课：核对发票重量、装箱单与报关申报。"
+        ],
+        [
+          "Today's rule: Never release cargo using inconsistent or falsified export documents.",
+          "今日原则：不得依据不一致或伪造的出口文件放货。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Complete professional briefing",
+      "hint": "先逐句读，再合并为90秒完整口头汇报。",
+      "lines": [
+        [
+          "Good morning. I am reporting a documentation discrepancy affecting today's proposed mineral shipment.",
+          "早上好，我汇报今天计划发运矿产品的一项单证差异。"
+        ],
+        [
+          "The cargo has been weighed and secured, but the consignee details differ between the invoice and export paperwork.",
+          "货物已称重并妥善保管，但发票与出口文件中的收货人信息不一致。"
+        ],
+        [
+          "Our documentation team is reconciling the export permit, certificate of origin, packing list and signed stuffing report.",
+          "单证团队正在核对出口许可证、原产地证明、装箱单和签署的装柜报告。"
+        ],
+        [
+          "The buyer has requested immediate dispatch, while the supplier is asking for the final payment.",
+          "买家要求立即发运，同时供应商要求支付尾款。"
+        ],
+        [
+          "We cannot release the cargo or approve a conditional payment without completing the applicable checks.",
+          "在完成适用核验前，我们不能放行货物或批准附条件付款。"
+        ],
+        [
+          "The truck will remain at an approved secure location, and the escort officer will document the delay and seal condition.",
+          "车辆将停在获准的安全地点，押运员将记录延误和封签状态。"
+        ],
+        [
+          "We will not backdate certificates, change factual shipment data or bypass traceability requirements.",
+          "我们不会倒签证明、篡改真实发运数据或绕过溯源要求。"
+        ],
+        [
+          "By four p.m. Kigali time, we will provide a corrected document status, responsible persons and a revised dispatch proposal.",
+          "我们将在基加利时间下午四点前提供修订单证状态、责任人及新的发运建议。"
+        ],
+        [
+          "Thank you for your patience. Our priority is a lawful, traceable and commercially controlled shipment.",
+          "感谢耐心等待。我们的首要目标是合法、可溯源且商业风险可控的发运。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "总计75分钟；按顺序完成并记录三次压力决策。",
+      "lines": [
+        [
+          "Spend eight minutes on pronunciation and ten minutes on key expressions.",
+          "发音练习8分钟，高频表达10分钟。"
+        ],
+        [
+          "Spend ten minutes on core sentences and eight minutes on numerical speaking.",
+          "核心句10分钟，数字口述8分钟。"
+        ],
+        [
+          "Spend six minutes on shadowing and four minutes on small talk.",
+          "跟读6分钟，寒暄4分钟。"
+        ],
+        [
+          "Spend eight minutes on operations and escort instructions.",
+          "业务与押运训练8分钟。"
+        ],
+        [
+          "Complete the fifteen-minute role-play without skipping any decision.",
+          "完整完成15分钟角色扮演，不跳过任何决策。"
+        ],
+        [
+          "Spend four minutes on dictation, speaking and review.",
+          "听写、口语与复习4分钟。"
+        ],
+        [
+          "Spend two minutes delivering the final briefing.",
+          "完整陈述2分钟。"
+        ]
+      ]
+    }
+  ]
+}
