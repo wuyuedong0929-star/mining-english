@@ -1,0 +1,503 @@
+{
+  "day": 32,
+  "date": "2026-11-14",
+  "title": "溯源标签缺项与出口放行倒签压力",
+  "english": "Missing traceability tag and pressure to backdate export records",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "慢速三遍、正常三遍，特别区分 provisional 与 final。",
+      "lines": [
+        [
+          "Provisional release",
+          "临时放行"
+        ],
+        [
+          "Traceability record",
+          "溯源记录"
+        ],
+        [
+          "Export permit",
+          "出口许可证"
+        ],
+        [
+          "Consignment",
+          "托运批次"
+        ],
+        [
+          "Supporting evidence",
+          "支持证据"
+        ],
+        [
+          "Reconciliation",
+          "核对一致"
+        ],
+        [
+          "Authorized signatory",
+          "授权签字人"
+        ]
+      ]
+    },
+    {
+      "title": "10高频词/短语",
+      "english": "Ten key expressions",
+      "hint": "先读英文，再遮住中文解释术语。",
+      "lines": [
+        [
+          "Origin declaration",
+          "原产地声明"
+        ],
+        [
+          "Chain-of-custody log",
+          "交接链日志"
+        ],
+        [
+          "Mineral tag",
+          "矿产品标签"
+        ],
+        [
+          "Export clearance",
+          "出口放行许可"
+        ],
+        [
+          "Certificate validity",
+          "证书有效性"
+        ],
+        [
+          "Document discrepancy",
+          "单证差异"
+        ],
+        [
+          "Provisional invoice",
+          "暂定发票"
+        ],
+        [
+          "Final settlement",
+          "最终结算"
+        ],
+        [
+          "Independent verification",
+          "独立核验"
+        ],
+        [
+          "Escalation protocol",
+          "升级处理程序"
+        ]
+      ]
+    },
+    {
+      "title": "10核心句",
+      "english": "Ten core sentences",
+      "hint": "逐句跟读后不看文字重述。",
+      "lines": [
+        [
+          "The export permit is valid, but the tag register is incomplete.",
+          "出口许可证有效，但标签登记册不完整。"
+        ],
+        [
+          "Please identify the missing tags by lot number.",
+          "请按批次编号识别缺失的标签。"
+        ],
+        [
+          "We cannot substitute an unverified origin statement.",
+          "我们不能用未经核验的原产地声明替代。"
+        ],
+        [
+          "The shipment must remain segregated until reconciliation is complete.",
+          "核对完成前，货物必须隔离存放。"
+        ],
+        [
+          "Please confirm who signed the custody transfer.",
+          "请确认谁签署了交接记录。"
+        ],
+        [
+          "The buyer is asking for a release decision within thirty minutes.",
+          "买方要求三十分钟内决定是否放行。"
+        ],
+        [
+          "A provisional invoice is not evidence of export clearance.",
+          "暂定发票不能证明已经获准出口。"
+        ],
+        [
+          "We need a written response from the responsible compliance officer.",
+          "我们需要责任合规人员的书面回复。"
+        ],
+        [
+          "Do not alter the original date or serial number.",
+          "不得修改原始日期或序列号。"
+        ],
+        [
+          "We will communicate a revised dispatch time after verification.",
+          "核验后我们会通知新的发运时间。"
+        ]
+      ]
+    },
+    {
+      "title": "数字金额吨位品位汇率",
+      "english": "Numbers, weights, grades and FX",
+      "hint": "全部为虚构教学数据。读数后计算净干重，口述单位。",
+      "lines": [
+        [
+          "The shipment consists of twenty-four bags weighing one thousand two hundred kilograms each.",
+          "货物共24袋，每袋1200公斤。"
+        ],
+        [
+          "The gross weight is twenty-eight point eight metric tonnes.",
+          "毛重为28.8公吨。"
+        ],
+        [
+          "The moisture allowance is three point five percent.",
+          "水分扣减比例为3.5%。"
+        ],
+        [
+          "The calculated dry weight is twenty-seven point seven nine two metric tonnes.",
+          "计算净干重为27.792公吨。"
+        ],
+        [
+          "The illustrative tin grade is sixty-one point two percent.",
+          "模拟锡品位为61.2%。"
+        ],
+        [
+          "The provisional price is eighteen thousand six hundred US dollars per dry tonne.",
+          "模拟暂定价格为每干吨18600美元。"
+        ],
+        [
+          "The exercise exchange rate is one dollar to one thousand five hundred Rwandan francs.",
+          "练习汇率为1美元兑1500卢旺达法郎。"
+        ],
+        [
+          "The sample payment amount is forty-two thousand US dollars.",
+          "模拟付款金额为42000美元。"
+        ],
+        [
+          "Twenty-four tags are expected, but only twenty-three appear in the register.",
+          "应有24个标签，但登记册只有23个。"
+        ]
+      ]
+    },
+    {
+      "title": "Shadowing",
+      "english": "Shadowing under pressure",
+      "hint": "第一轮听读，第二轮同步跟读，第三轮录音复述。",
+      "lines": [
+        [
+          "We have identified a missing tag entry during our pre-export reconciliation.",
+          "我们在出口前核对时发现缺少一条标签记录。"
+        ],
+        [
+          "Although the physical bags are accounted for, the traceability evidence is not yet complete.",
+          "虽然实物袋数已核对，但溯源证据尚不完整。"
+        ],
+        [
+          "We will hold dispatch, preserve the original records, and request written clearance.",
+          "我们将暂停发运、保留原始记录并申请书面放行。"
+        ],
+        [
+          "We will not change the paperwork merely to meet a commercial deadline.",
+          "我们不会仅为满足商业期限而修改文件。"
+        ]
+      ]
+    },
+    {
+      "title": "Small Talk",
+      "english": "Professional small talk",
+      "hint": "分别扮演采购方与物流方。",
+      "lines": [
+        [
+          "Did your team complete the morning safety briefing?",
+          "你们团队完成早上的安全简报了吗？"
+        ],
+        [
+          "Yes, everyone has signed the attendance sheet.",
+          "完成了，所有人都已在签到表签字。"
+        ],
+        [
+          "How is the road to the border today?",
+          "今天去边境的路况如何？"
+        ],
+        [
+          "Traffic is moving, but the checkpoint is busy.",
+          "交通正常，但检查点很繁忙。"
+        ],
+        [
+          "Thanks. Let's review the documents before departure.",
+          "谢谢，我们出发前先核对单证。"
+        ]
+      ]
+    },
+    {
+      "title": "矿业业务沟通",
+      "english": "Mining operations negotiation",
+      "hint": "压力点一：买方限时催货；压力点二：供应商要求先付款。回答需说明控制措施与替代时间表。",
+      "lines": [
+        [
+          "Buyer: We need the truck released in thirty minutes or we will charge a delay penalty.",
+          "买方：三十分钟内必须放车，否则收取延误罚金。"
+        ],
+        [
+          "Response: We understand the urgency, but traceability clearance is a release condition. We will provide a documented status update within twenty minutes.",
+          "示范：理解紧迫性，但溯源核验是放行条件。我们会在二十分钟内提供书面进度。"
+        ],
+        [
+          "Supplier: Please pay the full balance now and resolve the tag issue later.",
+          "供应商：请现在支付全部尾款，标签问题以后解决。"
+        ],
+        [
+          "Response: We can review any undisputed amount under the contract, but the disputed balance requires verified documents and approval.",
+          "示范：可按合同审核无争议金额，但争议尾款需要核实文件并完成审批。"
+        ],
+        [
+          "Please reconcile bag IDs, tag numbers, weight tickets, and the assay lot reference.",
+          "请核对袋号、标签号、地磅单和化验批次编号。"
+        ],
+        [
+          "No one may create a replacement record without a documented investigation.",
+          "没有书面调查记录，任何人不得补造替代记录。"
+        ]
+      ]
+    },
+    {
+      "title": "运输押运/海关",
+      "english": "Transport, escort and customs",
+      "hint": "压力点三：代理建议倒签标签记录；练习明确拒绝。",
+      "lines": [
+        [
+          "The escort officer must confirm the truck location and seal condition.",
+          "押运人员必须确认车辆位置和封签状态。"
+        ],
+        [
+          "Keep the cargo in the approved secure holding area.",
+          "将货物存放在获准的安全暂存区。"
+        ],
+        [
+          "Customs broker: We could backdate the missing tag entry to avoid a delay.",
+          "报关代理：可以倒签缺失标签记录以免延误。"
+        ],
+        [
+          "Response: We cannot backdate or fabricate records. Please report the discrepancy and request the lawful correction procedure.",
+          "示范：不能倒签或伪造记录。请报告差异并申请合法更正程序。"
+        ],
+        [
+          "Photograph the seal, the bag labels, and the signed handover sheet.",
+          "拍摄封签、袋子标签及签署的交接单。"
+        ],
+        [
+          "Do not depart until the responsible authority confirms clearance in writing.",
+          "责任机构书面确认放行前不得出发。"
+        ]
+      ]
+    },
+    {
+      "title": "15分钟高压角色扮演",
+      "english": "Fifteen-minute role-play",
+      "hint": "三轮各五分钟；每轮先自由作答，再朗读示范，最后换角色。",
+      "lines": [
+        [
+          "Round one: The buyer threatens a penalty because one tag is missing from the register.",
+          "第一轮：买方因登记册缺少一个标签而威胁罚款。"
+        ],
+        [
+          "Buyer: Your delay will disrupt our factory schedule. Release the shipment now.",
+          "买方：你们延误会打乱工厂计划，现在放货。"
+        ],
+        [
+          "Manager: I recognize the cost of delay. However, we cannot release an incompletely documented shipment. I will send a written update within twenty minutes.",
+          "经理示范：理解延误成本，但不能放行单证不完整的货物。我会在二十分钟内提供书面更新。"
+        ],
+        [
+          "Round two: A supplier demands full settlement before the discrepancy is resolved.",
+          "第二轮：供应商要求差异解决前全额结算。"
+        ],
+        [
+          "Supplier: We delivered all twenty-four bags, so there is no reason to hold payment.",
+          "供应商：我们交付了24袋，没有理由扣款。"
+        ],
+        [
+          "Finance: Physical delivery is confirmed, but the traceability record remains incomplete. We will review the contract and release only amounts that pass approval.",
+          "财务示范：实物交付已确认，但溯源记录不完整。我们将审查合同，仅支付审批通过的款项。"
+        ],
+        [
+          "Round three: The broker suggests changing the document date to meet the export cut-off.",
+          "第三轮：代理建议修改文件日期赶出口截止时间。"
+        ],
+        [
+          "Broker: Nobody will notice if we change the date to yesterday.",
+          "代理：把日期改成昨天没人会发现。"
+        ],
+        [
+          "Compliance: We will not falsify the record. Preserve the original, document the discrepancy, and ask the authority for the proper amendment process.",
+          "合规示范：我们不会伪造记录。保留原件、记录差异，并向主管部门询问合规更正程序。"
+        ]
+      ]
+    },
+    {
+      "title": "5句听写",
+      "english": "Five dictation sentences",
+      "hint": "先只听音频并默写，再核对英文。",
+      "lines": [
+        [
+          "One tag number is missing from the register.",
+          "登记册缺少一个标签号码。"
+        ],
+        [
+          "Please preserve the original export documents.",
+          "请保留原始出口文件。"
+        ],
+        [
+          "The shipment is on hold pending verification.",
+          "货物在核验前暂停放行。"
+        ],
+        [
+          "We cannot backdate the handover record.",
+          "我们不能倒签交接记录。"
+        ],
+        [
+          "The compliance officer will provide written clearance.",
+          "合规人员将提供书面放行确认。"
+        ]
+      ]
+    },
+    {
+      "title": "5道口语题",
+      "english": "Five speaking questions",
+      "hint": "每题用英文回答45秒：结论、原因、行动、截止时间。",
+      "lines": [
+        [
+          "How would you explain the difference between physical stock and traceability records?",
+          "如何解释实物库存与溯源记录的差别？"
+        ],
+        [
+          "What would you tell a buyer who threatens a delay penalty?",
+          "买方威胁延误罚金时你会怎么说？"
+        ],
+        [
+          "Which documents would you reconcile before export?",
+          "出口前你会核对哪些单证？"
+        ],
+        [
+          "How would you respond to a request to backdate a record?",
+          "有人要求倒签记录时你会如何回应？"
+        ],
+        [
+          "Under what conditions could an undisputed payment be reviewed?",
+          "什么条件下可以审核支付无争议款项？"
+        ]
+      ]
+    },
+    {
+      "title": "前三课复习",
+      "english": "Recent knowledge review",
+      "hint": "复习最近三课Day29至31；每句脱稿复述。",
+      "lines": [
+        [
+          "A pricing deadline does not eliminate the need for an approved quotation.",
+          "点价截止时间不能免除报价审批。"
+        ],
+        [
+          "Invoice and packing-list weights must be reconciled before export.",
+          "出口前必须核对发票与装箱单重量。"
+        ],
+        [
+          "Consignee details must match the verified export documents.",
+          "收货人信息必须与已核验出口文件一致。"
+        ],
+        [
+          "A bank payment hold requires documentary resolution, not verbal pressure.",
+          "银行付款暂停需要单证解决，不能靠口头施压。"
+        ],
+        [
+          "Today we add traceability tags to the pre-release control checklist.",
+          "今天将溯源标签纳入放行前控制清单。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Full workplace briefing",
+      "hint": "完整读两遍，再在不看稿的情况下用90秒复述。",
+      "lines": [
+        [
+          "Good morning. Our team completed the physical count of twenty-four mineral bags, but the tag register contains only twenty-three entries.",
+          "早上好。团队完成了24袋矿产品的实物清点，但标签登记册只有23条记录。"
+        ],
+        [
+          "The export permit and the provisional invoice are available, yet the chain-of-custody evidence is incomplete.",
+          "出口许可证和暂定发票已经具备，但交接链证据尚不完整。"
+        ],
+        [
+          "We have isolated the lot in the secure holding area and asked the escort officer to confirm the seal condition.",
+          "我们已将批次隔离存放在安全暂存区，并要求押运人员确认封签状态。"
+        ],
+        [
+          "The buyer has requested immediate release and warned of a possible delay penalty.",
+          "买方要求立即放行，并警告可能产生延误罚金。"
+        ],
+        [
+          "We recognize the commercial impact, but we will not alter or backdate any document.",
+          "我们理解商业影响，但不会修改或倒签任何文件。"
+        ],
+        [
+          "Our logistics team is reconciling bag IDs, weight tickets, sample references, and tag records.",
+          "物流团队正在核对袋号、地磅单、样品编号及标签记录。"
+        ],
+        [
+          "Finance will separately review the undisputed payment amount under the contract and approval policy.",
+          "财务将根据合同和审批政策单独审核无争议款项。"
+        ],
+        [
+          "We will provide a written progress update within twenty minutes and a revised dispatch estimate after clearance.",
+          "我们将在二十分钟内提供书面进度，并在获准放行后更新预计发运时间。"
+        ],
+        [
+          "No shipment will depart until the responsible authority confirms the appropriate release procedure.",
+          "责任机构确认适当放行程序前，任何货物都不会出发。"
+        ],
+        [
+          "Thank you for your cooperation in protecting traceability, compliance, and our business relationship.",
+          "感谢配合，共同维护可追溯性、合规及业务关系。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "按时间分配完成全部75分钟训练，最后检查是否能脱稿回答三项压力决策。",
+      "lines": [
+        [
+          "Spend eight minutes on pronunciation and vocabulary.",
+          "发音与词汇共8分钟。"
+        ],
+        [
+          "Spend ten minutes on core sentences.",
+          "核心句训练10分钟。"
+        ],
+        [
+          "Spend eight minutes on numbers and exchange rates.",
+          "数字与汇率训练8分钟。"
+        ],
+        [
+          "Spend eight minutes on shadowing and small talk.",
+          "跟读和寒暄8分钟。"
+        ],
+        [
+          "Spend ten minutes on operations and transport decisions.",
+          "业务与运输决策10分钟。"
+        ],
+        [
+          "Spend fifteen minutes on high-pressure role-play.",
+          "高压角色扮演15分钟。"
+        ],
+        [
+          "Spend eight minutes on dictation and speaking questions.",
+          "听写与口语题8分钟。"
+        ],
+        [
+          "Spend eight minutes on review and the full briefing.",
+          "复习与完整陈述8分钟。"
+        ]
+      ]
+    }
+  ]
+}
