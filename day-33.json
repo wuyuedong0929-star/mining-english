@@ -1,0 +1,499 @@
+{
+  "day": 33,
+  "date": "2026-11-15",
+  "title": "到货受潮批次的有条件验收与结算控制",
+  "english": "Conditional acceptance of moisture-affected mineral lots",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "每词慢速三遍，正常语速三遍，重点练连读与重音。",
+      "lines": [
+        [
+          "Provisional acceptance",
+          "暂定接收"
+        ],
+        [
+          "Quarantine area",
+          "隔离存放区"
+        ],
+        [
+          "Out-of-specification",
+          "不符合规格"
+        ],
+        [
+          "Retained sample",
+          "留存样品"
+        ],
+        [
+          "Conditional release",
+          "有条件放行"
+        ],
+        [
+          "Corrective action",
+          "纠正措施"
+        ]
+      ]
+    },
+    {
+      "title": "10个高频词组",
+      "english": "Ten essential terms",
+      "hint": "每词先读英文再说中文，分别造一个真实工作句。",
+      "lines": [
+        [
+          "Lot segregation",
+          "批次隔离"
+        ],
+        [
+          "Acceptance criteria",
+          "验收标准"
+        ],
+        [
+          "Moisture deduction",
+          "水分扣减"
+        ],
+        [
+          "Reconciliation sheet",
+          "对账表"
+        ],
+        [
+          "Counter-sample",
+          "对照样品"
+        ],
+        [
+          "Nonconformance notice",
+          "不符合项通知"
+        ],
+        [
+          "Commercial hold",
+          "商业暂停"
+        ],
+        [
+          "Chain-of-custody record",
+          "样品交接记录"
+        ],
+        [
+          "Joint inspection",
+          "联合检查"
+        ],
+        [
+          "Release instruction",
+          "放行指令"
+        ]
+      ]
+    },
+    {
+      "title": "10个核心句",
+      "english": "Ten core sentences",
+      "hint": "先跟读，再用自己的话重述，注意书面确认与条件性措辞。",
+      "lines": [
+        [
+          "The arriving lot must remain segregated until inspection is complete.",
+          "到货批次必须隔离存放直至检验完成。"
+        ],
+        [
+          "Our purchase order specifies both grade and moisture limits.",
+          "采购订单同时规定品位和含水率限值。"
+        ],
+        [
+          "Please issue a written nonconformance notice.",
+          "请出具书面不符合项通知。"
+        ],
+        [
+          "The supplier may attend a jointly witnessed resampling.",
+          "供应商可以参加双方见证的重新取样。"
+        ],
+        [
+          "We cannot combine the disputed lot with accepted stock.",
+          "我们不能将争议批次与已验收库存混放。"
+        ],
+        [
+          "The provisional weight is not the final payable dry weight.",
+          "暂定重量不是最终应付净干重。"
+        ],
+        [
+          "Please reconcile the bag count against the delivery note.",
+          "请将吨包数量与送货单核对。"
+        ],
+        [
+          "We can discuss a conditional acceptance without waiving our rights.",
+          "我们可以讨论有条件接收，但不放弃合同权利。"
+        ],
+        [
+          "Payment approval requires the signed inspection report.",
+          "付款审批需要签字的检验报告。"
+        ],
+        [
+          "The final release instruction must come from an authorized officer.",
+          "最终放行指令必须由获授权人员发出。"
+        ]
+      ]
+    },
+    {
+      "title": "金额吨位品位汇率口述",
+      "english": "Numerical briefing",
+      "hint": "数字均为虚构教学假设；先遮住中文，口述数字、单位和计算。",
+      "lines": [
+        [
+          "The illustrative gross weight is nine thousand six hundred kilograms.",
+          "假设毛重为9600公斤。"
+        ],
+        [
+          "Packaging weighs one hundred and twenty kilograms.",
+          "包装重量为120公斤。"
+        ],
+        [
+          "The wet net weight is nine thousand four hundred and eighty kilograms.",
+          "湿净重为9480公斤。"
+        ],
+        [
+          "At five percent moisture, the dry weight is nine thousand and six kilograms.",
+          "按5%含水率计算，干重为9006公斤。"
+        ],
+        [
+          "The provisional grade is twenty-seven point eight percent tantalum pentoxide.",
+          "暂定五氧化二钽品位为27.8%。"
+        ],
+        [
+          "The independent result is twenty-six point nine percent.",
+          "独立检测结果为26.9%。"
+        ],
+        [
+          "The difference is zero point nine percentage points.",
+          "差异为0.9个百分点。"
+        ],
+        [
+          "The illustrative unit rate is four dollars and sixty cents per MKU.",
+          "假设单价为每MKU 4.60美元。"
+        ],
+        [
+          "The training exchange rate is one US dollar to one thousand four hundred and eighty Rwandan francs.",
+          "训练假设汇率为1美元兑1480卢旺达法郎。"
+        ],
+        [
+          "Do not calculate final settlement until the agreed assay basis is confirmed.",
+          "未确认合同约定的化验依据前不要计算最终结算额。"
+        ]
+      ]
+    },
+    {
+      "title": "Shadowing",
+      "english": "Shadowing",
+      "hint": "听一遍、影子跟读五遍，最后脱稿复述。",
+      "lines": [
+        [
+          "The truck arrived with the correct number of bags, but the moisture result exceeds the purchase specification.",
+          "卡车到货吨包数量正确，但水分结果超过采购规格。"
+        ],
+        [
+          "We will isolate the lot, invite the supplier to witness resampling, and preserve the original seals.",
+          "我们将隔离该批次，邀请供应商见证重新取样，并保留原封签。"
+        ],
+        [
+          "The bank deadline does not override our inspection and payment controls.",
+          "银行截止时间不能凌驾于检验和付款控制之上。"
+        ],
+        [
+          "Please propose a documented resolution that protects both parties.",
+          "请提出有记录可查且保护双方利益的解决方案。"
+        ]
+      ]
+    },
+    {
+      "title": "Small Talk",
+      "english": "Small talk",
+      "hint": "用自然语气完成两轮对话。",
+      "lines": [
+        [
+          "Did the delivery arrive before the rain started?",
+          "送货是在下雨前到的吗？"
+        ],
+        [
+          "Yes, but the unloading team noticed several damp bags.",
+          "是的，但卸货团队发现几个袋子受潮。"
+        ],
+        [
+          "Thanks for flagging that early. Is the storage area dry?",
+          "谢谢及时提醒，存放区干燥吗？"
+        ],
+        [
+          "We have moved the affected bags into a separate covered bay.",
+          "我们已将受影响的袋子移到单独的有顶棚区域。"
+        ],
+        [
+          "Good. Let's inspect them together before discussing acceptance.",
+          "很好，我们先一起检查，再讨论验收。"
+        ]
+      ]
+    },
+    {
+      "title": "矿业业务沟通",
+      "english": "Commercial negotiation",
+      "hint": "扮演采购负责人，先识别风险再提出可执行替代方案。",
+      "lines": [
+        [
+          "Pressure point one: The supplier demands full payment before the independent moisture result is available.",
+          "压力点一：独立水分结果尚未出来，供应商要求全额付款。"
+        ],
+        [
+          "Model answer: We can review the undisputed portion, but full settlement requires the agreed assay and signed acceptance record.",
+          "示范回答：我们可以审查无争议部分，但全额结算必须有约定化验结果及签字验收记录。"
+        ],
+        [
+          "Pressure point two: A buyer asks you to blend the wet bags with dry stock to meet an urgent shipment.",
+          "压力点二：买家要求将受潮袋与干货混合，以满足紧急发货。"
+        ],
+        [
+          "Model answer: We cannot blend disputed material before verification; we can prioritize an already accepted lot instead.",
+          "示范回答：核验前不能混合争议物料；可以优先安排已验收批次。"
+        ],
+        [
+          "Pressure point three: A transport agent asks for a backdated handover record to avoid a missed customs slot.",
+          "压力点三：运输代理要求倒签交接记录，以免错过海关窗口。"
+        ],
+        [
+          "Model answer: We must record the actual handover time and request a revised customs appointment.",
+          "示范回答：必须记录真实交接时间，并申请调整海关预约。"
+        ],
+        [
+          "Document the supplier's proposed remedy, responsible person, and deadline.",
+          "记录供应商提出的补救方案、负责人及截止时间。"
+        ],
+        [
+          "Escalate unresolved commercial exposure to the authorized decision maker.",
+          "将未解决的商业风险升级至有权限的决策人。"
+        ]
+      ]
+    },
+    {
+      "title": "运输押运与海关",
+      "english": "Transport and customs",
+      "hint": "扮演物流负责人，强调文件一致性与现场安全。",
+      "lines": [
+        [
+          "Confirm the vehicle plate and escort log before unloading.",
+          "卸货前确认车牌及押运日志。"
+        ],
+        [
+          "Record damaged bags separately and photograph their labels.",
+          "单独登记破损袋并拍摄标签。"
+        ],
+        [
+          "Compare the delivery note, packing list, and actual bag count.",
+          "核对送货单、装箱单和实际袋数。"
+        ],
+        [
+          "Maintain the sample seal register throughout transfer.",
+          "在转运全过程维护样品封签登记。"
+        ],
+        [
+          "Do not amend customs documents to conceal a quantity difference.",
+          "不得通过修改海关文件掩盖数量差异。"
+        ],
+        [
+          "If the shipment is delayed, notify the broker with accurate documents.",
+          "如发运延误，应向报关代理提供真实单证并通知。"
+        ]
+      ]
+    },
+    {
+      "title": "15分钟高压角色扮演",
+      "english": "Fifteen-minute role-play",
+      "hint": "每轮五分钟，分别承担采购、合规、物流角色；先独立回答，再对照示范。",
+      "lines": [
+        [
+          "Round one, supplier negotiation: The supplier says, 'Pay the full invoice now or we will remove the cargo.'",
+          "第一轮供应商谈判：供应商说“现在全额付款，否则我们拉走货物”。"
+        ],
+        [
+          "Buyer model answer: We respect your position, but the disputed lot remains under documented inspection; let's agree on witnessed resampling today.",
+          "采购示范回答：我们尊重你的立场，但争议批次仍处于有记录的检验程序；今天就约定见证重新取样。"
+        ],
+        [
+          "Round two, finance and compliance: A manager says, 'Approve payment first and fix the documents tomorrow.'",
+          "第二轮财务合规：经理说“先批准付款，明天再补文件”。"
+        ],
+        [
+          "Finance model answer: I cannot approve unsupported settlement. I can prepare the verified portion for review and escalate the remainder.",
+          "财务示范回答：我不能批准无依据的结算，但可以准备已核实部分供审批，并升级处理剩余部分。"
+        ],
+        [
+          "Round three, logistics: The broker says, 'Change the handover date so the export papers match.'",
+          "第三轮物流：报关代理说“把交接日期改掉，让出口单证一致”。"
+        ],
+        [
+          "Logistics model answer: We will retain the actual date and submit a documented correction or reschedule the booking.",
+          "物流示范回答：我们将保留真实日期，提交有记录的更正或重新预约。"
+        ],
+        [
+          "Closing statement: Our next action is documented resampling, reconciliation, and written release only after approval.",
+          "总结陈述：下一步是记录在案的重新取样、对账，并仅在审批后书面放行。"
+        ]
+      ]
+    },
+    {
+      "title": "5句听写",
+      "english": "Five dictations",
+      "hint": "先遮住英文，听读后默写，核对拼写。",
+      "lines": [
+        [
+          "The moisture result exceeds the contractual limit.",
+          "含水率结果超过合同限值。"
+        ],
+        [
+          "Please preserve the original sealed sample.",
+          "请保留原始封存样品。"
+        ],
+        [
+          "We cannot approve payment without supporting documents.",
+          "没有支持文件，我们无法批准付款。"
+        ],
+        [
+          "The actual handover date must remain unchanged.",
+          "实际交接日期必须保持不变。"
+        ],
+        [
+          "Please confirm the corrective action in writing.",
+          "请书面确认纠正措施。"
+        ]
+      ]
+    },
+    {
+      "title": "5道口语题",
+      "english": "Five speaking questions",
+      "hint": "每题准备30秒，连续回答45秒，包含判断、依据和下一步。",
+      "lines": [
+        [
+          "What is the difference between provisional acceptance and final acceptance?",
+          "暂定接收和最终验收有什么区别？"
+        ],
+        [
+          "How do you calculate dry weight from wet net weight and moisture?",
+          "如何用湿净重和含水率计算干重？"
+        ],
+        [
+          "What would you say if a supplier demands payment before an independent assay?",
+          "供应商在独立化验前催款，你会怎么说？"
+        ],
+        [
+          "How would you respond to a request to blend disputed material?",
+          "有人要求混合争议物料，你如何回应？"
+        ],
+        [
+          "What should you do when the actual handover date differs from the export documents?",
+          "实际交接日期与出口文件不一致时该怎么办？"
+        ]
+      ]
+    },
+    {
+      "title": "近期知识复习",
+      "english": "Recent knowledge review",
+      "hint": "结合近期已学封签、付款核验和出口单证内容。",
+      "lines": [
+        [
+          "Last lesson: Traceability labels must match the physical bags and the source records.",
+          "上节复习：溯源标签必须与实物袋和来源记录一致。"
+        ],
+        [
+          "Earlier lesson: An invoice discrepancy must be resolved before customs release.",
+          "近期复习：发票差异必须在海关放行前解决。"
+        ],
+        [
+          "Earlier lesson: A beneficiary change requires independent verification before payment.",
+          "近期复习：收款人变更必须在付款前独立核验。"
+        ],
+        [
+          "Today we add a distinct control: segregate nonconforming stock and document conditional acceptance.",
+          "今天增加不同的控制点：隔离不合格库存并记录有条件验收。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Complete business briefing",
+      "hint": "逐句跟读后连续陈述两遍，练习会议口头汇报。",
+      "lines": [
+        [
+          "Good morning. I am reporting an exception identified during the receipt of a mineral lot at our warehouse.",
+          "早上好，我汇报仓库接收一批矿产品时发现的异常。"
+        ],
+        [
+          "The physical bag count matches the delivery note, but several bags appear damp and the initial moisture test exceeds our purchase limit.",
+          "实物袋数与送货单一致，但部分袋子受潮，初步水分检测超过采购限值。"
+        ],
+        [
+          "We have placed the affected lot in a segregated covered area and recorded the bag labels, weights, and seal identifiers.",
+          "我们已将受影响批次放入有顶棚的隔离区域，并记录袋号、重量和封签编号。"
+        ],
+        [
+          "The supplier has requested immediate full payment, citing an urgent cash requirement.",
+          "供应商以资金紧急为由要求立即全额付款。"
+        ],
+        [
+          "I have explained that payment must follow the agreed inspection and authorization process, and that we can review any undisputed amount separately.",
+          "我已解释付款必须遵循约定检验与授权程序，无争议金额可以另行审查。"
+        ],
+        [
+          "We propose a jointly witnessed resampling, an independent moisture check, and a signed reconciliation sheet.",
+          "我们建议双方见证重新取样、独立水分检测以及签署对账表。"
+        ],
+        [
+          "Meanwhile, logistics must not blend or release the disputed material, even if a shipment deadline is approaching.",
+          "同时，即使发运截止时间临近，物流也不得混合或放行争议物料。"
+        ],
+        [
+          "The customs broker must use the actual handover date and accurate quantities rather than changing records retrospectively.",
+          "报关代理必须使用真实交接日期和准确数量，而不能事后篡改记录。"
+        ],
+        [
+          "Once the results and documents are reconciled, the authorized manager can decide whether to accept, adjust, or reject the lot.",
+          "结果和文件核对一致后，授权经理可以决定接收、调整或拒收该批次。"
+        ],
+        [
+          "I will provide a written status update with owners and deadlines before the end of the working day.",
+          "我将在工作日结束前提交载明负责人和截止时间的书面进展。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "总计75分钟，完成后用英文总结三个决策点。",
+      "lines": [
+        [
+          "Eight minutes: pronunciation and key terminology.",
+          "8分钟：发音和关键术语。"
+        ],
+        [
+          "Twelve minutes: core sentences and numerical briefing.",
+          "12分钟：核心句和数字汇报。"
+        ],
+        [
+          "Eight minutes: shadowing and small talk.",
+          "8分钟：跟读和寒暄。"
+        ],
+        [
+          "Eight minutes: procurement negotiation and transport controls.",
+          "8分钟：采购谈判和运输控制。"
+        ],
+        [
+          "Fifteen minutes: three pressure role-plays.",
+          "15分钟：三轮高压角色扮演。"
+        ],
+        [
+          "Eight minutes: dictation and speaking tests.",
+          "8分钟：听写和口语测试。"
+        ],
+        [
+          "Eight minutes: recent knowledge review and full briefing.",
+          "8分钟：近期知识复习和完整陈述。"
+        ],
+        [
+          "Eight minutes: repeat weak points and deliver a final summary.",
+          "8分钟：复练薄弱点并作最终总结。"
+        ]
+      ]
+    }
+  ]
+}
