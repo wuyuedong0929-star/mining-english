@@ -1,0 +1,459 @@
+{
+  "day": 36,
+  "date": "2026-11-18",
+  "title": "出口单证批次编号冲突与证据链核验",
+  "english": "Export document lot mismatch and evidence-chain verification",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "6分钟：先慢读，再正常语速连读，重点区分 documentary 与 document。",
+      "lines": [
+        [
+          "Documentary evidence",
+          "书面证据"
+        ],
+        [
+          "Certificate of origin",
+          "原产地证明"
+        ],
+        [
+          "Beneficial ownership",
+          "实际受益所有权"
+        ],
+        [
+          "Consignment",
+          "托运批次"
+        ],
+        [
+          "Reconciliation",
+          "核对"
+        ],
+        [
+          "Discrepancy notice",
+          "差异通知"
+        ]
+      ]
+    },
+    {
+      "title": "10个高频词组",
+      "english": "Ten key expressions",
+      "hint": "8分钟：每个词组造一个与矿业业务有关的完整句子。",
+      "lines": [
+        [
+          "Origin declaration",
+          "原产地声明"
+        ],
+        [
+          "Chain-of-custody record",
+          "交接链记录"
+        ],
+        [
+          "Export permit",
+          "出口许可证"
+        ],
+        [
+          "Consignee",
+          "收货人"
+        ],
+        [
+          "Third-party verification",
+          "第三方核验"
+        ],
+        [
+          "Supporting evidence",
+          "支持性证据"
+        ],
+        [
+          "Document hold",
+          "单证暂停处理"
+        ],
+        [
+          "Corrective action",
+          "纠正措施"
+        ],
+        [
+          "Audit trail",
+          "审计轨迹"
+        ],
+        [
+          "Conditional release",
+          "附条件放行"
+        ]
+      ]
+    },
+    {
+      "title": "10个核心句",
+      "english": "Ten core sentences",
+      "hint": "8分钟：分别练习礼貌请求、明确拒绝和承诺下一步。",
+      "lines": [
+        [
+          "We need to reconcile the origin declaration with the traceability records.",
+          "我们需要将原产地声明与溯源记录核对。"
+        ],
+        [
+          "The exporter and consignee names must match the approved documents.",
+          "出口商和收货人名称必须与批准文件一致。"
+        ],
+        [
+          "Please explain why the shipment reference has changed.",
+          "请解释为何货运参考编号发生变化。"
+        ],
+        [
+          "A verbal assurance is not sufficient for compliance clearance.",
+          "口头保证不足以取得合规放行。"
+        ],
+        [
+          "We will preserve the original documents and record every amendment.",
+          "我们将保存原始文件并记录每次修改。"
+        ],
+        [
+          "Do not backdate the certificate or alter the loading record.",
+          "不要倒签证明或篡改装货记录。"
+        ],
+        [
+          "Can you provide a signed correction request?",
+          "你能提供签署的更正申请吗？"
+        ],
+        [
+          "The bank review is separate from customs clearance.",
+          "银行审核与海关放行是两项独立程序。"
+        ],
+        [
+          "We can propose a revised dispatch schedule after verification.",
+          "核验后我们可以提出调整后的发运计划。"
+        ],
+        [
+          "Please confirm the responsible person and deadline in writing.",
+          "请书面确认责任人及截止时间。"
+        ]
+      ]
+    },
+    {
+      "title": "金额吨位品位汇率口述",
+      "english": "Numbers, weight, grade and FX",
+      "hint": "7分钟：全部为虚构教学数据；朗读数字、计算并复述单位。",
+      "lines": [
+        [
+          "The simulated gross weight is sixteen point eight metric tonnes.",
+          "模拟毛重为16.8公吨。"
+        ],
+        [
+          "The recorded moisture rate is three point two percent.",
+          "记录的模拟水分率为3.2%。"
+        ],
+        [
+          "The calculated dry weight is sixteen point two six two four tonnes.",
+          "计算干重为16.2624吨。"
+        ],
+        [
+          "The indicative tin grade is sixty-one point five percent.",
+          "模拟锡品位为61.5%。"
+        ],
+        [
+          "The training unit price is twelve thousand five hundred dollars per dry tonne.",
+          "教学假设单价为每干吨12500美元。"
+        ],
+        [
+          "The illustrative invoice amount is two hundred and three thousand two hundred and eighty dollars.",
+          "按上述干重和单价计算，模拟发票金额为203280美元。"
+        ],
+        [
+          "The assumed exchange rate is one dollar to one thousand five hundred Rwandan francs.",
+          "假设汇率为1美元兑1500卢旺达法郎。"
+        ],
+        [
+          "At that assumed rate, the invoice equals three hundred and four million nine hundred and twenty thousand francs.",
+          "按假设汇率，发票折合304920000卢旺达法郎。"
+        ]
+      ]
+    },
+    {
+      "title": "Shadowing",
+      "english": "Shadowing",
+      "hint": "5分钟：逐句跟读五遍，最后不看中文连续复述。",
+      "lines": [
+        [
+          "We have detected a mismatch between the export permit reference and the packing list.",
+          "我们发现出口许可证编号与装箱单不一致。"
+        ],
+        [
+          "The shipment remains secured while our team verifies the original documents.",
+          "核验原始文件期间，货物继续安全封存。"
+        ],
+        [
+          "We will notify the buyer, customs agent, and compliance officer of the revised timeline.",
+          "我们将通知买方、报关代理及合规负责人新的时间安排。"
+        ],
+        [
+          "No one may change the origin declaration without supporting evidence and proper authorization.",
+          "没有支持证据和适当授权，任何人不得修改原产地声明。"
+        ]
+      ]
+    },
+    {
+      "title": "Small Talk",
+      "english": "Small Talk",
+      "hint": "3分钟：练习从寒暄自然转入正式单证问题。",
+      "lines": [
+        [
+          "Good morning. How was your trip to the warehouse?",
+          "早上好，去仓库一路顺利吗？"
+        ],
+        [
+          "It went well, although the road was busy near the checkpoint.",
+          "还不错，不过检查站附近道路拥堵。"
+        ],
+        [
+          "Would you like some water before we review the documents?",
+          "核对文件前要喝点水吗？"
+        ],
+        [
+          "Thank you. Let's start with the packing list and permit reference.",
+          "谢谢，我们先核对装箱单和许可证编号吧。"
+        ]
+      ]
+    },
+    {
+      "title": "矿业业务沟通",
+      "english": "Mining operations communication",
+      "hint": "7分钟：分别扮演采购、合规和买方；每轮提出证据和决策标准。",
+      "lines": [
+        [
+          "The supplier says the lot was sourced from an approved site, but the supporting origin record is missing.",
+          "供应商称货物来自获批矿点，但缺少原产地支持记录。"
+        ],
+        [
+          "We must request the missing traceability evidence before making any origin claim.",
+          "提出原产地声明前必须索取缺失的溯源证据。"
+        ],
+        [
+          "The assay certificate refers to lot A, while the invoice refers to lot B.",
+          "化验报告对应A批次，而发票对应B批次。"
+        ],
+        [
+          "We should reconcile the lot identifiers and retain both versions in the audit file.",
+          "我们应核对批次标识，并在审计档案中保留两个版本。"
+        ],
+        [
+          "If the buyer challenges the grade, propose a jointly witnessed sample check rather than an unsupported price concession.",
+          "如果买方质疑品位，应建议双方见证复检，而非无依据让价。"
+        ],
+        [
+          "A changed beneficiary requires independent verification through an established contact channel.",
+          "收款人发生变更时，必须通过既有联系渠道独立核验。"
+        ]
+      ]
+    },
+    {
+      "title": "运输押运与海关",
+      "english": "Transport, escort and customs",
+      "hint": "6分钟：模拟押运员向物流主管报告异常，并区分封签、重量和单证。",
+      "lines": [
+        [
+          "The truck is waiting at the secure loading yard.",
+          "卡车正在安全装货区等待。"
+        ],
+        [
+          "The container seal is intact, but the seal number differs from the dispatch sheet.",
+          "集装箱封签完好，但封签号与发运单不一致。"
+        ],
+        [
+          "Photograph the seal and preserve the original dispatch sheet.",
+          "拍摄封签并保存原始发运单。"
+        ],
+        [
+          "Do not open the container without written authorization and appropriate witnesses.",
+          "未经书面授权及适当见证，不得开箱。"
+        ],
+        [
+          "The customs agent must not submit an unverified origin statement.",
+          "报关代理不得提交未经核验的原产地声明。"
+        ],
+        [
+          "Record the reason for delay in the escort log and notify the consignee.",
+          "在押运日志中记录延误原因并通知收货人。"
+        ]
+      ]
+    },
+    {
+      "title": "15分钟高压角色扮演",
+      "english": "15-minute pressure role-play",
+      "hint": "15分钟：每轮5分钟；先说决定，再说明理由、证据与下一步。",
+      "lines": [
+        [
+          "Decision one: The buyer demands release within ten minutes despite the missing origin record.",
+          "决策一：原产地记录缺失，买方仍要求十分钟内放行。"
+        ],
+        [
+          "Model answer: I understand the urgency, but we cannot release this lot until the origin evidence is verified. I will give you a documented update within thirty minutes.",
+          "示范：我理解紧迫性，但原产地证据核实前不能放行。我将在三十分钟内提供书面进展。"
+        ],
+        [
+          "Decision two: The supplier asks you to change the invoice lot number without retaining the original.",
+          "决策二：供应商要求更改发票批次号且不保留原件。"
+        ],
+        [
+          "Model answer: We can process a justified correction, but we must retain the original invoice, the signed request, and an audit trail.",
+          "示范：有依据的更正可以办理，但必须保留原发票、签署的申请及审计轨迹。"
+        ],
+        [
+          "Decision three: The bank requests beneficiary verification while the truck driver threatens to leave.",
+          "决策三：银行要求核验收款人，同时司机威胁离场。"
+        ],
+        [
+          "Model answer: Payment verification and physical dispatch are separate controls. Please keep the truck secure while finance independently confirms the beneficiary.",
+          "示范：付款核验与实物发运是独立控制。请确保车辆安全停放，财务将独立确认收款人。"
+        ],
+        [
+          "Follow-up challenge: The customs agent offers to backdate a certificate to save the shipment.",
+          "追加压力：报关代理建议倒签证明以挽救发运。"
+        ],
+        [
+          "Model answer: We cannot backdate records. Please prepare an accurate correction and a revised dispatch plan.",
+          "示范：我们不能倒签记录。请准备真实的更正文件及调整后的发运计划。"
+        ]
+      ]
+    },
+    {
+      "title": "5句听写",
+      "english": "Five dictation sentences",
+      "hint": "3分钟：先听或读三遍，遮住英文默写，检查拼写。",
+      "lines": [
+        [
+          "The origin declaration needs supporting evidence.",
+          "原产地声明需要支持性证据。"
+        ],
+        [
+          "Please retain the original packing list.",
+          "请保留原始装箱单。"
+        ],
+        [
+          "The seal number does not match the dispatch record.",
+          "封签号与发运记录不一致。"
+        ],
+        [
+          "We cannot backdate the certificate.",
+          "我们不能倒签证明。"
+        ],
+        [
+          "The beneficiary must be verified independently.",
+          "收款人必须经过独立核验。"
+        ]
+      ]
+    },
+    {
+      "title": "5道口语题",
+      "english": "Five speaking questions",
+      "hint": "3分钟：每题至少回答三句，包含决定、理由和后续行动。",
+      "lines": [
+        [
+          "What would you do if the export permit and packing list showed different lot numbers?",
+          "出口许可证和装箱单批次号不同，你会怎么做？"
+        ],
+        [
+          "How would you explain a dispatch delay to an impatient buyer?",
+          "你会如何向不耐烦的买方解释发运延误？"
+        ],
+        [
+          "Why must an original invoice be retained after correction?",
+          "更正后为什么必须保留原发票？"
+        ],
+        [
+          "How would you respond to a request to backdate an origin certificate?",
+          "有人要求倒签原产地证明，你会如何回应？"
+        ],
+        [
+          "How do you separate payment approval from physical release?",
+          "你如何区分付款审批与实物放行？"
+        ]
+      ]
+    },
+    {
+      "title": "前三课复习",
+      "english": "Recent lessons review",
+      "hint": "2分钟：复述最近三课的核心控制点，并与今天的单证核验衔接。",
+      "lines": [
+        [
+          "Day thirty-three: Moisture disputes require documented sampling and conditional acceptance.",
+          "第33课：水分争议需要留痕取样和附条件验收。"
+        ],
+        [
+          "Day thirty-four: Weight differences require original weighbridge evidence.",
+          "第34课：重量差异需要原始地磅证据。"
+        ],
+        [
+          "Day thirty-five: Beneficiary changes require independent KYC verification.",
+          "第35课：收款人变更需要独立KYC核验。"
+        ],
+        [
+          "Today we combine these controls into a defensible export-document decision.",
+          "今天我们将这些控制结合成可追溯的出口单证决策。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Full work briefing",
+      "hint": "2分钟：完整朗读并录音，目标逻辑清楚、语速稳定。",
+      "lines": [
+        [
+          "Good morning. I would like to brief the team on a document discrepancy affecting our simulated mineral export shipment.",
+          "早上好，我想汇报一票模拟矿产品出口货物的单证差异。"
+        ],
+        [
+          "The export permit, packing list, and assay certificate contain inconsistent lot references.",
+          "出口许可证、装箱单及化验报告的批次编号不一致。"
+        ],
+        [
+          "The container is secured, and the escort officer has recorded the seal and location.",
+          "集装箱已安全封存，押运员已记录封签和位置。"
+        ],
+        [
+          "We have requested the original records and a signed explanation from the supplier.",
+          "我们已向供应商索取原始记录和签署的说明。"
+        ],
+        [
+          "We will not alter historical documents or release the shipment based on verbal assurances.",
+          "我们不会篡改历史文件，也不会仅凭口头保证放货。"
+        ],
+        [
+          "Finance will independently verify any changed beneficiary before payment approval.",
+          "财务将在付款审批前独立核验任何变更后的收款人。"
+        ],
+        [
+          "Once compliance and logistics complete their checks, we will issue a written decision and updated dispatch schedule.",
+          "合规和物流核验完成后，我们将发出书面决定和更新后的发运计划。"
+        ],
+        [
+          "Thank you. Please send all supporting evidence through the approved channel.",
+          "谢谢，请通过批准的渠道提交全部支持证据。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "1分钟：核对学习完成度，总时长75分钟。",
+      "lines": [
+        [
+          "I completed pronunciation, vocabulary, and core sentence practice.",
+          "我完成了发音、词汇和核心句训练。"
+        ],
+        [
+          "I read every simulated amount, weight, grade, and exchange rate aloud.",
+          "我口述了全部模拟金额、重量、品位和汇率。"
+        ],
+        [
+          "I completed the fifteen-minute role-play and three pressure decisions.",
+          "我完成了十五分钟角色扮演和三项高压决策。"
+        ],
+        [
+          "I completed dictation, speaking questions, review, and the final briefing.",
+          "我完成了听写、口语题、复习和完整陈述。"
+        ]
+      ]
+    }
+  ]
+}
