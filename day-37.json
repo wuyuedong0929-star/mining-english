@@ -1,0 +1,479 @@
+{
+  "day": 37,
+  "date": "2026-11-19",
+  "title": "钽矿采购对账：争议余额、独立化验与受控放行",
+  "english": "Tantalum procurement reconciliation and controlled release",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "慢读三遍再正常语速读三遍",
+      "lines": [
+        [
+          "Provisional settlement",
+          "暂定结算"
+        ],
+        [
+          "Independent assay",
+          "独立化验"
+        ],
+        [
+          "Disputed balance",
+          "争议余额"
+        ],
+        [
+          "Document reconciliation",
+          "单证对账"
+        ],
+        [
+          "Conditional release",
+          "有条件放行"
+        ]
+      ]
+    },
+    {
+      "title": "10个高频词组",
+      "english": "Ten key phrases",
+      "hint": "每个词组造一个完整英文句子",
+      "lines": [
+        [
+          "Provisional invoice",
+          "暂定发票"
+        ],
+        [
+          "Final settlement",
+          "最终结算"
+        ],
+        [
+          "Retention amount",
+          "暂扣金额"
+        ],
+        [
+          "Joint sampling",
+          "联合取样"
+        ],
+        [
+          "Sealed reference sample",
+          "封存留样"
+        ],
+        [
+          "Contractual tolerance",
+          "合同容差"
+        ],
+        [
+          "Verified beneficiary",
+          "已核验收款人"
+        ],
+        [
+          "Weighbridge record",
+          "地磅记录"
+        ],
+        [
+          "Release instruction",
+          "放行指令"
+        ],
+        [
+          "Audit trail",
+          "审计追踪记录"
+        ]
+      ]
+    },
+    {
+      "title": "10个核心句",
+      "english": "Ten core sentences",
+      "hint": "按采购、财务、物流角色朗读并替换主语",
+      "lines": [
+        [
+          "We can settle the undisputed portion today.",
+          "我们今天可以结算无争议部分。"
+        ],
+        [
+          "The disputed grade requires independent verification.",
+          "争议品位需要独立核验。"
+        ],
+        [
+          "Please preserve the original assay certificates.",
+          "请保存原始化验报告。"
+        ],
+        [
+          "We need a jointly signed sampling record.",
+          "我们需要双方签字的取样记录。"
+        ],
+        [
+          "The final price depends on the verified dry weight.",
+          "最终价格取决于核实后的干重。"
+        ],
+        [
+          "Please identify the relevant contract clause.",
+          "请指出相关合同条款。"
+        ],
+        [
+          "We cannot change the laboratory result without evidence.",
+          "没有证据我们不能修改实验室结果。"
+        ],
+        [
+          "The beneficiary must pass independent verification.",
+          "收款人必须通过独立核验。"
+        ],
+        [
+          "Do not release the truck without written authorization.",
+          "未经书面授权不得放行车辆。"
+        ],
+        [
+          "We will send a documented decision by the agreed deadline.",
+          "我们将在约定期限前发送书面决定。"
+        ]
+      ]
+    },
+    {
+      "title": "金额吨位品位汇率口述",
+      "english": "Numbers and commercial calculations",
+      "hint": "全部数字仅供模拟，口述并解释百分点",
+      "lines": [
+        [
+          "The fictional gross weight is eight point four tonnes.",
+          "虚构毛重为8.4吨。"
+        ],
+        [
+          "The assumed moisture is three percent.",
+          "假设含水率为3%。"
+        ],
+        [
+          "The calculated dry weight is eight point one four eight tonnes.",
+          "计算干重为8.148吨。"
+        ],
+        [
+          "The supplier reports a grade of thirty-two percent.",
+          "供应商报告品位32%。"
+        ],
+        [
+          "Our laboratory reports thirty point eight percent.",
+          "我方实验室报告30.8%。"
+        ],
+        [
+          "The difference is one point two percentage points.",
+          "差异为1.2个百分点。"
+        ],
+        [
+          "The illustrative price is four dollars per MKU.",
+          "示例价格为每MKU四美元。"
+        ],
+        [
+          "The assumed exchange rate is one dollar to fifteen hundred francs.",
+          "假设汇率为一美元兑1500法郎。"
+        ],
+        [
+          "A fictional retention of five thousand dollars equals seven point five million francs.",
+          "虚构暂扣5000美元相当于750万法郎。"
+        ]
+      ]
+    },
+    {
+      "title": "Shadowing",
+      "english": "Shadowing",
+      "hint": "每句跟读五遍，最后脱稿复述",
+      "lines": [
+        [
+          "We received two different assay results for the same sealed mineral lot.",
+          "同一封存矿产品批次收到两份不同的化验结果。"
+        ],
+        [
+          "We are checking the sampling method and moisture records before confirming the settlement grade.",
+          "确认结算品位前我们正在核对取样方法及水分记录。"
+        ],
+        [
+          "We can discuss an interim payment, but the disputed amount will remain on hold until verification is complete.",
+          "我们可以讨论临时付款，但核验完成前争议金额继续暂缓。"
+        ],
+        [
+          "Our goal is to protect the business relationship without weakening compliance controls.",
+          "我们的目标是在不削弱合规控制的前提下维护商业关系。"
+        ]
+      ]
+    },
+    {
+      "title": "Small Talk",
+      "english": "Small talk",
+      "hint": "两人互换角色进行自然对话",
+      "lines": [
+        [
+          "Thank you for joining the reconciliation meeting.",
+          "感谢参加对账会议。"
+        ],
+        [
+          "Was the journey from the warehouse smooth?",
+          "从仓库过来一路顺利吗？"
+        ],
+        [
+          "Yes, everyone arrived safely.",
+          "是的，大家都安全抵达。"
+        ],
+        [
+          "Shall we compare the documents before discussing the figures?",
+          "讨论数字前先核对文件好吗？"
+        ],
+        [
+          "That sounds reasonable. Let us begin.",
+          "很合理，我们开始吧。"
+        ]
+      ]
+    },
+    {
+      "title": "矿业业务沟通",
+      "english": "Mining negotiation",
+      "hint": "压力一供应商催款；压力二经理要求改化验，逐轮示范",
+      "lines": [
+        [
+          "Supplier: Pay the full amount today or we will stop deliveries.",
+          "供应商：今天全额付款，否则我们停止供货。"
+        ],
+        [
+          "Buyer: We value the partnership, but the disputed balance requires verification.",
+          "采购方：我们重视合作，但争议余额需要核验。"
+        ],
+        [
+          "Supplier: Your laboratory must change its result immediately.",
+          "供应商：你们实验室必须立即修改结果。"
+        ],
+        [
+          "Buyer: We cannot instruct a laboratory to alter a result without technical evidence.",
+          "采购方：没有技术证据，我们不能指示实验室更改结果。"
+        ],
+        [
+          "Buyer: Let us jointly inspect the sealed sample and appoint an independent laboratory.",
+          "采购方：让我们联合检查封样并指定独立实验室。"
+        ],
+        [
+          "Supplier: Who pays for the additional testing?",
+          "供应商：额外检测费用由谁承担？"
+        ],
+        [
+          "Buyer: We will follow the contract or agree on the cost allocation in writing.",
+          "采购方：我们将遵循合同或书面约定费用分摊。"
+        ]
+      ]
+    },
+    {
+      "title": "运输押运与海关",
+      "english": "Transport, escort and customs",
+      "hint": "压力三代理要求先放货后补文件，练习拒绝",
+      "lines": [
+        [
+          "Driver: The truck has been waiting for six hours.",
+          "司机：车辆已等候六小时。"
+        ],
+        [
+          "Logistics: Please remain in the authorized secure parking area.",
+          "物流：请继续在指定安全停车区等候。"
+        ],
+        [
+          "Agent: We can submit the missing certificate after crossing the border.",
+          "代理：我们可以过境后补交缺失证明。"
+        ],
+        [
+          "Compliance: We cannot release cargo without mandatory documents.",
+          "合规：缺少必需文件我们不能放货。"
+        ],
+        [
+          "Escort: I will record the seal number and custody handover.",
+          "押运员：我会记录封签号及交接情况。"
+        ],
+        [
+          "Compliance: Never backdate a certificate or alter an original record.",
+          "合规：绝不能倒签证明或篡改原始记录。"
+        ]
+      ]
+    },
+    {
+      "title": "15分钟高压角色扮演",
+      "english": "Fifteen-minute role-play",
+      "hint": "三轮各五分钟：先回应，再说明证据和下一步",
+      "lines": [
+        [
+          "Round one: The supplier threatens to cancel future deliveries unless the disputed balance is paid.",
+          "第一轮：供应商威胁若不支付争议款就取消后续供货。"
+        ],
+        [
+          "Model: We can review a documented interim settlement, but cannot release unverified funds.",
+          "示范：我们可以审查有书面依据的临时结算，但不能支付未经核验的款项。"
+        ],
+        [
+          "Round two: A manager demands acceptance of the higher assay without resampling.",
+          "第二轮：经理要求不复检就接受较高品位。"
+        ],
+        [
+          "Model: I can escalate the urgency, but the grade must follow the agreed dispute procedure.",
+          "示范：我可以上报紧迫性，但品位必须按约定争议程序确定。"
+        ],
+        [
+          "Round three: The agent proposes backdating a missing certificate.",
+          "第三轮：代理建议倒签缺失证明。"
+        ],
+        [
+          "Model: We cannot backdate documents; please arrange secure parking and a revised schedule.",
+          "示范：我们不能倒签文件；请安排安全停车和修订时间表。"
+        ],
+        [
+          "Challenge: Explain all three decisions to the buyer in sixty seconds.",
+          "挑战：用六十秒向买方解释全部三项决定。"
+        ],
+        [
+          "Model: The goods are secure, disputed funds are held, and we will update you after independent verification.",
+          "示范：货物安全保管、争议款暂缓，独立核验后我们会更新进展。"
+        ]
+      ]
+    },
+    {
+      "title": "5句听写",
+      "english": "Five dictation sentences",
+      "hint": "遮住英文听写后核对",
+      "lines": [
+        [
+          "The disputed balance remains on hold.",
+          "争议余额继续暂缓。"
+        ],
+        [
+          "We need the signed sampling record.",
+          "我们需要已签署的取样记录。"
+        ],
+        [
+          "Please verify the beneficiary independently.",
+          "请独立核验收款人。"
+        ],
+        [
+          "The truck cannot leave without authorization.",
+          "没有授权车辆不能离场。"
+        ],
+        [
+          "We will issue a written reconciliation statement.",
+          "我们将出具书面对账说明。"
+        ]
+      ]
+    },
+    {
+      "title": "5道口语题",
+      "english": "Five speaking questions",
+      "hint": "每题三十秒，回答结论、理由、行动",
+      "lines": [
+        [
+          "How would you respond to a demand for immediate disputed payment?",
+          "如何回应立即支付争议款的要求？"
+        ],
+        [
+          "What is the difference between percent and percentage points?",
+          "百分比与百分点有什么区别？"
+        ],
+        [
+          "Which records should be checked before revising an invoice?",
+          "修改发票前应核对哪些记录？"
+        ],
+        [
+          "How would you refuse a request to backdate a customs certificate?",
+          "如何拒绝倒签海关证明？"
+        ],
+        [
+          "How would you explain a shipment delay professionally?",
+          "如何专业解释发运延误？"
+        ]
+      ]
+    },
+    {
+      "title": "前三课及近期知识复习",
+      "english": "Recent knowledge review",
+      "hint": "回顾近三课核心知识并连接今日情景",
+      "lines": [
+        [
+          "We previously checked moisture deductions before settlement.",
+          "此前我们在结算前核查水分扣减。"
+        ],
+        [
+          "We reconciled batch identifiers across export documents.",
+          "我们核对了出口文件的批次编号。"
+        ],
+        [
+          "We verified beneficiary details before releasing payments.",
+          "我们在付款前核验收款人资料。"
+        ],
+        [
+          "Today we combine assay reconciliation with controlled release.",
+          "今天我们将化验对账与受控放行结合。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Full workplace briefing",
+      "hint": "逐句朗读两遍，再脱稿向管理层汇报",
+      "lines": [
+        [
+          "Good morning. I will brief you on a disputed mineral procurement lot.",
+          "早上好，我汇报一批存在争议的矿产品采购。"
+        ],
+        [
+          "The fictional gross weight is eight point four tonnes and the assumed moisture is three percent.",
+          "虚构毛重8.4吨，假设含水率3%。"
+        ],
+        [
+          "The supplier reports thirty-two percent, while our laboratory reports thirty point eight percent.",
+          "供应商报告32%，我方实验室报告30.8%。"
+        ],
+        [
+          "We have preserved both certificates and requested a joint sampling review.",
+          "我们保留了两份报告并要求联合复核取样。"
+        ],
+        [
+          "The supplier requests full payment, but we recommend holding only the disputed balance.",
+          "供应商要求全额付款，但我们建议仅暂缓争议余额。"
+        ],
+        [
+          "Finance will verify the beneficiary before any approved transfer.",
+          "财务将在任何获批转账前核验收款人。"
+        ],
+        [
+          "Logistics has secured the truck and recorded the seals.",
+          "物流已妥善管控车辆并记录封签。"
+        ],
+        [
+          "We will not backdate certificates or release cargo without mandatory documents.",
+          "我们不会倒签证明，也不会在缺少必需文件时放货。"
+        ],
+        [
+          "After reviewing the evidence, we will issue a written decision and updated schedule.",
+          "证据复核后我们将发布书面决定和更新时间表。"
+        ],
+        [
+          "Thank you. I am ready to answer questions.",
+          "谢谢，我愿意回答问题。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "核对所有训练项目并脱稿总结",
+      "lines": [
+        [
+          "I completed the pronunciation and vocabulary drills.",
+          "我完成了发音和词汇训练。"
+        ],
+        [
+          "I practiced the ten core sentences and numerical calculations.",
+          "我练习了十句核心句及数字计算。"
+        ],
+        [
+          "I completed three five-minute pressure role-plays.",
+          "我完成了三轮五分钟高压角色扮演。"
+        ],
+        [
+          "I can refuse unsupported payments and document alteration politely.",
+          "我能礼貌拒绝无依据付款及文件篡改。"
+        ],
+        [
+          "I delivered the final briefing without reading the script.",
+          "我脱稿完成了最终汇报。"
+        ]
+      ]
+    }
+  ]
+}
