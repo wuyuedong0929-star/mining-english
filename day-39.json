@@ -1,0 +1,543 @@
+{
+  "day": 39,
+  "date": "2026-11-22",
+  "title": "矿产品采购三方对账与付款审批控制",
+  "english": "Three-way reconciliation and controlled payment approval",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "4分钟：每句慢读两遍，注意 reconciliation、authorization 的重音。",
+      "lines": [
+        [
+          "reconcile the ledger",
+          "核对台账"
+        ],
+        [
+          "documentary evidence",
+          "书面证据"
+        ],
+        [
+          "authorized signatory",
+          "授权签字人"
+        ],
+        [
+          "beneficial ownership",
+          "实际受益所有权"
+        ],
+        [
+          "payment instruction",
+          "付款指令"
+        ],
+        [
+          "invoice discrepancy",
+          "发票差异"
+        ],
+        [
+          "shipment readiness",
+          "货物发运准备状态"
+        ],
+        [
+          "conditional approval",
+          "附条件批准"
+        ]
+      ]
+    },
+    {
+      "title": "10个高频词组",
+      "english": "Ten high-frequency phrases",
+      "hint": "6分钟：英译中、中译英各两遍。",
+      "lines": [
+        [
+          "three-way reconciliation",
+          "三方对账"
+        ],
+        [
+          "purchase order reference",
+          "采购订单编号"
+        ],
+        [
+          "invoice line item",
+          "发票明细行"
+        ],
+        [
+          "supporting voucher",
+          "支持凭证"
+        ],
+        [
+          "credit note",
+          "贷项通知单"
+        ],
+        [
+          "debit note",
+          "借项通知单"
+        ],
+        [
+          "payment allocation",
+          "付款分配"
+        ],
+        [
+          "outstanding balance",
+          "未结余额"
+        ],
+        [
+          "maker-checker control",
+          "制单复核双人控制"
+        ],
+        [
+          "exception register",
+          "异常事项登记簿"
+        ]
+      ]
+    },
+    {
+      "title": "10个核心句",
+      "english": "Ten core sentences",
+      "hint": "7分钟：先跟读，再遮住英文复述。",
+      "lines": [
+        [
+          "We need to reconcile the purchase order, goods receipt and invoice before payment.",
+          "付款前必须核对采购订单、收货记录和发票。"
+        ],
+        [
+          "The quantity variance must be explained in writing.",
+          "数量差异必须以书面方式说明。"
+        ],
+        [
+          "Please provide the original supporting voucher.",
+          "请提供原始支持凭证。"
+        ],
+        [
+          "The invoice cannot be approved while the beneficiary remains unverified.",
+          "收款受益人未经核实，发票不能获批。"
+        ],
+        [
+          "A credit note may be required to correct the overcharge.",
+          "可能需要贷项通知单来纠正多收费。"
+        ],
+        [
+          "The disputed amount will remain on hold pending review.",
+          "争议金额将在复核期间暂停支付。"
+        ],
+        [
+          "We can release the undisputed balance after normal approval.",
+          "正常审批后可以支付无争议余额。"
+        ],
+        [
+          "Please confirm the final dry weight and assay basis.",
+          "请确认最终干重和化验计价依据。"
+        ],
+        [
+          "The export documents must reflect the actual shipment.",
+          "出口单证必须反映实际发运情况。"
+        ],
+        [
+          "I will record the exception and escalate it to the authorized manager.",
+          "我将登记异常并上报授权经理。"
+        ]
+      ]
+    },
+    {
+      "title": "金额、吨位、品位、汇率口述",
+      "english": "Numbers and commercial calculations",
+      "hint": "6分钟：所有数字为练习假设，先读数字，再口头复算。",
+      "lines": [
+        [
+          "For this exercise, the gross weight is twelve point six metric tonnes.",
+          "本练习假设毛重为12.6公吨。"
+        ],
+        [
+          "Assume moisture is four percent, giving a dry weight of twelve point zero nine six tonnes.",
+          "假设水分4%，则干重为12.096吨。"
+        ],
+        [
+          "Assume the assay is thirty-two point five percent tantalum pentoxide.",
+          "假设五氧化二钽品位为32.5%。"
+        ],
+        [
+          "The hypothetical unit price is one hundred and eighty dollars per dry tonne.",
+          "假设单价为每干吨180美元。"
+        ],
+        [
+          "The illustrative invoice amount is two thousand one hundred seventy-seven dollars and twenty-eight cents.",
+          "示例发票金额为2,177.28美元。"
+        ],
+        [
+          "At an illustrative rate of one dollar to one thousand four hundred and fifty francs, the amount is three million one hundred fifty-six thousand and fifty-six francs.",
+          "按假设汇率1美元兑1450法郎，金额为3,156,056法郎。"
+        ],
+        [
+          "Please distinguish gross weight from dry weight.",
+          "请区分毛重和干重。"
+        ],
+        [
+          "Please read back the amount and currency before approval.",
+          "审批前请复述金额和币种。"
+        ]
+      ]
+    },
+    {
+      "title": "Shadowing跟读",
+      "english": "Shadowing drill",
+      "hint": "5分钟：连续跟读三轮，最后脱稿录音。",
+      "lines": [
+        [
+          "Our team has received the invoice, but the supporting documents are incomplete.",
+          "我们已收到发票，但支持文件不完整。"
+        ],
+        [
+          "We will reconcile the weight, grade and agreed pricing basis.",
+          "我们将核对重量、品位和约定计价依据。"
+        ],
+        [
+          "Any discrepancy must be supported by original records.",
+          "任何差异都必须有原始记录支持。"
+        ],
+        [
+          "The verified portion may proceed through the normal approval workflow.",
+          "已核实部分可按正常审批流程处理。"
+        ],
+        [
+          "We cannot bypass beneficiary verification to meet a deadline.",
+          "我们不能为赶截止时间而绕过收款人核验。"
+        ],
+        [
+          "Please send the corrected documents before the next review meeting.",
+          "请在下次复核会议前发送更正后的单证。"
+        ]
+      ]
+    },
+    {
+      "title": "Small Talk",
+      "english": "Professional small talk",
+      "hint": "4分钟：两人交替扮演，保持礼貌且不作付款承诺。",
+      "lines": [
+        [
+          "Good morning. Was the journey to the warehouse smooth?",
+          "早上好，去仓库的路顺利吗？"
+        ],
+        [
+          "Yes, thank you. Traffic was lighter than expected.",
+          "顺利，谢谢，交通比预想通畅。"
+        ],
+        [
+          "How is your team managing the end-of-month workload?",
+          "你们团队如何应对月底工作量？"
+        ],
+        [
+          "We are prioritizing reconciliations and export documentation.",
+          "我们正优先处理对账和出口单证。"
+        ],
+        [
+          "I appreciate you making time for this review.",
+          "感谢你抽时间参加本次复核。"
+        ],
+        [
+          "Shall we begin with the items that both sides agree on?",
+          "我们先从双方一致认可的项目开始好吗？"
+        ]
+      ]
+    },
+    {
+      "title": "矿业业务沟通",
+      "english": "Mining procurement discussion",
+      "hint": "6分钟：按买方、供应商、财务三方轮流表达。",
+      "lines": [
+        [
+          "Supplier: Our invoice reflects the delivered ore, so please pay today.",
+          "供应商：我们的发票反映已交付矿石，请今天付款。"
+        ],
+        [
+          "Buyer: The receiving ticket shows a different net weight.",
+          "买方：收货单显示的净重不同。"
+        ],
+        [
+          "Supplier: The difference may be due to moisture at unloading.",
+          "供应商：差异可能由卸货时水分造成。"
+        ],
+        [
+          "Buyer: Let us compare the original weighing and moisture records.",
+          "买方：我们核对原始称重和水分记录。"
+        ],
+        [
+          "Finance: The price formula must match the signed purchase agreement.",
+          "财务：计价公式必须符合已签采购协议。"
+        ],
+        [
+          "Supplier: Can you pay the portion that is not disputed?",
+          "供应商：能否先付无争议部分？"
+        ],
+        [
+          "Finance: Yes, subject to documented reconciliation and approval.",
+          "财务：可以，但须完成书面对账和审批。"
+        ],
+        [
+          "Buyer: We will issue a joint discrepancy report today.",
+          "买方：我们今天出具联合差异报告。"
+        ]
+      ]
+    },
+    {
+      "title": "运输押运与海关",
+      "english": "Transport, escort and customs",
+      "hint": "5分钟：练习货物状态与单证状态分开表达。",
+      "lines": [
+        [
+          "The truck is parked in the designated secure area.",
+          "卡车停在指定安全区域。"
+        ],
+        [
+          "The escort officer has signed the handover log.",
+          "押运人员已签署交接日志。"
+        ],
+        [
+          "Please check the seal number against the dispatch record.",
+          "请将封签号与发运记录核对。"
+        ],
+        [
+          "The customs declaration must match the actual cargo description.",
+          "海关申报必须与实际货物描述一致。"
+        ],
+        [
+          "Do not amend the invoice merely to accelerate clearance.",
+          "不要仅为加快清关而修改发票。"
+        ],
+        [
+          "The certificate of origin must be supported by authentic records.",
+          "原产地证明必须有真实记录支持。"
+        ],
+        [
+          "We will release the vehicle only after authorized clearance.",
+          "只有获得授权放行后才安排车辆离开。"
+        ]
+      ]
+    },
+    {
+      "title": "15分钟高压角色扮演",
+      "english": "Fifteen-minute pressure role-play",
+      "hint": "15分钟：三轮各5分钟，先即兴回答，再朗读示范，最后复述。",
+      "lines": [
+        [
+          "Decision one: The supplier demands full payment before the weight discrepancy is resolved.",
+          "决策一：供应商要求在重量差异解决前全额付款。"
+        ],
+        [
+          "Supplier: If you do not pay now, we will stop future deliveries.",
+          "供应商：现在不付款，我们将停止后续供货。"
+        ],
+        [
+          "Model answer: I understand your concern, but we cannot approve the disputed portion without reconciliation. We can review the undisputed amount today.",
+          "示范回答：我理解贵方担忧，但未经对账不能批准争议部分。我们今天可以复核无争议金额。"
+        ],
+        [
+          "Decision two: A manager asks you to pay a new beneficiary account immediately.",
+          "决策二：经理要求立即付款到新收款账户。"
+        ],
+        [
+          "Manager: The director approved this verbally. Process it now.",
+          "经理：董事口头批准了，马上处理。"
+        ],
+        [
+          "Model answer: I can prioritize the request, but the new beneficiary must pass independent verification and the required approval controls first.",
+          "示范回答：我可以优先处理，但新收款人必须先通过独立核验和必要审批。"
+        ],
+        [
+          "Decision three: A forwarding agent suggests changing the export invoice to match an outdated declaration.",
+          "决策三：货代建议修改出口发票以匹配过期申报。"
+        ],
+        [
+          "Agent: Just change the invoice date so the truck can cross today.",
+          "货代：把发票日期改一下，车今天就能过境。"
+        ],
+        [
+          "Model answer: We cannot backdate or misstate documents. Please initiate a legitimate correction and provide the updated customs reference.",
+          "示范回答：我们不能倒签或虚假填写单证。请按合法程序更正并提供更新后的海关编号。"
+        ],
+        [
+          "Follow-up: What can you release immediately without violating controls?",
+          "追问：不违反控制要求的情况下，哪些事项可以立即放行？"
+        ],
+        [
+          "Model answer: We can release verified information and approved undisputed payments, but not unverified funds or incorrectly documented cargo.",
+          "示范回答：我们可以放行已核实信息和已批准的无争议付款，但不能放行未经核实的资金或单证错误的货物。"
+        ]
+      ]
+    },
+    {
+      "title": "5句听写",
+      "english": "Five-sentence dictation",
+      "hint": "4分钟：遮住英文，让同伴朗读或使用点读，再核对拼写。",
+      "lines": [
+        [
+          "The payment remains pending until the invoice discrepancy is resolved.",
+          "发票差异解决前付款保持待处理。"
+        ],
+        [
+          "Please attach the signed reconciliation statement.",
+          "请附上已签署的对账说明。"
+        ],
+        [
+          "The revised weight must be supported by the original scale ticket.",
+          "修订重量必须有原始磅单支持。"
+        ],
+        [
+          "We need written confirmation from the authorized signatory.",
+          "我们需要授权签字人的书面确认。"
+        ],
+        [
+          "Customs clearance is separate from payment approval.",
+          "海关放行与付款审批是两个独立事项。"
+        ]
+      ]
+    },
+    {
+      "title": "5道口语题",
+      "english": "Five speaking questions",
+      "hint": "4分钟：每题30秒回答，30秒复盘。",
+      "lines": [
+        [
+          "Question: How would you explain a disputed invoice to a supplier?",
+          "问题：你如何向供应商解释争议发票？"
+        ],
+        [
+          "Model: I would identify the disputed line items, request original evidence and agree on a review deadline.",
+          "示范：我会指出争议明细，索取原始证据并约定复核期限。"
+        ],
+        [
+          "Question: What would you check before approving a payment?",
+          "问题：付款审批前你会检查什么？"
+        ],
+        [
+          "Model: I would check the contract, receipt, invoice, beneficiary and authorization.",
+          "示范：我会检查合同、收货、发票、收款人和授权。"
+        ],
+        [
+          "Question: Can a verbal instruction replace KYC?",
+          "问题：口头指示能代替KYC吗？"
+        ],
+        [
+          "Model: No. Required verification must be documented before the transfer.",
+          "示范：不能，转账前必须完成并记录必要核验。"
+        ],
+        [
+          "Question: What should you do if customs documents conflict?",
+          "问题：海关单证相互矛盾怎么办？"
+        ],
+        [
+          "Model: Hold the affected release and request a legitimate documented correction.",
+          "示范：暂停受影响的放行，要求合法且有记录的更正。"
+        ],
+        [
+          "Question: How would you negotiate an undisputed partial payment?",
+          "问题：你如何协商支付无争议部分？"
+        ],
+        [
+          "Model: I would separate the amounts, confirm the basis and obtain normal approval.",
+          "示范：我会拆分金额、确认依据并取得正常审批。"
+        ]
+      ]
+    },
+    {
+      "title": "近期三课复习",
+      "english": "Review of the previous three lessons",
+      "hint": "3分钟：复习取样、批次证据链和对账控制。",
+      "lines": [
+        [
+          "A retained sample protects both parties in an assay dispute.",
+          "留存样在化验争议中保护双方。"
+        ],
+        [
+          "A seal discrepancy requires a documented investigation.",
+          "封签差异需要形成书面调查记录。"
+        ],
+        [
+          "A beneficiary change triggers renewed verification.",
+          "收款人变更触发重新核验。"
+        ],
+        [
+          "A signed reconciliation supports an accurate settlement.",
+          "已签对账单支持准确结算。"
+        ],
+        [
+          "A genuine correction is different from backdating.",
+          "真实更正不同于倒签日期。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Full workplace briefing",
+      "hint": "4分钟：连读整段，第二轮不看英文，第三轮模拟向主管汇报。",
+      "lines": [
+        [
+          "Good morning. I am reporting on the reconciliation status of a hypothetical mineral purchase.",
+          "早上好，我汇报一笔假设矿产品采购的对账状态。"
+        ],
+        [
+          "We have received the goods and invoice, but the recorded net weights do not fully agree.",
+          "我们已收到货物和发票，但记录净重尚未完全一致。"
+        ],
+        [
+          "Our team is checking the original scale tickets, moisture adjustment and assay basis.",
+          "团队正在核查原始磅单、水分调整及化验计价依据。"
+        ],
+        [
+          "The undisputed amount may move forward after the standard approval checks.",
+          "无争议金额可在标准审批后继续处理。"
+        ],
+        [
+          "The disputed balance will remain on hold until both parties sign the reconciliation.",
+          "争议余额将在双方签署对账单前继续暂停支付。"
+        ],
+        [
+          "We are also independently verifying the beneficiary before any transfer.",
+          "任何转账前我们还将独立核验收款人。"
+        ],
+        [
+          "The logistics team is checking seal records, escort logs and export documents.",
+          "物流团队正在核查封签记录、押运日志和出口文件。"
+        ],
+        [
+          "We will not change historical records merely to meet a shipping deadline.",
+          "我们不会仅为赶发运期限而修改历史记录。"
+        ],
+        [
+          "I will report unresolved exceptions to the authorized manager and confirm the next review time in writing.",
+          "我将向授权经理报告未解决异常，并书面确认下次复核时间。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "2分钟：逐项口头确认，不会的句子回到对应模块。",
+      "lines": [
+        [
+          "I can explain the three-way reconciliation process in English.",
+          "我能用英语解释三方对账流程。"
+        ],
+        [
+          "I can read the hypothetical weights, grades and exchange rates accurately.",
+          "我能准确读出假设重量、品位和汇率。"
+        ],
+        [
+          "I can reject an unverified beneficiary change politely.",
+          "我能礼貌拒绝未经核实的收款人变更。"
+        ],
+        [
+          "I can describe the difference between customs clearance and payment approval.",
+          "我能解释海关放行与付款审批的区别。"
+        ],
+        [
+          "I completed three timed pressure decisions and five dictation sentences.",
+          "我已完成三轮限时高压决策和五句听写。"
+        ],
+        [
+          "I can deliver the full workplace briefing without reading the script.",
+          "我能脱稿完成整段工作汇报。"
+        ]
+      ]
+    }
+  ]
+}
