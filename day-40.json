@@ -1,0 +1,517 @@
+{
+  "day": 40,
+  "date": "2026-11-23",
+  "title": "争议矿批暂定验收：取样复检、付款控制与押运放行",
+  "english": "Provisional acceptance of a disputed mineral lot",
+  "minutes": 75,
+  "modules": [
+    {
+      "title": "发音热身",
+      "english": "Pronunciation warm-up",
+      "hint": "重音练习：provisional / reconciliation / segregation；每条慢读三遍。",
+      "minutes": 4,
+      "lines": [
+        [
+          "Provisional acceptance",
+          "暂定验收"
+        ],
+        [
+          "Segregated inventory",
+          "隔离存货"
+        ],
+        [
+          "Independent umpire laboratory",
+          "独立仲裁实验室"
+        ],
+        [
+          "Moisture adjustment",
+          "水分调整"
+        ],
+        [
+          "Reconciliation statement",
+          "对账说明"
+        ],
+        [
+          "Documentary evidence",
+          "书面证据"
+        ]
+      ]
+    },
+    {
+      "title": "十个高频词组",
+      "english": "Ten essential phrases",
+      "hint": "遮住中文解释英文，再遮住英文口述。",
+      "minutes": 6,
+      "lines": [
+        [
+          "Provisional invoice",
+          "暂定发票"
+        ],
+        [
+          "Final settlement",
+          "最终结算"
+        ],
+        [
+          "Retained sample",
+          "留存样"
+        ],
+        [
+          "Sampling protocol",
+          "取样规程"
+        ],
+        [
+          "Assay tolerance",
+          "化验允许偏差"
+        ],
+        [
+          "Moisture deduction",
+          "水分扣减"
+        ],
+        [
+          "Beneficiary verification",
+          "收款人核验"
+        ],
+        [
+          "Four-eyes approval",
+          "双人复核审批"
+        ],
+        [
+          "Seal register",
+          "封签登记簿"
+        ],
+        [
+          "Document release checklist",
+          "单证放行检查表"
+        ]
+      ]
+    },
+    {
+      "title": "十个核心句",
+      "english": "Ten core sentences",
+      "hint": "每句慢读两次、正常读两次，最后脱稿复述。",
+      "minutes": 8,
+      "lines": [
+        [
+          "We can acknowledge receipt without accepting the final grade.",
+          "我们可以确认收货，但不代表接受最终品位。"
+        ],
+        [
+          "Please keep the disputed bags in a clearly marked area.",
+          "请把有争议的矿袋存放在标识清楚的区域。"
+        ],
+        [
+          "Both parties should witness the sampling procedure.",
+          "双方应共同见证取样程序。"
+        ],
+        [
+          "The retained sample must remain sealed until the dispute is resolved.",
+          "留存样必须保持封存直至争议解决。"
+        ],
+        [
+          "The provisional invoice is not a final settlement statement.",
+          "暂定发票不是最终结算单。"
+        ],
+        [
+          "Please explain the moisture adjustment line by line.",
+          "请逐项解释水分调整。"
+        ],
+        [
+          "We cannot redirect payment based on a messaging-app instruction.",
+          "我们不能仅凭聊天软件指示更改付款去向。"
+        ],
+        [
+          "The bank account must pass independent verification.",
+          "银行账户必须通过独立核验。"
+        ],
+        [
+          "The escort team must record the seal before departure.",
+          "押运队必须在出发前登记封签。"
+        ],
+        [
+          "Release will follow the approved document checklist.",
+          "放行须遵循已批准的单证检查表。"
+        ]
+      ]
+    },
+    {
+      "title": "金额吨位品位汇率口述",
+      "english": "Numbers, weights, grades and FX",
+      "hint": "以下全部为教学假设，先心算后朗读，注意吨与公斤、百分比与百分点的区别。",
+      "minutes": 6,
+      "lines": [
+        [
+          "The hypothetical lot weighs twelve point six metric tonnes.",
+          "假设该批货物重12.6公吨。"
+        ],
+        [
+          "The preliminary grade is twenty-eight point four percent.",
+          "初步品位为28.4%。"
+        ],
+        [
+          "The second assay reads twenty-seven point nine percent.",
+          "第二次化验品位为27.9%。"
+        ],
+        [
+          "The difference is zero point five percentage points, not zero point five percent.",
+          "差异是0.5个百分点，而不是0.5%。"
+        ],
+        [
+          "The exercise price is one hundred and eighty US dollars per tonne-unit.",
+          "练习价格为每吨度180美元。"
+        ],
+        [
+          "At twenty-eight point four units, the illustrative gross price is five thousand one hundred and twelve dollars per tonne.",
+          "按28.4度计算，示例每吨毛价为5,112美元。"
+        ],
+        [
+          "At an assumed exchange rate of one thousand four hundred and eighty francs per dollar, one thousand dollars equals one million four hundred and eighty thousand francs.",
+          "按假设汇率1美元兑1,480法郎，1,000美元等于148万法郎。"
+        ],
+        [
+          "Please read back the weight, grade, unit price and currency before approval.",
+          "审批前请复述重量、品位、吨度价格和币种。"
+        ]
+      ]
+    },
+    {
+      "title": "影子跟读",
+      "english": "Shadowing drill",
+      "hint": "先听完整对话，再延迟半秒跟读，三轮分别为慢速、正常、脱稿。",
+      "minutes": 5,
+      "lines": [
+        [
+          "Buyer: We received the lot, but the assay discrepancy remains open.",
+          "买方：我们已收到这批货，但化验差异仍未解决。"
+        ],
+        [
+          "Supplier: Can you release the provisional amount today?",
+          "供应商：你们今天能支付暂定金额吗？"
+        ],
+        [
+          "Buyer: Only after the quantity is reconciled and the beneficiary is verified.",
+          "买方：只有在数量核对和收款人核验完成后才可以。"
+        ],
+        [
+          "Supplier: Will the retained sample be sent to a third-party lab?",
+          "供应商：留存样会送第三方实验室吗？"
+        ],
+        [
+          "Buyer: Yes, under a jointly signed chain-of-custody form.",
+          "买方：会的，并使用双方签署的样品交接记录。"
+        ],
+        [
+          "Supplier: When can we expect the final statement?",
+          "供应商：何时能收到最终结算单？"
+        ],
+        [
+          "Buyer: We will provide a written timeline after the laboratory confirms receipt.",
+          "买方：实验室确认收样后，我们将提供书面时间表。"
+        ]
+      ]
+    },
+    {
+      "title": "商务寒暄",
+      "english": "Small talk before negotiation",
+      "hint": "保持礼貌但不承诺未经授权的付款。",
+      "minutes": 4,
+      "lines": [
+        [
+          "How was the journey from the collection site?",
+          "从收购点过来一路顺利吗？"
+        ],
+        [
+          "I hope your team had a safe trip.",
+          "希望你们团队一路平安。"
+        ],
+        [
+          "Would you like some water before we review the documents?",
+          "核对文件前要喝点水吗？"
+        ],
+        [
+          "Thank you for bringing the original weighing records.",
+          "感谢你带来原始称重记录。"
+        ],
+        [
+          "We appreciate the long-term relationship and want a transparent resolution.",
+          "我们重视长期合作，希望透明解决问题。"
+        ],
+        [
+          "Shall we agree on today's agenda before discussing the numbers?",
+          "讨论数字前，我们先确认今天的议程好吗？"
+        ]
+      ]
+    },
+    {
+      "title": "矿业业务沟通",
+      "english": "Mineral procurement and assay dispute",
+      "hint": "模拟采购、仓库、实验室三方会议，练习追问与复述。",
+      "minutes": 7,
+      "lines": [
+        [
+          "Procurement: Which bags were included in the composite sample?",
+          "采购：混合样包含哪些矿袋？"
+        ],
+        [
+          "Warehouse: Bags one through twelve were weighed separately.",
+          "仓库：1至12号矿袋分别称重。"
+        ],
+        [
+          "Lab: Was the sampling equipment cleaned between lots?",
+          "实验室：不同批次之间取样设备清洁了吗？"
+        ],
+        [
+          "Procurement: Please show the sampling log and the witness signatures.",
+          "采购：请出示取样日志和见证签名。"
+        ],
+        [
+          "Supplier: Our assay result is higher than yours.",
+          "供应商：我们的化验结果比你们高。"
+        ],
+        [
+          "Procurement: Let us compare methods, moisture basis and sample identifiers first.",
+          "采购：先比较检测方法、水分基准和样品编号。"
+        ],
+        [
+          "Lab: We recommend testing the sealed retained sample at an agreed independent laboratory.",
+          "实验室：建议将封存留存样送至双方认可的独立实验室。"
+        ],
+        [
+          "Procurement: Record any objection in the minutes without changing the original data.",
+          "采购：将异议记入会议纪要，不修改原始数据。"
+        ]
+      ]
+    },
+    {
+      "title": "运输押运与海关",
+      "english": "Transport, escort and customs",
+      "hint": "用口头交接复核封签、路线、文件。",
+      "minutes": 5,
+      "lines": [
+        [
+          "Dispatcher: Please read the container number aloud.",
+          "调度：请大声读出集装箱编号。"
+        ],
+        [
+          "Escort: The seal is intact and its number matches the register.",
+          "押运：封签完好，号码与登记簿一致。"
+        ],
+        [
+          "Dispatcher: Do you have the packing list and transport permit?",
+          "调度：你有装箱单和运输许可证吗？"
+        ],
+        [
+          "Escort: The customs declaration is still awaiting confirmation.",
+          "押运：海关申报仍待确认。"
+        ],
+        [
+          "Dispatcher: Do not represent the shipment as cleared before clearance is confirmed.",
+          "调度：清关确认前不得声称货物已清关。"
+        ],
+        [
+          "Escort: I will report any route change and obtain the required approval.",
+          "押运：路线变化时我会报告并取得必要批准。"
+        ]
+      ]
+    },
+    {
+      "title": "十五分钟高压角色扮演",
+      "english": "Fifteen-minute pressure simulation",
+      "hint": "三个决策点各五分钟：第一分钟听压力，第二分钟口答，第三分钟追问，第四分钟示范，第五分钟脱稿。",
+      "minutes": 15,
+      "lines": [
+        [
+          "Decision one — Supplier: Accept our higher grade now, or we will stop deliveries.",
+          "决策一——供应商：现在接受我们的较高品位，否则停止供货。"
+        ],
+        [
+          "Response: We value your supply, but the final grade must follow the agreed independent test. We can document a provisional position without changing the original assays.",
+          "示范：我们重视供货，但最终品位必须依据约定的独立检测。我们可以记录暂定立场，但不会修改原始化验结果。"
+        ],
+        [
+          "Follow-up: What if the laboratory takes another week?",
+          "追问：如果实验室还需要一周怎么办？"
+        ],
+        [
+          "Response: We will agree on a written timetable and keep the disputed quantity segregated in the meantime.",
+          "示范：我们会约定书面时间表，并在此期间隔离存放争议数量。"
+        ],
+        [
+          "Decision two — Manager: Pay the new bank account immediately; I will approve it later.",
+          "决策二——经理：立即向新银行账户付款，我稍后补批。"
+        ],
+        [
+          "Response: I cannot bypass beneficiary verification or dual approval. I will escalate the urgent request and arrange an independent callback using verified contact details.",
+          "示范：我不能绕过收款人核验或双人审批。我会升级紧急申请，并使用已核实联系方式独立回拨确认。"
+        ],
+        [
+          "Follow-up: Are you refusing a direct instruction?",
+          "追问：你是在拒绝直接指示吗？"
+        ],
+        [
+          "Response: I am protecting the company and the supplier by following the approved payment controls.",
+          "示范：我是在遵守已批准的付款控制，以保护公司和供应商。"
+        ],
+        [
+          "Decision three — Forwarder: The truck is ready. Sign the export checklist even though the seal number differs.",
+          "决策三——货代：卡车已准备好。虽然封签号不一致，你先签出口检查表。"
+        ],
+        [
+          "Response: We must hold release, photograph the seal, compare the source records and obtain written clearance after the discrepancy is resolved.",
+          "示范：我们必须暂停放行，拍摄封签，对照原始记录，并在差异解决后取得书面放行批准。"
+        ],
+        [
+          "Follow-up: The driver says the border will close soon.",
+          "追问：司机说边境马上关闭。"
+        ],
+        [
+          "Response: A deadline does not authorize a false record. I will notify logistics and request a revised departure slot.",
+          "示范：截止时间不能成为虚假记录的理由。我会通知物流并申请调整发车时段。"
+        ]
+      ]
+    },
+    {
+      "title": "五句听写",
+      "english": "Five-sentence dictation",
+      "hint": "每句先隐藏英文听读，再写出英文，对照纠错；本模块不提供外部音频。",
+      "minutes": 4,
+      "lines": [
+        [
+          "The disputed stock remains under controlled storage.",
+          "争议库存仍处于受控仓储状态。"
+        ],
+        [
+          "Please verify the account through a separate channel.",
+          "请通过独立渠道核验账户。"
+        ],
+        [
+          "We need a signed sample transfer record.",
+          "我们需要签署的样品移交记录。"
+        ],
+        [
+          "The provisional amount is subject to adjustment.",
+          "暂定金额可能调整。"
+        ],
+        [
+          "No truck may leave without release authorization.",
+          "未经放行授权，任何卡车不得离开。"
+        ]
+      ]
+    },
+    {
+      "title": "五道口语题",
+      "english": "Five speaking questions",
+      "hint": "每题限时30秒，先独立回答再用示范答案修正。",
+      "minutes": 4,
+      "lines": [
+        [
+          "Question: How would you explain an assay disagreement? Answer: I would compare the sampling method, sample ID and testing basis before proposing an independent retest.",
+          "问题：如何解释化验分歧？示范：我会先比较取样方法、样品编号和检测基准，再建议独立复检。"
+        ],
+        [
+          "Question: Can you pay against an unverified account? Answer: No. I must verify the beneficiary independently and obtain the required approvals.",
+          "问题：能向未核实账户付款吗？示范：不能，必须独立核实收款人并取得必要审批。"
+        ],
+        [
+          "Question: What should an escort do with a broken seal? Answer: Stop, preserve evidence, notify the responsible team and await written instructions.",
+          "问题：押运人员发现封签破损怎么办？示范：停车、保全证据、通知责任团队并等待书面指示。"
+        ],
+        [
+          "Question: What is a provisional invoice? Answer: It records an interim amount that may change after final verification.",
+          "问题：什么是暂定发票？示范：它记录核验完成后可能调整的临时金额。"
+        ],
+        [
+          "Question: How do you keep a difficult meeting constructive? Answer: I acknowledge concerns, summarize verified facts and agree on documented next steps.",
+          "问题：如何让困难会议保持建设性？示范：我认可对方关切、总结已核实事实并约定书面后续步骤。"
+        ]
+      ]
+    },
+    {
+      "title": "前三课复习",
+      "english": "Recent-lesson review",
+      "hint": "复习近期三课：单证、三方对账、取样复检；先遮住英文再说。",
+      "minutes": 3,
+      "lines": [
+        [
+          "A batch-number mismatch requires a documented reconciliation.",
+          "批次号不符需要形成书面对账记录。"
+        ],
+        [
+          "A three-party reconciliation must distinguish confirmed and disputed balances.",
+          "三方对账必须区分已确认余额和争议余额。"
+        ],
+        [
+          "An independent retest must preserve sample traceability.",
+          "独立复检必须保留样品可追溯性。"
+        ],
+        [
+          "An urgent deadline never justifies backdating an export document.",
+          "紧急截止时间绝不能成为倒签出口文件的理由。"
+        ]
+      ]
+    },
+    {
+      "title": "完整工作陈述",
+      "english": "Full workplace briefing",
+      "hint": "连读两遍，第二遍不看英文，控制在约一分钟。",
+      "minutes": 3,
+      "lines": [
+        [
+          "Good morning. Today we received a hypothetical mineral lot with a difference between the preliminary and secondary assay results.",
+          "早上好。今天我们收到一批教学假设矿货，初检与复检结果存在差异。"
+        ],
+        [
+          "The warehouse has segregated the disputed bags and preserved the original weighing and sampling records.",
+          "仓库已隔离争议矿袋，并保留原始称重和取样记录。"
+        ],
+        [
+          "We propose a jointly witnessed transfer of the retained sample to an independent laboratory.",
+          "我们建议双方共同见证，将留存样移交独立实验室。"
+        ],
+        [
+          "Any provisional payment will depend on reconciled quantity, verified beneficiary details and approved controls.",
+          "任何暂定付款都以数量核对、收款人信息核验及审批控制为前提。"
+        ],
+        [
+          "Logistics will check the seal register and export documents before authorizing dispatch.",
+          "物流部门将在授权发车前检查封签登记簿和出口文件。"
+        ],
+        [
+          "I will circulate the meeting minutes, responsible owners and next review date after this meeting.",
+          "会后我会分发会议纪要、责任人及下次复核日期。"
+        ]
+      ]
+    },
+    {
+      "title": "完成清单",
+      "english": "Completion checklist",
+      "hint": "完成后勾选，未完成的模块次日优先复习。",
+      "minutes": 1,
+      "lines": [
+        [
+          "I pronounced all six warm-up expressions clearly.",
+          "我已清晰朗读六个发音热身词组。"
+        ],
+        [
+          "I recalled ten phrases and ten core sentences without looking.",
+          "我已脱稿回忆十个词组和十个核心句。"
+        ],
+        [
+          "I read the illustrative quantities, grades and exchange rate correctly.",
+          "我已正确读出示例重量、品位和汇率。"
+        ],
+        [
+          "I completed all three five-minute pressure decisions.",
+          "我已完成三个五分钟高压决策。"
+        ],
+        [
+          "I checked five dictations and answered five speaking questions.",
+          "我已核对五句听写并回答五道口语题。"
+        ],
+        [
+          "I delivered the final workplace briefing aloud.",
+          "我已口头完成最后的工作陈述。"
+        ]
+      ]
+    }
+  ]
+}
